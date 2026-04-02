@@ -12,6 +12,7 @@ import IdentityCatalog from './components/IdentityCatalog/IdentityCatalog.jsx';
 import EmailCatalog from './components/EmailCatalog/EmailCatalog.jsx';
 import RenewalsCatalog from './components/RenewalsCatalog/RenewalsCatalog.jsx';
 import QuoteCartPanel from './components/QuoteCartPanel/QuoteCartPanel.jsx';
+import ChatBubble from './components/ChatBubble/ChatBubble.jsx';
 
 const SKIN_URL = 'https://watchguard.swoogo.com/impact-2026-apac/10814749';
 
@@ -63,6 +64,9 @@ function App() {
 
       {/* Quote Cart modal overlay */}
       <QuoteCartPanel isOpen={isCartOpen} onClose={() => setIsCartOpen(false)} />
+
+      {/* AI Chat Assistant */}
+      <ChatBubble />
 
       {/* Sticky bottom banner — IMPACT 2026 promo */}
       {isBannerVisible && (
