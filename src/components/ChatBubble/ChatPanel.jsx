@@ -229,7 +229,7 @@ export default function ChatPanel({ onClose }) {
             src={LOTTIE_SRC}
             loop
             autoplay
-            style={{ width: 40, height: 40 }}
+            style={{ width: 56, height: 56 }}
           />
         </div>
         <div className={styles.headerText}>
