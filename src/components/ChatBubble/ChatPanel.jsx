@@ -224,18 +224,17 @@ export default function ChatPanel({ onClose }) {
     <div className={styles.panel}>
       {/* Header */}
       <div className={styles.header}>
-        <div className={styles.headerIconWrap}>
+        <div className={styles.headerLionMask}>
           <DotLottieReact
             src={LOTTIE_SRC}
             loop
             autoplay
-            style={{ width: 32, height: 32 }}
+            style={{ width: 40, height: 40 }}
           />
-          <img src={`${basePath}lion_icon.svg`} alt="" className={styles.headerLion} />
         </div>
         <div className={styles.headerText}>
           <span className={styles.headerTitle}>LionBot</span>
-          <span className={styles.headerSubtitle}>AI Assistant</span>
+          <span className={styles.headerSubtitle}>WatchGuard AI Assistant</span>
         </div>
         <button className={styles.closeBtn} onClick={onClose} aria-label="Close chat">
           <X size={18} weight="bold" />

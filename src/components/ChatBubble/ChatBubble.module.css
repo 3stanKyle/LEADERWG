@@ -4,64 +4,71 @@
   border: none;
   cursor: pointer;
   padding: 0;
-  width: 88px;
-  height: 88px;
+  width: 56px;
+  height: 56px;
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  filter: drop-shadow(0 0 8px rgba(255, 69, 0, 0.3)) drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3));
 }
 
 .lottieButton:hover {
-  transform: scale(1.08);
-}
-
-.lottieButton:hover .glowRing {
-  opacity: 1;
-  border-width: 3px;
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 16px rgba(255, 69, 0, 0.5)) drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4));
 }
 
 .lottieButton:active {
   transform: scale(0.95);
 }
 
-/* Lottie animation sits behind the lion */
-.lottieWrapper {
-  position: absolute;
-  inset: 0;
+/* Lottie clipped to the lion silhouette */
+.lionMask {
+  width: 56px;
+  height: 56px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
+  -webkit-mask-image: url('/lion_icon.svg');
+  mask-image: url('/lion_icon.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
   overflow: hidden;
 }
 
-/* Lion icon centered on top of Lottie */
-.lionOverlay {
-  position: absolute;
-  width: 36px;
-  height: 36px;
-  filter: invert(1) drop-shadow(0 1px 3px rgba(0, 0, 0, 0.5));
-  pointer-events: none;
-  z-index: 2;
-}
-
-/* Rotating glowing ring around the button */
+/* Rotating glow ring that follows the lion shape */
 .glowRing {
   position: absolute;
-  inset: -5px;
-  border-radius: 50%;
-  border: 2px solid transparent;
-  background: conic-gradient(from 0deg, #FF4500, #FF6B35, #E94560, #FF4500) border-box;
-  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  animation: ringRotate 3s linear infinite;
-  opacity: 0.8;
+  inset: -3px;
+  -webkit-mask-image: url('/lion_icon.svg');
+  mask-image: url('/lion_icon.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
   pointer-events: none;
   z-index: 1;
+  animation: ringRotate 3s linear infinite;
+  opacity: 0.7;
+}
+
+.glowRing::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: conic-gradient(from 0deg, #FF4500, #FF6B35, transparent, #E94560, #FF4500);
+  filter: blur(4px);
+}
+
+.lottieButton:hover .glowRing {
+  opacity: 1;
 }
 
 @keyframes ringRotate {
@@ -171,7 +178,7 @@
 /* ── Tooltip ──────────────────────────────────────────────── */
 .tooltip {
   position: absolute;
-  bottom: 96px;
+  bottom: 64px;
   right: 0;
   background: #1e1e2e;
   color: #e0e0e0;
@@ -235,25 +242,22 @@
   flex-shrink: 0;
 }
 
-.headerIconWrap {
+.headerLionMask {
   width: 32px;
   height: 32px;
-  position: relative;
   flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
+  -webkit-mask-image: url('/lion_icon.svg');
+  mask-image: url('/lion_icon.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
   overflow: hidden;
-}
-
-.headerLion {
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  filter: invert(1) drop-shadow(0 0 2px rgba(0, 0, 0, 0.5));
-  z-index: 1;
-  pointer-events: none;
 }
 
 .headerText {
