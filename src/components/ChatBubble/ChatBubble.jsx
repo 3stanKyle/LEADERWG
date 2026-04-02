@@ -72,12 +72,13 @@ export default function ChatBubble() {
         <img src={`${basePath}lion_icon.svg`} alt="" className={styles.lionBase} />
         {/* Lottie animation masked to lion shape — layered on top */}
         <div className={styles.lionMask}>
-          <DotLottieReact
-            src={LOTTIE_SRC}
-            loop
-            autoplay
-            style={{ width: 240, height: 240 }}
-          />
+          <div className={styles.lottieInner}>
+            <DotLottieReact
+              src={LOTTIE_SRC}
+              loop
+              autoplay
+            />
+          </div>
         </div>
       </button>
     </div>

@@ -225,12 +225,13 @@ export default function ChatPanel({ onClose }) {
       {/* Header */}
       <div className={styles.header}>
         <div className={styles.headerLionMask}>
-          <DotLottieReact
-            src={LOTTIE_SRC}
-            loop
-            autoplay
-            style={{ width: 56, height: 56 }}
-          />
+          <div className={styles.headerLottieInner}>
+            <DotLottieReact
+              src={LOTTIE_SRC}
+              loop
+              autoplay
+            />
+          </div>
         </div>
         <div className={styles.headerText}>
           <span className={styles.headerTitle}>LionBot</span>

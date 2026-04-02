@@ -55,12 +55,8 @@
 
 /* Lottie clipped to lion — layered on top of the white base */
 .lionMask {
-  position: relative;
-  width: 56px;
-  height: 56px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: absolute;
+  inset: 0;
   -webkit-mask-image: url('/lion_icon.svg');
   mask-image: url('/lion_icon.svg');
   -webkit-mask-size: contain;
@@ -69,8 +65,17 @@
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  overflow: hidden;
   z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Force Lottie to render large, mask clips it to lion shape */
+.lottieInner {
+  width: 240px;
+  height: 240px;
+  flex-shrink: 0;
 }
 
 /* ── Floating Orb (fallback / header) ─────────────────────── */
@@ -243,9 +248,7 @@
   width: 40px;
   height: 40px;
   flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: relative;
   -webkit-mask-image: url('/lion_icon.svg');
   mask-image: url('/lion_icon.svg');
   -webkit-mask-size: contain;
@@ -254,7 +257,15 @@
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerLottieInner {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
 }
 
 .headerText {
