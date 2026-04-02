@@ -61,7 +61,7 @@ export default function ChatBubble() {
   }
 
   return (
-    <div style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 9999 }}>
+    <div style={{ position: 'fixed', bottom: 40, right: 40, zIndex: 9999 }}>
       {showTooltip && (
         <div className={styles.tooltip}>Ask me anything about WatchGuard</div>
       )}
@@ -76,7 +76,7 @@ export default function ChatBubble() {
             src={LOTTIE_SRC}
             loop
             autoplay
-            style={{ width: 120, height: 120 }}
+            style={{ width: 240, height: 240 }}
           />
         </div>
       </button>
