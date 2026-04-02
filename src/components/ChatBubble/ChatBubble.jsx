@@ -66,6 +66,11 @@ export default function ChatBubble() {
         <div className={styles.tooltip}>Ask me anything about WatchGuard</div>
       )}
       <button className={styles.lottieButton} onClick={handleOpen} aria-label="Open chat assistant">
+        {/* Glow layer — white lion blurred behind everything */}
+        <img src={`${basePath}lion_icon.svg`} alt="" className={styles.lionGlow} />
+        {/* White lion base — shows full shape */}
+        <img src={`${basePath}lion_icon.svg`} alt="" className={styles.lionBase} />
+        {/* Lottie animation masked to lion shape — layered on top */}
         <div className={styles.lionMask}>
           <DotLottieReact
             src={LOTTIE_SRC}

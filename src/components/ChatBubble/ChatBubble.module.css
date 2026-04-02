@@ -11,23 +11,51 @@
   align-items: center;
   justify-content: center;
   transition: transform 0.2s ease;
-  /* Pulsing glow follows the lion shape via drop-shadow */
-  filter: drop-shadow(0 0 6px rgba(255, 69, 0, 0.4)) drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3));
-  animation: lionGlow 3s ease-in-out infinite;
 }
 
 .lottieButton:hover {
   transform: scale(1.1);
-  filter: drop-shadow(0 0 14px rgba(255, 69, 0, 0.7)) drop-shadow(0 0 28px rgba(255, 69, 0, 0.3)) drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4));
-  animation: none;
+}
+
+.lottieButton:hover .lionGlow {
+  opacity: 0.9;
+  filter: invert(1) brightness(2) blur(10px);
 }
 
 .lottieButton:active {
   transform: scale(0.95);
 }
 
-/* Lion stays still — only the Lottie inside moves */
+/* Glow layer — blurred white lion behind everything, pulsing */
+.lionGlow {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  filter: invert(1) brightness(1.5) blur(6px);
+  opacity: 0.6;
+  pointer-events: none;
+  z-index: 0;
+  animation: lionPulse 3s ease-in-out infinite;
+}
+
+@keyframes lionPulse {
+  0%, 100% { opacity: 0.5; filter: invert(1) brightness(1.5) blur(6px); }
+  50%      { opacity: 0.8; filter: invert(1) brightness(2) blur(10px); }
+}
+
+/* White lion base — shows full shape behind the Lottie */
+.lionBase {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  filter: invert(1);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Lottie clipped to lion — layered on top of the white base */
 .lionMask {
+  position: relative;
   width: 56px;
   height: 56px;
   display: flex;
@@ -42,16 +70,7 @@
   -webkit-mask-position: center;
   mask-position: center;
   overflow: hidden;
-}
-
-/* Pulsing glow that follows the lion outline via drop-shadow on parent */
-@keyframes lionGlow {
-  0%, 100% {
-    filter: drop-shadow(0 0 6px rgba(255, 69, 0, 0.4)) drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3));
-  }
-  50% {
-    filter: drop-shadow(0 0 12px rgba(255, 69, 0, 0.6)) drop-shadow(0 0 24px rgba(255, 69, 0, 0.25)) drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3));
-  }
+  z-index: 2;
 }
 
 /* ── Floating Orb (fallback / header) ─────────────────────── */
