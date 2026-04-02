@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { ChatCircleDots } from '@phosphor-icons/react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 import styles from './ChatBubble.module.css';
 import ChatPanel from './ChatPanel.jsx';
 
 const API_BASE = import.meta.env.VITE_API_URL || '/api';
 const TOOLTIP_KEY = 'wg-chat-tooltip-dismissed';
+const LOTTIE_SRC = 'https://lottie.host/e4798cd5-40da-40e7-9f18-7e62bda08ddb/RpxyXDRRVc.lottie';
 
 export default function ChatBubble() {
   const [isOpen, setIsOpen] = useState(false);
@@ -63,8 +64,13 @@ export default function ChatBubble() {
       {showTooltip && (
         <div className={styles.tooltip}>Ask me anything about WatchGuard</div>
       )}
-      <button className={styles.bubble} onClick={handleOpen} aria-label="Open chat assistant">
-        <ChatCircleDots size={26} weight="fill" className={styles.bubbleIcon} />
+      <button className={styles.lottieButton} onClick={handleOpen} aria-label="Open chat assistant">
+        <DotLottieReact
+          src={LOTTIE_SRC}
+          loop
+          autoplay
+          style={{ width: 72, height: 72 }}
+        />
       </button>
     </div>
   );

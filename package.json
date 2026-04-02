@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.82.0",
+    "@lottiefiles/dotlottie-react": "^0.18.9",
     "@phosphor-icons/react": "^2.1.7",
     "better-sqlite3": "^12.6.2",
     "cors": "^2.8.6",

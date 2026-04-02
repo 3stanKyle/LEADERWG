@@ -294,8 +294,16 @@ function initChat(db) {
       res.write(`data: ${JSON.stringify({ type: 'message_stop' })}\n\n`);
       res.end();
     } catch (err) {
-      console.error('Chat error:', err.message);
-      res.write(`data: ${JSON.stringify({ type: 'error', error: 'Something went wrong. Please try again.' })}\n\n`);
+      console.error('Chat error:', err.status, err.message);
+      let userMessage = 'Something went wrong. Please try again.';
+      if (err.status === 400 && err.message?.includes('credit balance')) {
+        userMessage = 'The AI assistant is temporarily unavailable (billing issue). Please try again later.';
+      } else if (err.status === 401) {
+        userMessage = 'The AI assistant is not configured correctly. Please contact support.';
+      } else if (err.status === 429) {
+        userMessage = 'Too many requests — please wait a moment and try again.';
+      }
+      res.write(`data: ${JSON.stringify({ type: 'error', error: userMessage })}\n\n`);
       res.end();
     }
   }
