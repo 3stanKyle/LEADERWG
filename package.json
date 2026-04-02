@@ -16,6 +16,7 @@
     "railway:build": "npm run seed && npm run build"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
     "@phosphor-icons/react": "^2.1.7",
     "better-sqlite3": "^12.6.2",
     "cors": "^2.8.6",
