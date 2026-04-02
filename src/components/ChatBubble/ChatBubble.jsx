@@ -76,7 +76,7 @@ export default function ChatBubble() {
             src={LOTTIE_SRC}
             loop
             autoplay
-            style={{ width: 80, height: 80 }}
+            style={{ width: 120, height: 120 }}
           />
         </div>
       </button>
