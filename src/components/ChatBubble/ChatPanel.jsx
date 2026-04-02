@@ -1,8 +1,11 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { X, PaperPlaneRight } from '@phosphor-icons/react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 import styles from './ChatBubble.module.css';
 
 const API_BASE = import.meta.env.VITE_API_URL || '/api';
+const LOTTIE_SRC = 'https://lottie.host/e4798cd5-40da-40e7-9f18-7e62bda08ddb/RpxyXDRRVc.lottie';
+const basePath = import.meta.env.BASE_URL || '/';
 
 const WELCOME_MESSAGE = {
   role: 'assistant',
@@ -221,8 +224,19 @@ export default function ChatPanel({ onClose }) {
     <div className={styles.panel}>
       {/* Header */}
       <div className={styles.header}>
-        <div className={styles.headerOrb} />
-        <span className={styles.headerTitle}>WatchGuard Assistant</span>
+        <div className={styles.headerIconWrap}>
+          <DotLottieReact
+            src={LOTTIE_SRC}
+            loop
+            autoplay
+            style={{ width: 32, height: 32 }}
+          />
+          <img src={`${basePath}lion_icon.svg`} alt="" className={styles.headerLion} />
+        </div>
+        <div className={styles.headerText}>
+          <span className={styles.headerTitle}>LionBot</span>
+          <span className={styles.headerSubtitle}>AI Assistant</span>
+        </div>
         <button className={styles.closeBtn} onClick={onClose} aria-label="Close chat">
           <X size={18} weight="bold" />
         </button>

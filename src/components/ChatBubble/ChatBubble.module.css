@@ -4,21 +4,69 @@
   border: none;
   cursor: pointer;
   padding: 0;
+  width: 88px;
+  height: 88px;
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  transition: transform 0.2s ease, filter 0.2s ease;
-  filter: drop-shadow(0 0 12px rgba(255, 69, 0, 0.4)) drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+  transition: transform 0.2s ease;
 }
 
 .lottieButton:hover {
-  transform: scale(1.12);
-  filter: drop-shadow(0 0 20px rgba(255, 69, 0, 0.6)) drop-shadow(0 6px 12px rgba(0, 0, 0, 0.4));
+  transform: scale(1.08);
+}
+
+.lottieButton:hover .glowRing {
+  opacity: 1;
+  border-width: 3px;
 }
 
 .lottieButton:active {
   transform: scale(0.95);
+}
+
+/* Lottie animation sits behind the lion */
+.lottieWrapper {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+/* Lion icon centered on top of Lottie */
+.lionOverlay {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  filter: invert(1) drop-shadow(0 1px 3px rgba(0, 0, 0, 0.5));
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Rotating glowing ring around the button */
+.glowRing {
+  position: absolute;
+  inset: -5px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  background: conic-gradient(from 0deg, #FF4500, #FF6B35, #E94560, #FF4500) border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: ringRotate 3s linear infinite;
+  opacity: 0.8;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes ringRotate {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
 }
 
 /* ── Floating Orb (fallback / header) ─────────────────────── */
@@ -123,7 +171,7 @@
 /* ── Tooltip ──────────────────────────────────────────────── */
 .tooltip {
   position: absolute;
-  bottom: 68px;
+  bottom: 96px;
   right: 0;
   background: #1e1e2e;
   color: #e0e0e0;
@@ -187,22 +235,48 @@
   flex-shrink: 0;
 }
 
-.headerOrb {
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  background:
-    radial-gradient(circle at 35% 35%, rgba(255, 255, 255, 0.2) 0%, transparent 50%),
-    radial-gradient(circle at 50% 50%, #FF6B35 0%, #FF4500 60%, #E94560 100%);
-  box-shadow: 0 0 8px rgba(255, 69, 0, 0.4);
+.headerIconWrap {
+  width: 32px;
+  height: 32px;
+  position: relative;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.headerLion {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  filter: invert(1) drop-shadow(0 0 2px rgba(0, 0, 0, 0.5));
+  z-index: 1;
+  pointer-events: none;
+}
+
+.headerText {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
 }
 
 .headerTitle {
-  flex: 1;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 700;
   color: #e0e0e0;
+  line-height: 1.2;
+}
+
+.headerSubtitle {
+  font-size: 10px;
+  color: #FF6B35;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1.2;
 }
 
 .closeBtn {

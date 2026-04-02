@@ -6,6 +6,7 @@ import ChatPanel from './ChatPanel.jsx';
 const API_BASE = import.meta.env.VITE_API_URL || '/api';
 const TOOLTIP_KEY = 'wg-chat-tooltip-dismissed';
 const LOTTIE_SRC = 'https://lottie.host/e4798cd5-40da-40e7-9f18-7e62bda08ddb/RpxyXDRRVc.lottie';
+const basePath = import.meta.env.BASE_URL || '/';
 
 export default function ChatBubble() {
   const [isOpen, setIsOpen] = useState(false);
@@ -65,11 +66,22 @@ export default function ChatBubble() {
         <div className={styles.tooltip}>Ask me anything about WatchGuard</div>
       )}
       <button className={styles.lottieButton} onClick={handleOpen} aria-label="Open chat assistant">
-        <DotLottieReact
-          src={LOTTIE_SRC}
-          loop
-          autoplay
-          style={{ width: 72, height: 72 }}
+        {/* Rotating glow ring */}
+        <div className={styles.glowRing} />
+        {/* Lottie animation background */}
+        <div className={styles.lottieWrapper}>
+          <DotLottieReact
+            src={LOTTIE_SRC}
+            loop
+            autoplay
+            style={{ width: 88, height: 88 }}
+          />
+        </div>
+        {/* Lion icon overlay */}
+        <img
+          src={`${basePath}lion_icon.svg`}
+          alt=""
+          className={styles.lionOverlay}
         />
       </button>
     </div>
