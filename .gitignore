@@ -11,3 +11,6 @@ server/products.db-shm
 .playwright-mcp/
 .gstack/
 .worktrees/
+.claude/
+.superpowers/
+docs/

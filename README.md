@@ -33,6 +33,7 @@ The app features a full-page background "skin" promoting WatchGuard events (curr
 | Database | SQLite via `better-sqlite3` |
 | Icons | Phosphor Icons |
 | PDF export | jsPDF + jsPDF-AutoTable |
+| AI chatbot | OpenRouter API (Gemini Flash) with tool-calling |
 | Production hosting | Railway (Node.js + SQLite) |
 | Staging preview | GitHub Pages (static JSON, no backend) |
 
@@ -116,6 +117,10 @@ See [Deploying to GitHub Pages (Staging)](#deploying-to-github-pages-staging) fo
 │   │   ├── EmailCatalog/                  # Email Security tab
 │   │   ├── MdrNdrCatalog/                 # MDR & XDR tab
 │   │   ├── TopLevelNav/                   # Navigation bar
+│   │   ├── ChatBubble/                    # AI chatbot (LionBot)
+│   │   │   ├── ChatBubble.jsx             # Floating orb + health check
+│   │   │   ├── ChatBubble.module.css      # Orb + panel styles
+│   │   │   └── ChatPanel.jsx              # Chat UI with SSE streaming
 │   │   ├── QuoteCartPanel/                # Quote cart + PDF export
 │   │   └── ...
 │   ├── hooks/
@@ -136,12 +141,14 @@ See [Deploying to GitHub Pages (Staging)](#deploying-to-github-pages-staging) fo
 │           └── wifi.js                    # Wi-Fi AP SKU codes
 │
 ├── server/
-│   ├── index.js                           # Express API (4 endpoints)
+│   ├── index.js                           # Express API (4 endpoints + chat)
+│   ├── chat.js                            # AI chatbot — OpenRouter + tool-calling + SSE
 │   ├── seed.js                            # Builds SQLite DB from CSV sources
 │   ├── db.js                              # SQLite schema
 │   ├── products.db                        # Auto-generated database (do not edit)
 │   └── data/
-│       └── product-catalog.csv            # ★ ALL 1,262 SKUs — structure, URLs, grouping
+│       ├── product-catalog.csv            # ★ ALL 1,262 SKUs — structure, URLs, grouping
+│       └── watchguard-knowledge.md        # WatchGuard knowledge base for chatbot system prompt
 │
 ├── scripts/
 │   ├── export-static-data.cjs            # DB → static JSON for GitHub Pages
@@ -413,3 +420,40 @@ npm run preview
 | Firebox Tabletop (T-Series) | T25-W, T45-PoE, T45-W-PoE, T45-CW, T115-W, T125, T125-W, T145, T145-W, T185 |
 | Firebox Rackmount (M-Series) | M290, M295, M390, M395, M495, M590, M595, M690, M695, M4800, M5800 |
 | Wi-Fi 6 Access Points | AP130, AP230W, AP330, AP332CR, AP430CR, AP432 |
+
+---
+
+## AI Chatbot (LionBot)
+
+The app includes an AI-powered product assistant that helps users find products, compare options, and build quotes through natural conversation.
+
+### How it works
+
+- **Frontend**: A floating chat orb (bottom-right corner) opens a chat panel with streaming markdown responses. Only appears when the backend is available (health check on `/api/health`).
+- **Backend**: `server/chat.js` handles chat via SSE streaming. Uses the OpenRouter API (OpenAI-compatible format) with tool-calling against the SQLite product database.
+- **Default model**: `google/gemini-2.5-flash` — configurable via `CHAT_MODEL` env var.
+
+### Chat tools
+
+The chatbot can call these tools to query the product database and take actions:
+
+| Tool | What it does |
+|------|-------------|
+| `search_products` | Search products by name, SKU, or keyword |
+| `get_product_details` | Get full specs, pricing, and subscription options for a product |
+| `get_category_products` | List all products in a category |
+| `compare_products` | Side-by-side comparison of two products |
+| `add_to_cart` | Add a product to the quote cart |
+| `remove_from_cart` | Remove an item from the quote cart |
+| `show_cart` | Open the quote cart panel |
+| `navigate_to` | Navigate to a specific product or category page |
+
+### Environment variables
+
+| Variable | Default | Purpose |
+|----------|---------|---------|
+| `OPENROUTER_API_KEY` | *(required)* | API key for OpenRouter |
+| `CHAT_MODEL` | `google/gemini-2.5-flash` | LLM model to use (must support tool-calling) |
+| `CHAT_API_URL` | `https://openrouter.ai/api/v1/chat/completions` | API endpoint |
+
+The chatbot is only available when the Express backend is running (production on Railway, or local dev). It does not appear on the GitHub Pages staging site.
