@@ -1,10 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { X, PaperPlaneRight } from '@phosphor-icons/react';
-import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+import { X, PaperPlaneRight, ArrowCounterClockwise } from '@phosphor-icons/react';
+import { useNavigate } from 'react-router-dom';
+import { useQuote } from '../../context/QuoteContext.jsx';
 import styles from './ChatBubble.module.css';
 
 const API_BASE = import.meta.env.VITE_API_URL || '/api';
-const LOTTIE_SRC = 'https://lottie.host/e4798cd5-40da-40e7-9f18-7e62bda08ddb/RpxyXDRRVc.lottie';
 const basePath = import.meta.env.BASE_URL || '/';
 
 const WELCOME_MESSAGE = {
@@ -34,8 +34,8 @@ function renderMarkdown(text) {
     let remaining = str;
     let i = 0;
 
-    // Process inline formatting: **bold**, *italic*, `code`
-    const regex = /(\*\*(.+?)\*\*|\*(.+?)\*|`(.+?)`)/g;
+    // Process inline formatting: **bold**, *italic*, `code`, [link](/route)
+    const regex = /(\*\*(.+?)\*\*|\*(.+?)\*|`(.+?)`|\[(.+?)\]\((\/[^\)]*)\))/g;
     let lastIndex = 0;
     let match;
 
@@ -49,6 +49,14 @@ function renderMarkdown(text) {
         parts.push(<em key={i++}>{match[3]}</em>);
       } else if (match[4]) {
         parts.push(<code key={i++}>{match[4]}</code>);
+      } else if (match[5] && match[6]) {
+        // Internal route link [label](/route)
+        parts.push(
+          <a key={i++} href={match[6]} className={styles.navLink} onClick={(e) => {
+            e.preventDefault();
+            window.__chatNavigate?.(match[6]);
+          }}>{match[5]}</a>
+        );
       }
       lastIndex = regex.lastIndex;
     }
@@ -92,6 +100,14 @@ function renderMarkdown(text) {
   return elements;
 }
 
+// ── Suggested starter questions ─────────────────────────────
+const SUGGESTED_QUESTIONS = [
+  'What firebox is best for a 50-person office?',
+  'Compare the T45 vs T85',
+  'What endpoint security options are available?',
+  'Show me Wi-Fi access point pricing',
+];
+
 // Load/save conversation from sessionStorage
 const STORAGE_KEY = 'wg-chat-history';
 
@@ -109,7 +125,15 @@ function saveHistory(messages) {
   } catch { /* ignore */ }
 }
 
-export default function ChatPanel({ onClose }) {
+export default function ChatPanel({ onClose, onOpenCart }) {
+  const { addItem, removeItemBySku, state: quoteState } = useQuote();
+  const navigate = useNavigate();
+
+  // Expose navigate for markdown link clicks
+  useEffect(() => {
+    window.__chatNavigate = navigate;
+    return () => { delete window.__chatNavigate; };
+  }, [navigate]);
   const [messages, setMessages] = useState(loadHistory);
   const [input, setInput] = useState('');
   const [isStreaming, setIsStreaming] = useState(false);
@@ -131,8 +155,8 @@ export default function ChatPanel({ onClose }) {
     inputRef.current?.focus();
   }, []);
 
-  async function handleSend() {
-    const text = input.trim();
+  async function handleSend(overrideText) {
+    const text = (overrideText || input).trim();
     if (!text || isStreaming) return;
 
     const userMsg = { role: 'user', content: text };
@@ -147,14 +171,29 @@ export default function ChatPanel({ onClose }) {
       .map(m => ({ role: m.role, content: m.content }));
 
     try {
+      // Send current cart contents so the AI knows what's in the cart
+      const cartItems = quoteState.items.map(item => ({
+        sku: item.sku,
+        name: item.name,
+        quantity: item.quantity,
+        unitPrice: item.unitPrice,
+      }));
+
       const res = await fetch(`${API_BASE}/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: apiMessages }),
+        body: JSON.stringify({ messages: apiMessages, cartItems }),
       });
 
       if (!res.ok) {
-        throw new Error(`Server error: ${res.status}`);
+        let errMsg = 'Something went wrong. Please try again.';
+        try {
+          const errData = await res.json();
+          if (errData.error) errMsg = errData.error;
+        } catch { /* not JSON */ }
+        setMessages(prev => [...prev, { role: 'assistant', content: errMsg }]);
+        setIsStreaming(false);
+        return;
       }
 
       // Read SSE stream
@@ -185,6 +224,19 @@ export default function ChatPanel({ onClose }) {
                 }
                 return [...prev, { role: 'assistant', content: assistantText, _streaming: true }];
               });
+            } else if (event.type === 'cart_action' && event.action === 'add') {
+              addItem(event.item);
+              setTimeout(() => onOpenCart?.(), 600);
+            } else if (event.type === 'cart_action' && event.action === 'remove') {
+              removeItemBySku(event.sku);
+            } else if (event.type === 'cart_action' && event.action === 'replace') {
+              removeItemBySku(event.old_sku);
+              addItem(event.item);
+              setTimeout(() => onOpenCart?.(), 600);
+            } else if (event.type === 'cart_action' && event.action === 'show') {
+              setTimeout(() => onOpenCart?.(), 300);
+            } else if (event.type === 'navigate') {
+              navigate(event.route);
             } else if (event.type === 'error') {
               assistantText = event.error;
               setMessages(prev => [...prev, { role: 'assistant', content: assistantText }]);
@@ -204,13 +256,22 @@ export default function ChatPanel({ onClose }) {
         });
       }
     } catch (err) {
+      const errMsg = err.message?.includes('Failed to fetch')
+        ? "Can't reach the server — it may be offline. Please check your connection and try again."
+        : "Sorry, something went wrong. Please try again.";
       setMessages(prev => [...prev, {
         role: 'assistant',
-        content: "Sorry, I couldn't connect to the server. Please try again.",
+        content: errMsg,
       }]);
     } finally {
       setIsStreaming(false);
     }
+  }
+
+  function handleClear() {
+    setMessages([WELCOME_MESSAGE]);
+    setInput('');
+    saveHistory([WELCOME_MESSAGE]);
   }
 
   function handleKeyDown(e) {
@@ -224,19 +285,23 @@ export default function ChatPanel({ onClose }) {
     <div className={styles.panel}>
       {/* Header */}
       <div className={styles.header}>
-        <div className={styles.headerLionMask}>
-          <div className={styles.headerLottieInner}>
-            <DotLottieReact
-              src={LOTTIE_SRC}
-              loop
-              autoplay
-            />
-          </div>
+        <div className={styles.headerIcon}>
+          <div className={styles.headerIconSphere} />
+          <img src={`${basePath}lion_icon.svg`} alt="" className={styles.headerIconLion} />
         </div>
         <div className={styles.headerText}>
           <span className={styles.headerTitle}>LionBot</span>
           <span className={styles.headerSubtitle}>WatchGuard AI Assistant</span>
         </div>
+        <button
+          className={styles.closeBtn}
+          onClick={handleClear}
+          disabled={isStreaming || messages.length <= 1}
+          aria-label="New chat"
+          title="New chat"
+        >
+          <ArrowCounterClockwise size={16} weight="bold" />
+        </button>
         <button className={styles.closeBtn} onClick={onClose} aria-label="Close chat">
           <X size={18} weight="bold" />
         </button>
@@ -249,6 +314,18 @@ export default function ChatPanel({ onClose }) {
             {msg.role === 'assistant' ? renderMarkdown(msg.content) : msg.content}
           </div>
         ))}
+
+        {/* Suggested questions — show only when just the welcome message exists */}
+        {messages.length === 1 && messages[0] === WELCOME_MESSAGE && !isStreaming && (
+          <div className={styles.suggestions}>
+            {SUGGESTED_QUESTIONS.map((q, i) => (
+              <button key={i} className={styles.suggestionChip} onClick={() => handleSend(q)}>
+                {q}
+              </button>
+            ))}
+          </div>
+        )}
+
         {isStreaming && !messages[messages.length - 1]?._streaming && (
           <div className={styles.typing}>
             <div className={styles.typingDot} />
@@ -273,7 +350,7 @@ export default function ChatPanel({ onClose }) {
         />
         <button
           className={styles.sendBtn}
-          onClick={handleSend}
+          onClick={() => handleSend()}
           disabled={isStreaming || !input.trim()}
           aria-label="Send message"
         >

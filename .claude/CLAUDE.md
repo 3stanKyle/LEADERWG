@@ -53,17 +53,19 @@ The `/` route uses `src/components/ProductCatalog/hooks/useProductData.js` which
 ### ApplianceRenewals — merges multiple categories
 `useApplianceRenewals` and `useRenewalsData` each fetch from multiple API categories (renewals + tabletop + mseries) and merge the lookups, because renewal SKUs for a given model may live in different database categories.
 
-## Dual Deployment
+## Deployment (Three Environments)
 
-The app runs in two modes with identical UX:
-- **Local dev**: Express API on port 3001, Vite proxies `/api` requests
-- **GitHub Pages**: No backend. `useCatalogApi` falls back to `public/static-data/*.json`
+| Environment | Platform | Backend | Base path |
+|-------------|----------|---------|-----------|
+| **Local dev** | Vite + Express | Express on port 3001, Vite proxies `/api` | `/` |
+| **Production** | Railway | Express + SQLite, serves built frontend | `/` |
+| **Staging** | GitHub Pages | None — static JSON fallback | `/LEADERWG/` |
 
-Static JSON must be committed before pushing. GitHub Actions runs `npm ci` + `npm run build` but does NOT run `export-data`.
+`useCatalogApi` tries the Express API first, then falls back to `public/static-data/*.json`. Static JSON must be committed before pushing to GitHub Pages. GitHub Actions runs `npm ci` + `npm run build` but does NOT run `export-data`. Railway runs `npm run railway:build` (seeds DB + builds frontend) and `npm start`.
 
 ## Key Patterns
 
-- **Vite base path**: `/LEADERWG/` (configured in `vite.config.mjs`). All routes are relative to this.
+- **Vite base path**: Defaults to `/` for Railway production. Set `VITE_BASE_PATH=/LEADERWG/` for GitHub Pages staging. Configured in `vite.config.mjs`.
 - **Quote cart**: `QuoteContext.jsx` (React Context + useReducer). Persists across tabs. `addItem({ sku, name, description, unitPrice })` is the standard interface. PDF export via jsPDF.
 - **`formatPrice(null)` returns `'TBC'`** — when data is loading, all lookups return null. Always guard with a loading check before rendering prices, or users see a flash of "TBC" on every price.
 - **seed.js parses CSV from both ends** — `fields[0]` and `fields[1]` from the left, `fields[-1]`, `fields[-2]`, etc. from the right. This handles unquoted prices with commas (e.g. `$2,300.00`) that split into extra fields. If you change CSV columns, understand this parser.
@@ -84,3 +86,28 @@ Static JSON must be committed before pushing. GitHub Actions runs `npm ci` + `np
 - The `dist/` directory is gitignored. Don't try to commit build artifacts.
 - Backend files use CommonJS (`require`/`module.exports`). Frontend files use ESM (`import`/`export`). `featureSpecs.shared.cjs` is CJS because it's shared by both.
 - When creating git worktrees, use `.worktrees/` directory (already in `.gitignore`).
+
+## AI Chatbot (LionBot)
+
+`server/chat.js` — an agentic AI product assistant using OpenRouter API (OpenAI-compatible format). Has tool-calling against the SQLite database and can perform actions on the frontend (cart management, page navigation). Responses stream via SSE.
+
+### Backend (`server/chat.js`)
+- **API**: OpenRouter at `https://openrouter.ai/api/v1/chat/completions`. `OPENROUTER_API_KEY` env var required (set in `.env`, gitignored).
+- **Model**: Defaults to `google/gemini-2.5-flash`. Override with `CHAT_MODEL` env var. Must support OpenAI-format tool calling.
+- **System prompt**: Built from `server/data/watchguard-knowledge.md` + auto-generated catalog summary from the database. Includes cross-sell/upsell instructions and action-oriented behavior rules.
+- **Tool declarations** (OpenAI function format): `search_products`, `get_product_details`, `get_category_products`, `compare_products`, `add_to_cart`, `remove_from_cart`, `show_cart`, `navigate_to`.
+- **Tool loop**: Non-streaming for tool-calling iterations (fast round-trips), streaming for the final text response (token-by-token). Cart/navigation actions are buffered and emitted after text completes so they appear simultaneously.
+- **SSE event types**: `text_delta` (streamed text), `cart_action` (add/remove/show), `navigate` (route change), `error` (user-facing error message), `message_stop` (end of response).
+- `tool_choice: 'auto'` is required — without it, some models (e.g. Gemini Flash via OpenRouter) won't call tools.
+
+### Frontend (`src/components/ChatBubble/`)
+- **ChatBubble.jsx**: Floating orb button (bottom-right). Only renders when `/api/health` returns `chat: true`. Passes `onOpenCart` callback from App.jsx.
+- **ChatPanel.jsx**: Chat UI with SSE streaming, markdown rendering, and action handling. Uses `useQuote()` for cart operations and `useNavigate()` for page routing.
+- **Cart integration**: `addItem()` for adds, `removeItemBySku(sku)` for removes (handles `NWG-` prefix matching). `show_cart` opens the QuoteCartPanel.
+- **Navigation**: `navigate_to` tool changes the app route. Markdown links like `[View MDR](/mdr-ndr)` render as clickable links via `window.__chatNavigate`.
+- **Conversation history**: Stored in `sessionStorage`. Reset button (↺) clears history and starts fresh.
+- **Suggested questions**: 4 starter chips shown on welcome screen, disappear after first message.
+- The chatbot is backend-only — on GitHub Pages (no Express), the bubble won't appear.
+
+### SKU Format Gotcha
+The database has two SKU fields: `sku_code` (e.g. `WGMDR30101`) and `full_sku` (e.g. `NWG-WGMDR30101`). The cart stores `full_sku`. The `removeItemBySku` reducer handles flexible matching between both formats. The `addToCart` function in chat.js always returns `full_sku`. The `removeFromCart` function resolves the SKU against the database before sending to the frontend.

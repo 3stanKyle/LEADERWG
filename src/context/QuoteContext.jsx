@@ -15,6 +15,7 @@ const initialState = {
 const ACTIONS = {
   ADD_ITEM: 'ADD_ITEM',
   REMOVE_ITEM: 'REMOVE_ITEM',
+  REMOVE_ITEM_BY_SKU: 'REMOVE_ITEM_BY_SKU',
   UPDATE_QUANTITY: 'UPDATE_QUANTITY',
   CLEAR_CART: 'CLEAR_CART',
   SET_CUSTOMER_INFO: 'SET_CUSTOMER_INFO',
@@ -58,6 +59,18 @@ function quoteReducer(state, action) {
       return {
         ...state,
         items: state.items.filter((item) => item.id !== action.payload.id),
+      };
+    }
+
+    case ACTIONS.REMOVE_ITEM_BY_SKU: {
+      const sku = action.payload.sku;
+      return {
+        ...state,
+        items: state.items.filter((item) =>
+          item.sku !== sku &&
+          item.sku !== `NWG-${sku}` &&
+          item.sku.replace('NWG-', '') !== sku
+        ),
       };
     }
 
@@ -117,6 +130,10 @@ export function QuoteProvider({ children }) {
     dispatch({ type: ACTIONS.REMOVE_ITEM, payload: { id } });
   }, []);
 
+  const removeItemBySku = useCallback((sku) => {
+    dispatch({ type: ACTIONS.REMOVE_ITEM_BY_SKU, payload: { sku } });
+  }, []);
+
   const updateQuantity = useCallback((id, quantity) => {
     dispatch({ type: ACTIONS.UPDATE_QUANTITY, payload: { id, quantity } });
   }, []);
@@ -153,6 +170,7 @@ export function QuoteProvider({ children }) {
     },
     addItem,
     removeItem,
+    removeItemBySku,
     updateQuantity,
     clearCart,
     setCustomerInfo,

@@ -66,7 +66,7 @@ function App() {
       <QuoteCartPanel isOpen={isCartOpen} onClose={() => setIsCartOpen(false)} />
 
       {/* AI Chat Assistant */}
-      <ChatBubble />
+      <ChatBubble onOpenCart={() => setIsCartOpen(true)} />
 
       {/* Sticky bottom banner — IMPACT 2026 promo */}
       {isBannerVisible && (
