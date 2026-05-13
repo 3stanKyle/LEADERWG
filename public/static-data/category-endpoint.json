@@ -2,7 +2,7 @@
   "label": "Endpoint & Mobile",
   "products": [
     {
-      "id": 45,
+      "id": 120,
       "slug": "Advanced EPDR",
       "name": "Advanced EPDR",
       "family": "Endpoint & Mobile",
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 123,
       "slug": "Advanced Reporting Tool",
       "name": "Advanced Reporting Tool",
       "family": "Endpoint & Mobile",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 124,
       "slug": "DNSWatchGO",
       "name": "DNSWatchGO",
       "family": "Endpoint & Mobile",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 118,
       "slug": "EDR",
       "name": "EDR",
       "family": "Endpoint & Mobile",
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 119,
       "slug": "EPDR",
       "name": "EPDR",
       "family": "Endpoint & Mobile",
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 117,
       "slug": "EPP",
       "name": "EPP",
       "family": "Endpoint & Mobile",
@@ -992,7 +992,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 121,
       "slug": "Full Encryption",
       "name": "Full Encryption",
       "family": "Endpoint & Mobile",
@@ -1157,7 +1157,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 127,
       "slug": "Panda AD360",
       "name": "Panda AD360",
       "family": "Endpoint & Mobile",
@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 126,
       "slug": "Panda EPP+",
       "name": "Panda EPP+",
       "family": "Endpoint & Mobile",
@@ -1421,7 +1421,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 128,
       "slug": "Panda Patch Management",
       "name": "Panda Patch Management",
       "family": "Endpoint & Mobile",
@@ -1630,7 +1630,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 125,
       "slug": "Passport",
       "name": "Passport",
       "family": "Endpoint & Mobile",
@@ -1795,7 +1795,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 122,
       "slug": "Patch Management",
       "name": "Patch Management",
       "family": "Endpoint & Mobile",

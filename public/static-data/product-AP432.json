@@ -1,5 +1,5 @@
 {
-  "id": 6,
+  "id": 81,
   "slug": "AP432",
   "name": "WatchGuard AP432",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "High-density 4x4 AP for large campuses",
   "image_file": "AP432.jpg",
   "appliance": {
-    "id": 41,
+    "id": 1303,
     "sku_code": "WGA432000",
     "full_sku": "NWG-WGA432000",
     "name": "WatchGuard AP432 Appliance Only",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 46,
+      "id": 1308,
       "sku_code": "WGA43222101",
       "full_sku": "NWG-WGA43222101",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 1-year",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 47,
+      "id": 1309,
       "sku_code": "WGA43222103",
       "full_sku": "NWG-WGA43222103",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 3-year",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 48,
+      "id": 1310,
       "sku_code": "WGA43222105",
       "full_sku": "NWG-WGA43222105",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 5-year",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 43,
+      "id": 1305,
       "sku_code": "WGA43222001",
       "full_sku": "NWG-WGA43222001",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 1-year",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 44,
+      "id": 1306,
       "sku_code": "WGA43222003",
       "full_sku": "NWG-WGA43222003",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 3-year",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 45,
+      "id": 1307,
       "sku_code": "WGA43222005",
       "full_sku": "NWG-WGA43222005",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 5-year",
@@ -96,7 +96,7 @@
   "highAvailability": [],
   "activationBundles": [
     {
-      "id": 42,
+      "id": 1304,
       "sku_code": "WGA43203309",
       "full_sku": "NWG-WGA43203309",
       "name": "Points Activation Bundle for WatchGuard AP432",

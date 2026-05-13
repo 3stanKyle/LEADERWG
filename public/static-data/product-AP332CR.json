@@ -1,5 +1,5 @@
 {
-  "id": 4,
+  "id": 79,
   "slug": "AP332CR",
   "name": "WatchGuard AP332CR",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Rugged outdoor AP for retail and manufacturing",
   "image_file": "AP332CER.jpg",
   "appliance": {
-    "id": 25,
+    "id": 1287,
     "sku_code": "WGA332000",
     "full_sku": "NWG-WGA332000",
     "name": "WatchGuard AP332CR Appliance Only",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 30,
+      "id": 1292,
       "sku_code": "WGA33222101",
       "full_sku": "NWG-WGA33222101",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 1-year",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 31,
+      "id": 1293,
       "sku_code": "WGA33222103",
       "full_sku": "NWG-WGA33222103",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 3-year",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 32,
+      "id": 1294,
       "sku_code": "WGA33222105",
       "full_sku": "NWG-WGA33222105",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 5-year",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 27,
+      "id": 1289,
       "sku_code": "WGA33222001",
       "full_sku": "NWG-WGA33222001",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 1-year",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 28,
+      "id": 1290,
       "sku_code": "WGA33222003",
       "full_sku": "NWG-WGA33222003",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 3-year",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 29,
+      "id": 1291,
       "sku_code": "WGA33222005",
       "full_sku": "NWG-WGA33222005",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 5-year",
@@ -96,7 +96,7 @@
   "highAvailability": [],
   "activationBundles": [
     {
-      "id": 26,
+      "id": 1288,
       "sku_code": "WGA33203309",
       "full_sku": "NWG-WGA33203309",
       "name": "Points Activation Bundle for WatchGuard AP332CR",

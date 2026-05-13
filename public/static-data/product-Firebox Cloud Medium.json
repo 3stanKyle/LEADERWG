@@ -1,5 +1,5 @@
 {
-  "id": 33,
+  "id": 108,
   "slug": "Firebox Cloud Medium",
   "name": "Firebox Cloud Medium",
   "family": "Cloud",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 502,
+      "id": 1764,
       "sku_code": "WGCME171",
       "full_sku": "NWG-WGCME171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox Cloud Medium",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 503,
+      "id": 1765,
       "sku_code": "WGCME173",
       "full_sku": "NWG-WGCME173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox Cloud Medium",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 501,
+      "id": 1763,
       "sku_code": "WGCME151",
       "full_sku": "NWG-WGCME151",
       "name": "WatchGuard Application Control 1-yr for Firebox Cloud Medium",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 489,
+      "id": 1751,
       "sku_code": "WGCME331",
       "full_sku": "NWG-WGCME331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Medium",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 490,
+      "id": 1752,
       "sku_code": "WGCME333",
       "full_sku": "NWG-WGCME333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Medium",
@@ -69,7 +69,7 @@
       "term_years": 3
     },
     {
-      "id": 485,
+      "id": 1747,
       "sku_code": "WGCME031",
       "full_sku": "NWG-WGCME031",
       "name": "WatchGuard Firebox Cloud Medium with 1-yr Basic Security Suite",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 486,
+      "id": 1748,
       "sku_code": "WGCME033",
       "full_sku": "NWG-WGCME033",
       "name": "WatchGuard Firebox Cloud Medium with 3-yr Basic Security Suite",
@@ -93,7 +93,7 @@
       "term_years": 3
     },
     {
-      "id": 504,
+      "id": 1766,
       "sku_code": "WGCME521",
       "full_sku": "NWG-WGCME521",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Medium - 1-yr",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 505,
+      "id": 1767,
       "sku_code": "WGCME523",
       "full_sku": "NWG-WGCME523",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Medium - 3-yr",
@@ -117,7 +117,7 @@
       "term_years": 3
     },
     {
-      "id": 498,
+      "id": 1760,
       "sku_code": "WGCME121",
       "full_sku": "NWG-WGCME121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for Firebox Cloud Medium",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 495,
+      "id": 1757,
       "sku_code": "WGCME261",
       "full_sku": "NWG-WGCME261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox Cloud Medium",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 496,
+      "id": 1758,
       "sku_code": "WGCME263",
       "full_sku": "NWG-WGCME263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox Cloud Medium",
@@ -153,7 +153,7 @@
       "term_years": 3
     },
     {
-      "id": 499,
+      "id": 1761,
       "sku_code": "WGCME131",
       "full_sku": "NWG-WGCME131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for Firebox Cloud Medium",
@@ -165,7 +165,7 @@
       "term_years": 1
     },
     {
-      "id": 500,
+      "id": 1762,
       "sku_code": "WGCME141",
       "full_sku": "NWG-WGCME141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for Firebox Cloud Medium",
@@ -177,7 +177,7 @@
       "term_years": 1
     },
     {
-      "id": 483,
+      "id": 1745,
       "sku_code": "WGCME001",
       "full_sku": "NWG-WGCME001",
       "name": "WatchGuard Firebox Cloud Medium with 1-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -189,7 +189,7 @@
       "term_years": 1
     },
     {
-      "id": 484,
+      "id": 1746,
       "sku_code": "WGCME003",
       "full_sku": "NWG-WGCME003",
       "name": "WatchGuard Firebox Cloud Medium with 3-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -201,7 +201,7 @@
       "term_years": 3
     },
     {
-      "id": 493,
+      "id": 1755,
       "sku_code": "WGCME201",
       "full_sku": "NWG-WGCME201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox Cloud Medium",
@@ -213,7 +213,7 @@
       "term_years": 1
     },
     {
-      "id": 494,
+      "id": 1756,
       "sku_code": "WGCME203",
       "full_sku": "NWG-WGCME203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox Cloud Medium",
@@ -225,7 +225,7 @@
       "term_years": 3
     },
     {
-      "id": 491,
+      "id": 1753,
       "sku_code": "WGCME351",
       "full_sku": "NWG-WGCME351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Medium",
@@ -237,7 +237,7 @@
       "term_years": 1
     },
     {
-      "id": 492,
+      "id": 1754,
       "sku_code": "WGCME353",
       "full_sku": "NWG-WGCME353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Medium",
@@ -249,7 +249,7 @@
       "term_years": 3
     },
     {
-      "id": 487,
+      "id": 1749,
       "sku_code": "WGCME641",
       "full_sku": "NWG-WGCME641",
       "name": "WatchGuard Firebox Cloud Medium with 1-yr Total Security Suite",
@@ -261,7 +261,7 @@
       "term_years": 1
     },
     {
-      "id": 488,
+      "id": 1750,
       "sku_code": "WGCME643",
       "full_sku": "NWG-WGCME643",
       "name": "WatchGuard Firebox Cloud Medium with 3-yr Total Security Suite",
@@ -273,7 +273,7 @@
       "term_years": 3
     },
     {
-      "id": 497,
+      "id": 1759,
       "sku_code": "WGCME101",
       "full_sku": "NWG-WGCME101",
       "name": "WatchGuard WebBlocker 1-yr for Firebox Cloud Medium",
@@ -287,7 +287,7 @@
   ],
   "tradeUps": [
     {
-      "id": 506,
+      "id": 1768,
       "sku_code": "WGCME061",
       "full_sku": "NWG-WGCME061",
       "name": "Trade up to WatchGuard Firebox Cloud Medium with 1-yr Basic Security Suite",
@@ -299,7 +299,7 @@
       "term_years": 1
     },
     {
-      "id": 507,
+      "id": 1769,
       "sku_code": "WGCME063",
       "full_sku": "NWG-WGCME063",
       "name": "Trade up to WatchGuard Firebox Cloud Medium with 3-yr Basic Security Suite",
@@ -311,7 +311,7 @@
       "term_years": 3
     },
     {
-      "id": 508,
+      "id": 1770,
       "sku_code": "WGCME671",
       "full_sku": "NWG-WGCME671",
       "name": "Trade up to WatchGuard Firebox Cloud Medium with 1-yr Total Security Suite",
@@ -323,7 +323,7 @@
       "term_years": 1
     },
     {
-      "id": 509,
+      "id": 1771,
       "sku_code": "WGCME673",
       "full_sku": "NWG-WGCME673",
       "name": "Trade up to WatchGuard Firebox Cloud Medium with 3-yr Total Security Suite",
