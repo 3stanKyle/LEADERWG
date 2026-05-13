@@ -1,5 +1,5 @@
 {
-  "id": 2,
+  "id": 77,
   "slug": "AP230W",
   "name": "WatchGuard AP230W",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Wall-plate AP with built-in switch for hospitality",
   "image_file": "AP230W.jpg",
   "appliance": {
-    "id": 9,
+    "id": 1271,
     "sku_code": "WGA230000",
     "full_sku": "NWG-WGA230000",
     "name": "WatchGuard AP230W Appliance Only",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14,
+      "id": 1276,
       "sku_code": "WGA23022101",
       "full_sku": "NWG-WGA23022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 1-year",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 15,
+      "id": 1277,
       "sku_code": "WGA23022103",
       "full_sku": "NWG-WGA23022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 3-year",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 16,
+      "id": 1278,
       "sku_code": "WGA23022105",
       "full_sku": "NWG-WGA23022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 5-year",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 11,
+      "id": 1273,
       "sku_code": "WGA23022001",
       "full_sku": "NWG-WGA23022001",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 1-year",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 12,
+      "id": 1274,
       "sku_code": "WGA23022003",
       "full_sku": "NWG-WGA23022003",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 3-year",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 13,
+      "id": 1275,
       "sku_code": "WGA23022005",
       "full_sku": "NWG-WGA23022005",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 5-year",
@@ -96,7 +96,7 @@
   "highAvailability": [],
   "activationBundles": [
     {
-      "id": 10,
+      "id": 1272,
       "sku_code": "WGA23003309",
       "full_sku": "NWG-WGA23003309",
       "name": "Points Activation Bundle for WatchGuard AP230W",

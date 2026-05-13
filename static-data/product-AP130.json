@@ -1,5 +1,5 @@
 {
-  "id": 1,
+  "id": 76,
   "slug": "AP130",
   "name": "WatchGuard AP130",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Entry-level Wi-Fi 6 for small offices and remote workers",
   "image_file": "AP130.jpg",
   "appliance": {
-    "id": 1,
+    "id": 1263,
     "sku_code": "WGA130000",
     "full_sku": "NWG-WGA130000",
     "name": "WatchGuard AP130 Appliance Only",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 6,
+      "id": 1268,
       "sku_code": "WGA13022101",
       "full_sku": "NWG-WGA13022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 1-year",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 7,
+      "id": 1269,
       "sku_code": "WGA13022103",
       "full_sku": "NWG-WGA13022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 3-year",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 8,
+      "id": 1270,
       "sku_code": "WGA13022105",
       "full_sku": "NWG-WGA13022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 5-year",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 3,
+      "id": 1265,
       "sku_code": "WGA13022001",
       "full_sku": "NWG-WGA13022001",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 1-year",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 4,
+      "id": 1266,
       "sku_code": "WGA13022003",
       "full_sku": "NWG-WGA13022003",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 3-year",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 5,
+      "id": 1267,
       "sku_code": "WGA13022005",
       "full_sku": "NWG-WGA13022005",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 5-year",
@@ -96,7 +96,7 @@
   "highAvailability": [],
   "activationBundles": [
     {
-      "id": 2,
+      "id": 1264,
       "sku_code": "WGA13003309",
       "full_sku": "NWG-WGA13003309",
       "name": "Points Activation Bundle for WatchGuard AP130",

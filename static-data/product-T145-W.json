@@ -1,5 +1,5 @@
 {
-  "id": 22,
+  "id": 97,
   "slug": "T145-W",
   "name": "Firebox T145-W",
   "family": "T-Series",
@@ -7,7 +7,7 @@
   "description": "Mid-range tabletop firewall with Wi-Fi 7",
   "image_file": "T145.jpg",
   "appliance": {
-    "id": 245,
+    "id": 1507,
     "sku_code": "WGT146000",
     "full_sku": "NWG-WGT146000",
     "name": "WatchGuard Firebox T145-W Appliance Only",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 1113,
+      "id": 2375,
       "sku_code": "WGT146171",
       "full_sku": "NWG-WGT146171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T145-W",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 1114,
+      "id": 2376,
       "sku_code": "WGT146173",
       "full_sku": "NWG-WGT146173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T145-W",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 1115,
+      "id": 2377,
       "sku_code": "WGT146175",
       "full_sku": "NWG-WGT146175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T145-W",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 1105,
+      "id": 2367,
       "sku_code": "WGT146341",
       "full_sku": "NWG-WGT146341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T145-W",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 1106,
+      "id": 2368,
       "sku_code": "WGT146343",
       "full_sku": "NWG-WGT146343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T145-W",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 249,
+      "id": 1511,
       "sku_code": "WGT1460071",
       "full_sku": "NWG-WGT1460071",
       "name": "WatchGuard Basic Security Suite for Firebox T145-W - 1-Year",
@@ -92,7 +92,7 @@
       "term_years": 1
     },
     {
-      "id": 250,
+      "id": 1512,
       "sku_code": "WGT1460073",
       "full_sku": "NWG-WGT1460073",
       "name": "WatchGuard Basic Security Suite for Firebox T145-W - 3-Year",
@@ -104,7 +104,7 @@
       "term_years": 3
     },
     {
-      "id": 251,
+      "id": 1513,
       "sku_code": "WGT1460075",
       "full_sku": "NWG-WGT1460075",
       "name": "WatchGuard Basic Security Suite for Firebox T145-W - 5-Year",
@@ -116,7 +116,7 @@
       "term_years": 5
     },
     {
-      "id": 1116,
+      "id": 2378,
       "sku_code": "WGT14621801",
       "full_sku": "NWG-WGT14621801",
       "name": "WatchGuard Cloud 1-month data retention for T145-W - 1-yr",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 1117,
+      "id": 2379,
       "sku_code": "WGT14621803",
       "full_sku": "NWG-WGT14621803",
       "name": "WatchGuard Cloud 1-month data retention for T145-W - 3-yr",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 1111,
+      "id": 2373,
       "sku_code": "WGT146261",
       "full_sku": "NWG-WGT146261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T145-W",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 1112,
+      "id": 2374,
       "sku_code": "WGT146263",
       "full_sku": "NWG-WGT146263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T145-W",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 246,
+      "id": 1508,
       "sku_code": "WGT1460061",
       "full_sku": "NWG-WGT1460061",
       "name": "WatchGuard Standard Support for Firebox T145-W - 1-Year",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 247,
+      "id": 1509,
       "sku_code": "WGT1460063",
       "full_sku": "NWG-WGT1460063",
       "name": "WatchGuard Standard Support for Firebox T145-W - 3-Year",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 248,
+      "id": 1510,
       "sku_code": "WGT1460065",
       "full_sku": "NWG-WGT1460065",
       "name": "WatchGuard Standard Support for Firebox T145-W - 5-Year",
@@ -200,7 +200,7 @@
       "term_years": 5
     },
     {
-      "id": 1109,
+      "id": 2371,
       "sku_code": "WGT146201",
       "full_sku": "NWG-WGT146201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T145-W",
@@ -212,7 +212,7 @@
       "term_years": 1
     },
     {
-      "id": 1110,
+      "id": 2372,
       "sku_code": "WGT146203",
       "full_sku": "NWG-WGT146203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T145-W",
@@ -224,7 +224,7 @@
       "term_years": 3
     },
     {
-      "id": 1107,
+      "id": 2369,
       "sku_code": "WGT146351",
       "full_sku": "NWG-WGT146351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T145-W",
@@ -236,7 +236,7 @@
       "term_years": 1
     },
     {
-      "id": 1108,
+      "id": 2370,
       "sku_code": "WGT146353",
       "full_sku": "NWG-WGT146353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T145-W",
@@ -248,7 +248,7 @@
       "term_years": 3
     },
     {
-      "id": 252,
+      "id": 1514,
       "sku_code": "WGT1460081",
       "full_sku": "NWG-WGT1460081",
       "name": "WatchGuard Total Security Suite for Firebox T145-W - 1-Year",
@@ -260,7 +260,7 @@
       "term_years": 1
     },
     {
-      "id": 253,
+      "id": 1515,
       "sku_code": "WGT1460083",
       "full_sku": "NWG-WGT1460083",
       "name": "WatchGuard Total Security Suite for Firebox T145-W - 3-Year",
@@ -272,7 +272,7 @@
       "term_years": 3
     },
     {
-      "id": 254,
+      "id": 1516,
       "sku_code": "WGT1460085",
       "full_sku": "NWG-WGT1460085",
       "name": "WatchGuard Total Security Suite for Firebox T145-W - 5-Year",
@@ -286,7 +286,7 @@
   ],
   "tradeUps": [
     {
-      "id": 255,
+      "id": 1517,
       "sku_code": "WGT1460203",
       "full_sku": "NWG-WGT1460203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T145-W - 3-Year",
@@ -298,7 +298,7 @@
       "term_years": 3
     },
     {
-      "id": 256,
+      "id": 1518,
       "sku_code": "WGT1460205",
       "full_sku": "NWG-WGT1460205",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T145-W - 5-Year",
@@ -310,7 +310,7 @@
       "term_years": 5
     },
     {
-      "id": 257,
+      "id": 1519,
       "sku_code": "WGT1460211",
       "full_sku": "NWG-WGT1460211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T145-W - 1-Year",
@@ -322,7 +322,7 @@
       "term_years": 1
     },
     {
-      "id": 258,
+      "id": 1520,
       "sku_code": "WGT1460213",
       "full_sku": "NWG-WGT1460213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T145-W - 3-Year",
@@ -334,7 +334,7 @@
       "term_years": 3
     },
     {
-      "id": 259,
+      "id": 1521,
       "sku_code": "WGT1460215",
       "full_sku": "NWG-WGT1460215",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T145-W - 5-Year",

@@ -2,7 +2,7 @@
   "label": "MDR & NDR",
   "products": [
     {
-      "id": 36,
+      "id": 111,
       "slug": "Core MDR",
       "name": "Core MDR",
       "family": "MDR & NDR",
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 112,
       "slug": "Core MDR for Microsoft",
       "name": "Core MDR for Microsoft",
       "family": "MDR & NDR",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 114,
       "slug": "ThreatSync+ NDR",
       "name": "ThreatSync+ NDR",
       "family": "MDR & NDR",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 116,
       "slug": "ThreatSync+ SaaS",
       "name": "ThreatSync+ SaaS",
       "family": "MDR & NDR",
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 113,
       "slug": "Total MDR",
       "name": "Total MDR",
       "family": "MDR & NDR",
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 115,
       "slug": "Total NDR",
       "name": "Total NDR",
       "family": "MDR & NDR",

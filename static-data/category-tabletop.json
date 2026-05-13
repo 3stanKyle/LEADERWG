@@ -2,7 +2,7 @@
   "label": "Firebox Tabletop (T-Series)",
   "products": [
     {
-      "id": 18,
+      "id": 93,
       "slug": "T115-W",
       "name": "Firebox T115-W",
       "family": "T-Series",
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 94,
       "slug": "T125",
       "name": "Firebox T125",
       "family": "T-Series",
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 95,
       "slug": "T125-W",
       "name": "Firebox T125-W",
       "family": "T-Series",
@@ -937,7 +937,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 96,
       "slug": "T145",
       "name": "Firebox T145",
       "family": "T-Series",
@@ -1256,7 +1256,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 97,
       "slug": "T145-W",
       "name": "Firebox T145-W",
       "family": "T-Series",
@@ -1575,7 +1575,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 98,
       "slug": "T185",
       "name": "Firebox T185",
       "family": "T-Series",
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 99,
       "slug": "T25-W",
       "name": "Firebox T25-W",
       "family": "T-Series",
@@ -2213,7 +2213,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 100,
       "slug": "T45-CW",
       "name": "Firebox T45-CW",
       "family": "T-Series",
@@ -2521,7 +2521,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 101,
       "slug": "T45-PoE",
       "name": "Firebox T45-PoE",
       "family": "T-Series",
@@ -2818,7 +2818,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 102,
       "slug": "T45-W-PoE",
       "name": "Firebox T45-W-PoE",
       "family": "T-Series",

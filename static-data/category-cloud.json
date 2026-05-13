@@ -2,7 +2,7 @@
   "label": "Firebox Cloud",
   "products": [
     {
-      "id": 34,
+      "id": 109,
       "slug": "Firebox Cloud Large",
       "name": "Firebox Cloud Large",
       "family": "Cloud",
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 108,
       "slug": "Firebox Cloud Medium",
       "name": "Firebox Cloud Medium",
       "family": "Cloud",
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 107,
       "slug": "Firebox Cloud Small",
       "name": "Firebox Cloud Small",
       "family": "Cloud",
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 110,
       "slug": "Firebox Cloud XLarge",
       "name": "Firebox Cloud XLarge",
       "family": "Cloud",
