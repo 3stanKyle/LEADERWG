@@ -276,7 +276,7 @@ function InfoCallout({ onSwitch }) {
     <div className={styles.infoCallout}>
       <Info size={16} weight="fill" />
       <span>
-        Looking for Panda Adaptive Defense 360 or Panda EPP+?{' '}
+        Looking for legacy Panda Endpoint Protection Plus?{' '}
         <button className={styles.infoCalloutBtn} onClick={onSwitch}>
           See the Legacy Panda tab
         </button>
@@ -295,19 +295,18 @@ function NoCheck() {
   return <XCircle size={16} weight="regular" className={styles.noCheckIcon} />;
 }
 
+// Columns are in capability order: Basic < Prime < 360 < Elite (Elite is the flagship).
 const COMPARISON_ROWS = [
-  { feature: 'Anti-malware / Antivirus', epp: true, edr: false, epdr: true, aepdr: true },
-  { feature: 'Anti-exploit Protection', epp: true, edr: false, epdr: true, aepdr: true },
-  { feature: 'URL Filtering', epp: true, edr: false, epdr: true, aepdr: true },
-  { feature: 'Device Firewall', epp: true, edr: false, epdr: true, aepdr: true },
-  { feature: 'EDR / Threat Hunting', epp: false, edr: true, epdr: true, aepdr: true },
-  { feature: 'Zero-Trust Application Service', epp: false, edr: true, epdr: true, aepdr: true },
-  { feature: 'ThreatSync (XDR) Integration', epp: false, edr: true, epdr: true, aepdr: true },
-  { feature: 'Risk Monitoring & Vulnerability Assessment', epp: false, edr: true, epdr: true, aepdr: true },
-  { feature: 'IOA Scripts / Advanced Policies', epp: false, edr: false, epdr: false, aepdr: true },
-  { feature: 'Remote Shell Access', epp: false, edr: false, epdr: false, aepdr: true },
-  { feature: 'Indicators of Attack (Custom IOA)', epp: false, edr: false, epdr: false, aepdr: true },
-  { feature: 'Attack Surface Reduction', epp: false, edr: false, epdr: false, aepdr: true },
+  { feature: 'Next-gen antivirus & anti-malware',                    basic: true,  prime: true,  s360: true,  elite: true },
+  { feature: 'Ransomware protection',                                basic: true,  prime: true,  s360: true,  elite: true },
+  { feature: 'AI-powered behavioral threat detection',               basic: true,  prime: true,  s360: true,  elite: true },
+  { feature: 'URL filtering, device control & host firewall',        basic: true,  prime: true,  s360: true,  elite: true },
+  { feature: 'Anti-exploit / zero-day protection',                   basic: false, prime: true,  s360: true,  elite: true },
+  { feature: 'Full EDR — endpoint isolation, response & root cause', basic: false, prime: true,  s360: true,  elite: true },
+  { feature: 'Threat hunting (MITRE ATT&CK)',                        basic: false, prime: true,  s360: true,  elite: true },
+  { feature: 'Zero-Trust Application Service (deny-by-default)',     basic: false, prime: false, s360: true,  elite: true },
+  { feature: 'Lateral-movement detection & containment',            basic: false, prime: false, s360: true,  elite: true },
+  { feature: 'Advanced investigation — IOC/STIX/YARA, GenAI, remote shell', basic: false, prime: false, s360: false, elite: true },
 ];
 
 function EndpointComparisonTable() {
@@ -316,27 +315,28 @@ function EndpointComparisonTable() {
       <h2 className={styles.comparisonHeadline}>Which Endpoint Solution Is Right for You?</h2>
       <p className={styles.comparisonDesc}>
         WatchGuard offers four tiers of endpoint security. Each level builds on the one before it,
-        adding more advanced detection, response, and threat hunting capabilities.
+        adding more advanced detection, response, and threat hunting capabilities. (Prime sits
+        between Basic and 360 — Elite is the flagship.)
       </p>
       <div className={styles.tableWrap}>
         <table className={styles.comparisonTable}>
           <thead>
             <tr>
               <th>Feature</th>
-              <th>EPP</th>
-              <th>EDR</th>
-              <th>EPDR</th>
-              <th>Advanced EPDR</th>
+              <th>Basic</th>
+              <th>Prime</th>
+              <th>360</th>
+              <th>Elite</th>
             </tr>
           </thead>
           <tbody>
             {COMPARISON_ROWS.map((row) => (
               <tr key={row.feature}>
                 <td><strong>{row.feature}</strong></td>
-                <td>{row.epp ? <Check /> : <NoCheck />}</td>
-                <td>{row.edr ? <Check /> : <NoCheck />}</td>
-                <td>{row.epdr ? <Check /> : <NoCheck />}</td>
-                <td>{row.aepdr ? <Check /> : <NoCheck />}</td>
+                <td>{row.basic ? <Check /> : <NoCheck />}</td>
+                <td>{row.prime ? <Check /> : <NoCheck />}</td>
+                <td>{row.s360 ? <Check /> : <NoCheck />}</td>
+                <td>{row.elite ? <Check /> : <NoCheck />}</td>
               </tr>
             ))}
           </tbody>

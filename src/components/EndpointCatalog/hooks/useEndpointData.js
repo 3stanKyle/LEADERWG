@@ -3,41 +3,44 @@ import { usePerUserCatalog } from '../../../hooks/usePerUserCatalog.js';
 const WG_TIERS = ['1-50', '51-100', '101-250', '251-500', '501-1000', '1001-5000', '5001+'];
 
 export const PRODUCTS = [
-  // --- Core ---
+  // --- Core (2026 WatchGuard Endpoint Security rebrand) ---
+  // Order = capability/price: Basic < Prime < 360 < Elite. NOTE: "Prime" is NOT the
+  // top tier despite the name — Elite is the flagship. Mapping (per WatchGuard):
+  // EPP→Basic, EPDR→360, Advanced EPDR→Elite; Prime is a new full-EDR tier.
   {
-    key: 'EPP',
-    label: 'WatchGuard EPP',
+    key: 'Endpoint Security Basic',
+    label: 'Endpoint Security Basic',
     group: 'watchguard',
     section: 'core',
     badge: 'Good',
-    description: 'Endpoint Protection Platform — antivirus, anti-exploit, URL filtering, and device firewall for comprehensive baseline protection.',
+    description: 'AI-driven next-gen antivirus with automated EDR — stops known and unknown malware, ransomware, and phishing with minimal management. (Formerly WatchGuard EPP.)',
     tiers: WG_TIERS,
   },
   {
-    key: 'EDR',
-    label: 'WatchGuard EDR',
+    key: 'Endpoint Security Prime',
+    label: 'Endpoint Security Prime',
     group: 'watchguard',
     section: 'core',
     badge: 'Better',
-    description: 'Endpoint Detection & Response — zero-trust app service, threat hunting, and behavioral detection for advanced threat visibility.',
+    description: 'Full-featured EDR — adds anti-exploit, endpoint isolation & response, MITRE ATT&CK incident correlation, and threat hunting. (New tier, between Basic and 360.)',
     tiers: WG_TIERS,
   },
   {
-    key: 'EPDR',
-    label: 'WatchGuard EPDR',
+    key: 'Endpoint Security 360',
+    label: 'Endpoint Security 360',
     group: 'watchguard',
     section: 'core',
     badge: 'Best',
-    description: 'Full EPP + EDR in one agent — combines prevention, detection, and response with ThreatSync XDR integration.',
+    description: 'Zero-Trust EDR — adds the deny-by-default Zero-Trust Application Service (100% process classification) and lateral-movement containment. (Formerly WatchGuard EPDR.)',
     tiers: WG_TIERS,
   },
   {
-    key: 'Advanced EPDR',
-    label: 'WatchGuard Advanced EPDR',
+    key: 'Endpoint Security Elite',
+    label: 'Endpoint Security Elite',
     group: 'watchguard',
     section: 'core',
     badge: 'Premium',
-    description: 'EPDR plus advanced threat hunting, IOA policies, remote shell access, and priority threat intelligence.',
+    description: 'SecOps-grade EDR — adds IOC/STIX/YARA threat hunting, advanced security policies, GenAI-assisted investigation, and remote forensics. (Formerly WatchGuard Advanced EPDR.)',
     tiers: WG_TIERS,
   },
   // --- Modules ---
@@ -84,29 +87,17 @@ export const PRODUCTS = [
     tiers: WG_TIERS,
   },
   // --- Legacy Panda ---
+  // Only Panda EPP+ remains in the 2026 catalogue; Panda Adaptive Defense 360
+  // and Panda Patch Management were discontinued. Only the 1-10 and 11-25 user
+  // tiers remain in the data (the ProductCard reads tiers from this static
+  // config, so they must be listed explicitly).
   {
     key: 'Panda EPP+',
     label: 'Panda Endpoint Protection Plus',
     group: 'panda',
     section: 'panda',
     description: 'Legacy endpoint protection with centralised management, antivirus, anti-malware, and personal firewall.',
-    tiers: ['1-10', '11-25', '26-50', '51-100', '101-250', '251-500', '501-1000', '1001-3000', '3000+'],
-  },
-  {
-    key: 'Panda AD360',
-    label: 'Panda Adaptive Defense 360',
-    group: 'panda',
-    section: 'panda',
-    description: 'Legacy EPP + EDR with 100% classification of running processes and zero-trust application model.',
-    tiers: ['1-50', '51-100'],
-  },
-  {
-    key: 'Panda Patch Management',
-    label: 'Panda Patch Management',
-    group: 'panda',
-    section: 'panda',
-    description: 'Legacy patch management module for discovering vulnerabilities and deploying third-party patches.',
-    tiers: ['1-10', '11-25', '26-50', '51-100', '101-250', '251-500', '501-1000', '1001-3000', '3000+'],
+    tiers: ['1-10', '11-25'],
   },
 ];
 
