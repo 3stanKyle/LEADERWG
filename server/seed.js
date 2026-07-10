@@ -151,6 +151,17 @@ function familyToCategory(family) {
     'Identity & Access': 'identity',
     'Email Security':    'email',
     'Renewals':          'renewals',
+    // ── New WatchGuard product lines (2026 catalogue) ────────────────
+    // Routed into the closest existing tab so they are not "other".
+    // NOTE: the front-end tab list + per-tab product cards are hardcoded,
+    // so to make these render as cards you must also add matching config
+    // entries in the relevant hook (see handover notes). Until then they
+    // are categorised here but won't appear as new cards on their own.
+    'FireCloud':          'cloud',      // cloud-delivered firewall / SASE
+    'CloudDR':            'cloud',      // WatchGuard Cloud log data-retention
+    'Firebox NV-Series':  'tabletop',   // new compact Firebox hardware (NV5)
+    'Reporting & Visibility': 'mdr_ndr', // Compliance Reporting, SIEMFeeder, Dimension Command
+    'MSSP':               'renewals',   // MSSP pre-pay point packs (licensing/commercial)
   };
   return map[family] || 'other';
 }
@@ -227,6 +238,10 @@ const DESCRIPTIONS = {
   'T45-CW':  'Cellular WAN tabletop firewall with 5G/LTE',
   'T45-PoE': 'Tabletop firewall with Power over Ethernet ports',
   'T45-W-PoE': 'Tabletop firewall with Wi-Fi and PoE ports',
+  // New 2026 tabletop models
+  'T25':     'Entry-level tabletop firewall for small and home offices',
+  'T85-PoE': 'Top-of-range tabletop firewall with PoE for busy branch offices',
+  // 'NV5':  '<add description once the NV-series spec is confirmed>',
   // Virtual appliances
   'FireboxV Small':  'Virtual firewall for small cloud deployments',
   'FireboxV Medium': 'Virtual firewall for medium cloud workloads',
