@@ -1,5 +1,5 @@
 {
-  "id": 802,
+  "id": 892,
   "slug": "M690",
   "name": "Firebox M690",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "High-capacity firewall for enterprise campuses",
   "image_file": "m695.jpg",
   "appliance": {
-    "id": 14505,
+    "id": 16109,
     "sku_code": "WGM690000",
     "full_sku": "NWG-WGM690000",
     "name": "WatchGuard Firebox M690 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14717,
+      "id": 16321,
       "sku_code": "WGM69020801",
       "full_sku": "NWG-WGM69020801",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M690",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14733,
+      "id": 16337,
       "sku_code": "WGM69020803",
       "full_sku": "NWG-WGM69020803",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M690",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 14859,
+      "id": 16463,
       "sku_code": "WGM69040201",
       "full_sku": "NWG-WGM69040201",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M690",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 14703,
+      "id": 16307,
       "sku_code": "WGM69040203",
       "full_sku": "NWG-WGM69040203",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M690",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 13926,
+      "id": 15530,
       "sku_code": "WGM6900071",
       "full_sku": "NWG-WGM6900071",
       "name": "WatchGuard Basic Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 13873,
+      "id": 15477,
       "sku_code": "WGM6900073",
       "full_sku": "NWG-WGM6900073",
       "name": "WatchGuard Basic Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 14851,
+      "id": 16455,
       "sku_code": "WGM69021801",
       "full_sku": "NWG-WGM69021801",
       "name": "WatchGuard Cloud 1-month data retention for M690 - 1-yr",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 14787,
+      "id": 16391,
       "sku_code": "WGM69021803",
       "full_sku": "NWG-WGM69021803",
       "name": "WatchGuard Cloud 1-month data retention for M690 - 3-yr",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 14788,
+      "id": 16392,
       "sku_code": "WGM69040701",
       "full_sku": "NWG-WGM69040701",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M690",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 14784,
+      "id": 16388,
       "sku_code": "WGM69040703",
       "full_sku": "NWG-WGM69040703",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M690",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 14353,
+      "id": 15957,
       "sku_code": "WGM6900061",
       "full_sku": "NWG-WGM6900061",
       "name": "WatchGuard Standard Support for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 13928,
+      "id": 15532,
       "sku_code": "WGM6900063",
       "full_sku": "NWG-WGM6900063",
       "name": "WatchGuard Standard Support for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 14721,
+      "id": 16325,
       "sku_code": "WGM69040101",
       "full_sku": "NWG-WGM69040101",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M690",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 14736,
+      "id": 16340,
       "sku_code": "WGM69040103",
       "full_sku": "NWG-WGM69040103",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M690",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 14702,
+      "id": 16306,
       "sku_code": "WGM69040301",
       "full_sku": "NWG-WGM69040301",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M690",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 14772,
+      "id": 16376,
       "sku_code": "WGM69040303",
       "full_sku": "NWG-WGM69040303",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M690",
@@ -212,7 +212,7 @@
       "term_years": 3
     },
     {
-      "id": 14515,
+      "id": 16119,
       "sku_code": "WGM6900081",
       "full_sku": "NWG-WGM6900081",
       "name": "WatchGuard Total Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
@@ -224,7 +224,7 @@
       "term_years": 1
     },
     {
-      "id": 13872,
+      "id": 15476,
       "sku_code": "WGM6900083",
       "full_sku": "NWG-WGM6900083",
       "name": "WatchGuard Total Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
@@ -238,7 +238,7 @@
   ],
   "tradeUps": [
     {
-      "id": 13925,
+      "id": 15529,
       "sku_code": "WGM6900203",
       "full_sku": "NWG-WGM6900203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
@@ -250,7 +250,7 @@
       "term_years": 3
     },
     {
-      "id": 13845,
+      "id": 15449,
       "sku_code": "WGM6900211",
       "full_sku": "NWG-WGM6900211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
@@ -262,7 +262,7 @@
       "term_years": 1
     },
     {
-      "id": 13924,
+      "id": 15528,
       "sku_code": "WGM6900213",
       "full_sku": "NWG-WGM6900213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
@@ -276,7 +276,7 @@
   ],
   "highAvailability": [
     {
-      "id": 13896,
+      "id": 15500,
       "sku_code": "WGM6901601",
       "full_sku": "NWG-WGM6901601",
       "name": "WatchGuard High Availability for M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
@@ -288,7 +288,7 @@
       "term_years": 1
     },
     {
-      "id": 13844,
+      "id": 15448,
       "sku_code": "WGM6901603",
       "full_sku": "NWG-WGM6901603",
       "name": "WatchGuard High Availability for M690 - 3-Year (License ONLY; HW SKU: WGM690000)",

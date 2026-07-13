@@ -1,5 +1,5 @@
 {
-  "id": 809,
+  "id": 899,
   "slug": "AP332CR",
   "name": "WatchGuard AP332CR",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Rugged outdoor AP for retail and manufacturing",
   "image_file": "AP332CER.jpg",
   "appliance": {
-    "id": 13887,
+    "id": 15491,
     "sku_code": "WGA332000",
     "full_sku": "NWG-WGA332000",
     "name": "WatchGuard AP332CR Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 13857,
+      "id": 15461,
       "sku_code": "WGA33222101",
       "full_sku": "NWG-WGA33222101",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 1-year (License ONLY; HW SKU: WGA332000)",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 13938,
+      "id": 15542,
       "sku_code": "WGA33222103",
       "full_sku": "NWG-WGA33222103",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 3-year (License ONLY; HW SKU: WGA332000)",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 13903,
+      "id": 15507,
       "sku_code": "WGA33222105",
       "full_sku": "NWG-WGA33222105",
       "name": "Standard Wi-Fi Management for WatchGuard AP332CR - 5-year (License ONLY; HW SKU: WGA332000)",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 14523,
+      "id": 16127,
       "sku_code": "WGA33222001",
       "full_sku": "NWG-WGA33222001",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 1-year (License ONLY; HW SKU: WGA332000)",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 13881,
+      "id": 15485,
       "sku_code": "WGA33222003",
       "full_sku": "NWG-WGA33222003",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 3-year (License ONLY; HW SKU: WGA332000)",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 13882,
+      "id": 15486,
       "sku_code": "WGA33200503",
       "full_sku": "NWG-WGA33200503",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR NFR - 3-year (License ONLY; HW SKU: WGA332000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 13939,
+      "id": 15543,
       "sku_code": "WGA33222005",
       "full_sku": "NWG-WGA33222005",
       "name": "USP Wi-Fi Management for WatchGuard AP332CR - 5-year (License ONLY; HW SKU: WGA332000)",

@@ -1,5 +1,5 @@
 {
-  "id": 798,
+  "id": 888,
   "slug": "T45-CW",
   "name": "Firebox T45-CW",
   "family": "T-Series",
@@ -7,7 +7,7 @@
   "description": "Cellular WAN tabletop firewall with 5G/LTE",
   "image_file": "T145.jpg",
   "appliance": {
-    "id": 14203,
+    "id": 15807,
     "sku_code": "WGT49000-AU",
     "full_sku": "NWG-WGT49000-AU",
     "name": "WatchGuard Firebox T45-CW Appliance Only (AU) – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14827,
+      "id": 16431,
       "sku_code": "WGT49171",
       "full_sku": "NWG-WGT49171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T45-CW",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14835,
+      "id": 16439,
       "sku_code": "WGT49173",
       "full_sku": "NWG-WGT49173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T45-CW",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 14795,
+      "id": 16399,
       "sku_code": "WGT49175",
       "full_sku": "NWG-WGT49175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T45-CW",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 14828,
+      "id": 16432,
       "sku_code": "WGT49341",
       "full_sku": "NWG-WGT49341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T45-CW",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 14848,
+      "id": 16452,
       "sku_code": "WGT49343",
       "full_sku": "NWG-WGT49343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T45-CW",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 13916,
+      "id": 15520,
       "sku_code": "WGT490071",
       "full_sku": "NWG-WGT490071",
       "name": "WatchGuard Basic Security Suite for Firebox T45-CW - 1-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -92,7 +92,7 @@
       "term_years": 1
     },
     {
-      "id": 13828,
+      "id": 15432,
       "sku_code": "WGT490073",
       "full_sku": "NWG-WGT490073",
       "name": "WatchGuard Basic Security Suite for Firebox T45-CW - 3-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -104,7 +104,7 @@
       "term_years": 3
     },
     {
-      "id": 14342,
+      "id": 15946,
       "sku_code": "WGT490075",
       "full_sku": "NWG-WGT490075",
       "name": "WatchGuard Basic Security Suite for Firebox T45-CW - 5-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -116,7 +116,7 @@
       "term_years": 5
     },
     {
-      "id": 14826,
+      "id": 16430,
       "sku_code": "WGT49261",
       "full_sku": "NWG-WGT49261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T45-CW",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 14847,
+      "id": 16451,
       "sku_code": "WGT49263",
       "full_sku": "NWG-WGT49263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T45-CW",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 13917,
+      "id": 15521,
       "sku_code": "WGT490061",
       "full_sku": "NWG-WGT490061",
       "name": "WatchGuard Standard Support for Firebox T45-CW - 1-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 14344,
+      "id": 15948,
       "sku_code": "WGT490063",
       "full_sku": "NWG-WGT490063",
       "name": "WatchGuard Standard Support for Firebox T45-CW - 3-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 14509,
+      "id": 16113,
       "sku_code": "WGT490065",
       "full_sku": "NWG-WGT490065",
       "name": "WatchGuard Standard Support for Firebox T45-CW - 5-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -176,7 +176,7 @@
       "term_years": 5
     },
     {
-      "id": 14825,
+      "id": 16429,
       "sku_code": "WGT49201",
       "full_sku": "NWG-WGT49201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T45-CW",
@@ -188,7 +188,7 @@
       "term_years": 1
     },
     {
-      "id": 14797,
+      "id": 16401,
       "sku_code": "WGT49203",
       "full_sku": "NWG-WGT49203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T45-CW",
@@ -200,7 +200,7 @@
       "term_years": 3
     },
     {
-      "id": 14878,
+      "id": 16482,
       "sku_code": "WGT49351",
       "full_sku": "NWG-WGT49351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T45-CW",
@@ -212,7 +212,7 @@
       "term_years": 1
     },
     {
-      "id": 14879,
+      "id": 16483,
       "sku_code": "WGT49353",
       "full_sku": "NWG-WGT49353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T45-CW",
@@ -224,7 +224,7 @@
       "term_years": 3
     },
     {
-      "id": 13827,
+      "id": 15431,
       "sku_code": "WGT490081",
       "full_sku": "NWG-WGT490081",
       "name": "WatchGuard Total Security Suite for Firebox T45-CW - 1-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -236,7 +236,7 @@
       "term_years": 1
     },
     {
-      "id": 14303,
+      "id": 15907,
       "sku_code": "WGT490083",
       "full_sku": "NWG-WGT490083",
       "name": "WatchGuard Total Security Suite for Firebox T45-CW - 3-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -248,7 +248,7 @@
       "term_years": 3
     },
     {
-      "id": 13851,
+      "id": 15455,
       "sku_code": "WGT490085",
       "full_sku": "NWG-WGT490085",
       "name": "WatchGuard Total Security Suite for Firebox T45-CW - 5-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -262,7 +262,7 @@
   ],
   "tradeUps": [
     {
-      "id": 14506,
+      "id": 16110,
       "sku_code": "WGT490201",
       "full_sku": "NWG-WGT490201",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T45-CW - 1-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -274,7 +274,7 @@
       "term_years": 1
     },
     {
-      "id": 14302,
+      "id": 15906,
       "sku_code": "WGT490203",
       "full_sku": "NWG-WGT490203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T45-CW - 3-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -286,7 +286,7 @@
       "term_years": 3
     },
     {
-      "id": 14341,
+      "id": 15945,
       "sku_code": "WGT490205",
       "full_sku": "NWG-WGT490205",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T45-CW - 5-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -298,7 +298,7 @@
       "term_years": 5
     },
     {
-      "id": 14301,
+      "id": 15905,
       "sku_code": "WGT490211",
       "full_sku": "NWG-WGT490211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T45-CW - 1-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -310,7 +310,7 @@
       "term_years": 1
     },
     {
-      "id": 14204,
+      "id": 15808,
       "sku_code": "WGT490213",
       "full_sku": "NWG-WGT490213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T45-CW - 3-Year (License ONLY; HW SKU: WGT49000-AU)",
@@ -322,7 +322,7 @@
       "term_years": 3
     },
     {
-      "id": 13890,
+      "id": 15494,
       "sku_code": "WGT490215",
       "full_sku": "NWG-WGT490215",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T45-CW - 5-Year (License ONLY; HW SKU: WGT49000-AU)",

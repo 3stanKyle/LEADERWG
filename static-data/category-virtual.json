@@ -2,7 +2,7 @@
   "label": "FireboxV Virtual Appliances",
   "products": [
     {
-      "id": 773,
+      "id": 863,
       "slug": "FireboxV Large",
       "name": "FireboxV Large",
       "family": "Virtual",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 772,
+      "id": 862,
       "slug": "FireboxV Medium",
       "name": "FireboxV Medium",
       "family": "Virtual",
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "id": 792,
+      "id": 882,
       "slug": "FireboxV Micro",
       "name": "FireboxV Micro",
       "family": "Virtual",
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "id": 771,
+      "id": 861,
       "slug": "FireboxV Small",
       "name": "FireboxV Small",
       "family": "Virtual",
@@ -1179,7 +1179,7 @@
       ]
     },
     {
-      "id": 774,
+      "id": 864,
       "slug": "FireboxV XLarge",
       "name": "FireboxV XLarge",
       "family": "Virtual",

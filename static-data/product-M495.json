@@ -1,5 +1,5 @@
 {
-  "id": 822,
+  "id": 912,
   "slug": "M495",
   "name": "Firebox M495",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "Enterprise-grade security with modular expansion",
   "image_file": "m495.jpg",
   "appliance": {
-    "id": 13980,
+    "id": 15584,
     "sku_code": "WGM495000",
     "full_sku": "NWG-WGM495000",
     "name": "WatchGuard Firebox M495 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14964,
+      "id": 16568,
       "sku_code": "WGM49520801",
       "full_sku": "NWG-WGM49520801",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M495",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14912,
+      "id": 16516,
       "sku_code": "WGM49520803",
       "full_sku": "NWG-WGM49520803",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M495",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 15007,
+      "id": 16611,
       "sku_code": "WGM49540201",
       "full_sku": "NWG-WGM49540201",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M495",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 14902,
+      "id": 16506,
       "sku_code": "WGM49540203",
       "full_sku": "NWG-WGM49540203",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M495",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 14549,
+      "id": 16153,
       "sku_code": "WGM4950071",
       "full_sku": "NWG-WGM4950071",
       "name": "WatchGuard Basic Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 14550,
+      "id": 16154,
       "sku_code": "WGM4950073",
       "full_sku": "NWG-WGM4950073",
       "name": "WatchGuard Basic Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 14903,
+      "id": 16507,
       "sku_code": "WGM49540701",
       "full_sku": "NWG-WGM49540701",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M495",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 14994,
+      "id": 16598,
       "sku_code": "WGM49540703",
       "full_sku": "NWG-WGM49540703",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M495",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 14245,
+      "id": 15849,
       "sku_code": "WGM4950061",
       "full_sku": "NWG-WGM4950061",
       "name": "WatchGuard Standard Support for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 14028,
+      "id": 15632,
       "sku_code": "WGM4950063",
       "full_sku": "NWG-WGM4950063",
       "name": "WatchGuard Standard Support for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 14904,
+      "id": 16508,
       "sku_code": "WGM49540101",
       "full_sku": "NWG-WGM49540101",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M495",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 14996,
+      "id": 16600,
       "sku_code": "WGM49540103",
       "full_sku": "NWG-WGM49540103",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M495",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 15011,
+      "id": 16615,
       "sku_code": "WGM49540301",
       "full_sku": "NWG-WGM49540301",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M495",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 14997,
+      "id": 16601,
       "sku_code": "WGM49540303",
       "full_sku": "NWG-WGM49540303",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M495",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 14554,
+      "id": 16158,
       "sku_code": "WGM4950081",
       "full_sku": "NWG-WGM4950081",
       "name": "WatchGuard Total Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 14014,
+      "id": 15618,
       "sku_code": "WGM4950083",
       "full_sku": "NWG-WGM4950083",
       "name": "WatchGuard Total Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
@@ -214,7 +214,7 @@
   ],
   "tradeUps": [
     {
-      "id": 14005,
+      "id": 15609,
       "sku_code": "WGM4950203",
       "full_sku": "NWG-WGM4950203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
@@ -226,7 +226,7 @@
       "term_years": 3
     },
     {
-      "id": 14022,
+      "id": 15626,
       "sku_code": "WGM4950211",
       "full_sku": "NWG-WGM4950211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
@@ -238,7 +238,7 @@
       "term_years": 1
     },
     {
-      "id": 14240,
+      "id": 15844,
       "sku_code": "WGM4950213",
       "full_sku": "NWG-WGM4950213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
@@ -252,7 +252,7 @@
   ],
   "highAvailability": [
     {
-      "id": 14243,
+      "id": 15847,
       "sku_code": "WGM4951601",
       "full_sku": "NWG-WGM4951601",
       "name": "WatchGuard High Availability for M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
@@ -264,7 +264,7 @@
       "term_years": 1
     },
     {
-      "id": 14027,
+      "id": 15631,
       "sku_code": "WGM4951603",
       "full_sku": "NWG-WGM4951603",
       "name": "WatchGuard High Availability for M495 - 3-Year (License ONLY; HW SKU: WGM495000)",

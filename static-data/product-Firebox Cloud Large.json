@@ -1,5 +1,5 @@
 {
-  "id": 769,
+  "id": 859,
   "slug": "Firebox Cloud Large",
   "name": "Firebox Cloud Large",
   "family": "Cloud",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 13443,
+      "id": 15047,
       "sku_code": "WGCLG171",
       "full_sku": "NWG-WGCLG171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox Cloud Large",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 14109,
+      "id": 15713,
       "sku_code": "WGCLG172",
       "full_sku": "NWG-WGCLG172",
       "name": "WatchGuard APT Blocker 2-yr for Firebox Cloud Large",
@@ -33,7 +33,7 @@
       "term_years": 2
     },
     {
-      "id": 13472,
+      "id": 15076,
       "sku_code": "WGCLG173",
       "full_sku": "NWG-WGCLG173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox Cloud Large",
@@ -45,7 +45,7 @@
       "term_years": 3
     },
     {
-      "id": 14144,
+      "id": 15748,
       "sku_code": "WGCLG174",
       "full_sku": "NWG-WGCLG174",
       "name": "WatchGuard APT Blocker 4-yr for Firebox Cloud Large",
@@ -57,7 +57,7 @@
       "term_years": 4
     },
     {
-      "id": 14589,
+      "id": 16193,
       "sku_code": "WGCLG175",
       "full_sku": "NWG-WGCLG175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox Cloud Large",
@@ -69,7 +69,7 @@
       "term_years": 5
     },
     {
-      "id": 13652,
+      "id": 15256,
       "sku_code": "WGCLG151",
       "full_sku": "NWG-WGCLG151",
       "name": "WatchGuard Application Control 1-yr for Firebox Cloud Large",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 13602,
+      "id": 15206,
       "sku_code": "WGCLG331",
       "full_sku": "NWG-WGCLG331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Large",
@@ -93,7 +93,7 @@
       "term_years": 1
     },
     {
-      "id": 13418,
+      "id": 15022,
       "sku_code": "WGCLG333",
       "full_sku": "NWG-WGCLG333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Large",
@@ -105,7 +105,7 @@
       "term_years": 3
     },
     {
-      "id": 13546,
+      "id": 15150,
       "sku_code": "WGCLG031",
       "full_sku": "NWG-WGCLG031",
       "name": "WatchGuard Firebox Cloud Large with 1-yr Basic Security Suite",
@@ -117,7 +117,7 @@
       "term_years": 1
     },
     {
-      "id": 14194,
+      "id": 15798,
       "sku_code": "WGCLG032",
       "full_sku": "NWG-WGCLG032",
       "name": "WatchGuard Firebox Cloud Large with 2-yr Basic Security Suite",
@@ -129,7 +129,7 @@
       "term_years": 2
     },
     {
-      "id": 13435,
+      "id": 15039,
       "sku_code": "WGCLG033",
       "full_sku": "NWG-WGCLG033",
       "name": "WatchGuard Firebox Cloud Large with 3-yr Basic Security Suite",
@@ -141,7 +141,7 @@
       "term_years": 3
     },
     {
-      "id": 14482,
+      "id": 16086,
       "sku_code": "WGCLG034",
       "full_sku": "NWG-WGCLG034",
       "name": "WatchGuard Firebox Cloud Large with 4-yr Basic Security Suite",
@@ -153,7 +153,7 @@
       "term_years": 4
     },
     {
-      "id": 14150,
+      "id": 15754,
       "sku_code": "WGCLG035",
       "full_sku": "NWG-WGCLG035",
       "name": "WatchGuard Firebox Cloud Large with 5-yr Basic Security Suite",
@@ -165,7 +165,7 @@
       "term_years": 5
     },
     {
-      "id": 13723,
+      "id": 15327,
       "sku_code": "WGCLG521",
       "full_sku": "NWG-WGCLG521",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Large - 1-yr",
@@ -177,7 +177,7 @@
       "term_years": 1
     },
     {
-      "id": 14110,
+      "id": 15714,
       "sku_code": "WGCLG522",
       "full_sku": "NWG-WGCLG522",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Large - 2-yr",
@@ -189,7 +189,7 @@
       "term_years": 2
     },
     {
-      "id": 13594,
+      "id": 15198,
       "sku_code": "WGCLG523",
       "full_sku": "NWG-WGCLG523",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Large - 3-yr",
@@ -201,7 +201,7 @@
       "term_years": 3
     },
     {
-      "id": 14199,
+      "id": 15803,
       "sku_code": "WGCLG524",
       "full_sku": "NWG-WGCLG524",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Large - 4-yr",
@@ -213,7 +213,7 @@
       "term_years": 4
     },
     {
-      "id": 14491,
+      "id": 16095,
       "sku_code": "WGCLG525",
       "full_sku": "NWG-WGCLG525",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Large - 5-yr",
@@ -225,7 +225,7 @@
       "term_years": 5
     },
     {
-      "id": 13444,
+      "id": 15048,
       "sku_code": "WGCLG121",
       "full_sku": "NWG-WGCLG121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for Firebox Cloud Large",
@@ -237,7 +237,7 @@
       "term_years": 1
     },
     {
-      "id": 13492,
+      "id": 15096,
       "sku_code": "WGCLG261",
       "full_sku": "NWG-WGCLG261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox Cloud Large",
@@ -249,7 +249,7 @@
       "term_years": 1
     },
     {
-      "id": 13471,
+      "id": 15075,
       "sku_code": "WGCLG263",
       "full_sku": "NWG-WGCLG263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox Cloud Large",
@@ -261,7 +261,7 @@
       "term_years": 3
     },
     {
-      "id": 13493,
+      "id": 15097,
       "sku_code": "WGCLG131",
       "full_sku": "NWG-WGCLG131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for Firebox Cloud Large",
@@ -273,7 +273,7 @@
       "term_years": 1
     },
     {
-      "id": 13520,
+      "id": 15124,
       "sku_code": "WGCLG141",
       "full_sku": "NWG-WGCLG141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for Firebox Cloud Large",
@@ -285,7 +285,7 @@
       "term_years": 1
     },
     {
-      "id": 13547,
+      "id": 15151,
       "sku_code": "WGCLG001",
       "full_sku": "NWG-WGCLG001",
       "name": "WatchGuard Firebox Cloud Large with 1-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -297,7 +297,7 @@
       "term_years": 1
     },
     {
-      "id": 14479,
+      "id": 16083,
       "sku_code": "WGCLG002",
       "full_sku": "NWG-WGCLG002",
       "name": "WatchGuard Firebox Cloud Large with 2-yr Standard Support",
@@ -309,7 +309,7 @@
       "term_years": 2
     },
     {
-      "id": 13561,
+      "id": 15165,
       "sku_code": "WGCLG003",
       "full_sku": "NWG-WGCLG003",
       "name": "WatchGuard Firebox Cloud Large with 3-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -321,7 +321,7 @@
       "term_years": 3
     },
     {
-      "id": 14581,
+      "id": 16185,
       "sku_code": "WGCLG004",
       "full_sku": "NWG-WGCLG004",
       "name": "WatchGuard Firebox Cloud Large with 4-yr Standard Support",
@@ -333,7 +333,7 @@
       "term_years": 4
     },
     {
-      "id": 14088,
+      "id": 15692,
       "sku_code": "WGCLG005",
       "full_sku": "NWG-WGCLG005",
       "name": "WatchGuard Firebox Cloud Large with 5-yr Standard Support",
@@ -345,7 +345,7 @@
       "term_years": 5
     },
     {
-      "id": 13628,
+      "id": 15232,
       "sku_code": "WGCLG201",
       "full_sku": "NWG-WGCLG201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox Cloud Large",
@@ -357,7 +357,7 @@
       "term_years": 1
     },
     {
-      "id": 13603,
+      "id": 15207,
       "sku_code": "WGCLG203",
       "full_sku": "NWG-WGCLG203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox Cloud Large",
@@ -369,7 +369,7 @@
       "term_years": 3
     },
     {
-      "id": 13417,
+      "id": 15021,
       "sku_code": "WGCLG351",
       "full_sku": "NWG-WGCLG351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Large",
@@ -381,7 +381,7 @@
       "term_years": 1
     },
     {
-      "id": 13491,
+      "id": 15095,
       "sku_code": "WGCLG353",
       "full_sku": "NWG-WGCLG353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Large",
@@ -393,7 +393,7 @@
       "term_years": 3
     },
     {
-      "id": 13545,
+      "id": 15149,
       "sku_code": "WGCLG641",
       "full_sku": "NWG-WGCLG641",
       "name": "WatchGuard Firebox Cloud Large with 1-yr Total Security Suite",
@@ -405,7 +405,7 @@
       "term_years": 1
     },
     {
-      "id": 14111,
+      "id": 15715,
       "sku_code": "WGCLG642",
       "full_sku": "NWG-WGCLG642",
       "name": "WatchGuard Firebox Cloud Large with 2-yr Total Security Suite",
@@ -417,7 +417,7 @@
       "term_years": 2
     },
     {
-      "id": 13560,
+      "id": 15164,
       "sku_code": "WGCLG643",
       "full_sku": "NWG-WGCLG643",
       "name": "WatchGuard Firebox Cloud Large with 3-yr Total Security Suite",
@@ -429,7 +429,7 @@
       "term_years": 3
     },
     {
-      "id": 14156,
+      "id": 15760,
       "sku_code": "WGCLG644",
       "full_sku": "NWG-WGCLG644",
       "name": "WatchGuard Firebox Cloud Large with 4-yr Total Security Suite",
@@ -441,7 +441,7 @@
       "term_years": 4
     },
     {
-      "id": 14157,
+      "id": 15761,
       "sku_code": "WGCLG645",
       "full_sku": "NWG-WGCLG645",
       "name": "WatchGuard Firebox Cloud Large with 5-yr Total Security Suite",
@@ -453,7 +453,7 @@
       "term_years": 5
     },
     {
-      "id": 13457,
+      "id": 15061,
       "sku_code": "WGCLG101",
       "full_sku": "NWG-WGCLG101",
       "name": "WatchGuard WebBlocker 1-yr for Firebox Cloud Large",
@@ -467,7 +467,7 @@
   ],
   "tradeUps": [
     {
-      "id": 13548,
+      "id": 15152,
       "sku_code": "WGCLG061",
       "full_sku": "NWG-WGCLG061",
       "name": "Trade up to WatchGuard Firebox Cloud Large with 1-yr Basic Security Suite",
@@ -479,7 +479,7 @@
       "term_years": 1
     },
     {
-      "id": 13707,
+      "id": 15311,
       "sku_code": "WGCLG063",
       "full_sku": "NWG-WGCLG063",
       "name": "Trade up to WatchGuard Firebox Cloud Large with 3-yr Basic Security Suite",
@@ -491,7 +491,7 @@
       "term_years": 3
     },
     {
-      "id": 13678,
+      "id": 15282,
       "sku_code": "WGCLG671",
       "full_sku": "NWG-WGCLG671",
       "name": "Trade up to WatchGuard Firebox Cloud Large with 1-yr Total Security Suite",
@@ -503,7 +503,7 @@
       "term_years": 1
     },
     {
-      "id": 13434,
+      "id": 15038,
       "sku_code": "WGCLG673",
       "full_sku": "NWG-WGCLG673",
       "name": "Trade up to WatchGuard Firebox Cloud Large with 3-yr Total Security Suite",

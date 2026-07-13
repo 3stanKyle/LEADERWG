@@ -1,5 +1,5 @@
 {
-  "id": 796,
+  "id": 886,
   "slug": "AP130",
   "name": "WatchGuard AP130",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Entry-level Wi-Fi 6 for small offices and remote workers",
   "image_file": "AP130.jpg",
   "appliance": {
-    "id": 13824,
+    "id": 15428,
     "sku_code": "WGA130000",
     "full_sku": "NWG-WGA130000",
     "name": "WatchGuard AP130 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 13852,
+      "id": 15456,
       "sku_code": "WGA13022101",
       "full_sku": "NWG-WGA13022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 1-year (License ONLY; HW SKU: WGA130000)",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14159,
+      "id": 15763,
       "sku_code": "WGAP13022101",
       "full_sku": "NWG-WGAP13022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 1-year",
@@ -44,7 +44,7 @@
       "term_years": 1
     },
     {
-      "id": 14278,
+      "id": 15882,
       "sku_code": "WGAP13022102",
       "full_sku": "NWG-WGAP13022102",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 2-year",
@@ -56,7 +56,7 @@
       "term_years": 2
     },
     {
-      "id": 13853,
+      "id": 15457,
       "sku_code": "WGA13022103",
       "full_sku": "NWG-WGA13022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 3-year (License ONLY; HW SKU: WGA130000)",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 14160,
+      "id": 15764,
       "sku_code": "WGAP13022103",
       "full_sku": "NWG-WGAP13022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 3-year",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 14279,
+      "id": 15883,
       "sku_code": "WGAP13022104",
       "full_sku": "NWG-WGAP13022104",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 4-year",
@@ -92,7 +92,7 @@
       "term_years": 4
     },
     {
-      "id": 14161,
+      "id": 15765,
       "sku_code": "WGAP13022105",
       "full_sku": "NWG-WGAP13022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 5-year",
@@ -104,7 +104,7 @@
       "term_years": 5
     },
     {
-      "id": 14508,
+      "id": 16112,
       "sku_code": "WGA13022105",
       "full_sku": "NWG-WGA13022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP130 - 5-year (License ONLY; HW SKU: WGA130000)",
@@ -116,7 +116,7 @@
       "term_years": 5
     },
     {
-      "id": 14304,
+      "id": 15908,
       "sku_code": "WGA13022001",
       "full_sku": "NWG-WGA13022001",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 1-year (License ONLY; HW SKU: WGA130000)",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 14425,
+      "id": 16029,
       "sku_code": "WGAP13022001",
       "full_sku": "NWG-WGAP13022001",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 1-year",
@@ -140,7 +140,7 @@
       "term_years": 1
     },
     {
-      "id": 14108,
+      "id": 15712,
       "sku_code": "WGAP13022002",
       "full_sku": "NWG-WGAP13022002",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 2-year",
@@ -152,7 +152,7 @@
       "term_years": 2
     },
     {
-      "id": 13918,
+      "id": 15522,
       "sku_code": "WGA13000503",
       "full_sku": "NWG-WGA13000503",
       "name": "USP Wi-Fi Management for WatchGuard AP130 NFR - 3-year (License ONLY; HW SKU: WGA130000)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 14107,
+      "id": 15711,
       "sku_code": "WGAP13000503",
       "full_sku": "NWG-WGAP13000503",
       "name": "USP Wi-Fi Management for WatchGuard AP130 NFR - 3-year",
@@ -176,7 +176,7 @@
       "term_years": 3
     },
     {
-      "id": 14343,
+      "id": 15947,
       "sku_code": "WGA13022003",
       "full_sku": "NWG-WGA13022003",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 3-year (License ONLY; HW SKU: WGA130000)",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 14490,
+      "id": 16094,
       "sku_code": "WGAP13022003",
       "full_sku": "NWG-WGAP13022003",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 3-year",
@@ -200,7 +200,7 @@
       "term_years": 3
     },
     {
-      "id": 14588,
+      "id": 16192,
       "sku_code": "WGAP13022004",
       "full_sku": "NWG-WGAP13022004",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 4-year",
@@ -212,7 +212,7 @@
       "term_years": 4
     },
     {
-      "id": 14143,
+      "id": 15747,
       "sku_code": "WGAP13022005",
       "full_sku": "NWG-WGAP13022005",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 5-year",
@@ -224,7 +224,7 @@
       "term_years": 5
     },
     {
-      "id": 14507,
+      "id": 16111,
       "sku_code": "WGA13022005",
       "full_sku": "NWG-WGA13022005",
       "name": "USP Wi-Fi Management for WatchGuard AP130 - 5-year (License ONLY; HW SKU: WGA130000)",

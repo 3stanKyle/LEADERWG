@@ -2,7 +2,7 @@
   "label": "Endpoint & Mobile",
   "products": [
     {
-      "id": 783,
+      "id": 873,
       "slug": "Advanced Reporting Tool",
       "name": "Advanced Reporting Tool",
       "family": "Endpoint & Mobile",
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "id": 778,
+      "id": 868,
       "slug": "DNSWatchGO",
       "name": "DNSWatchGO",
       "family": "Endpoint & Mobile",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 831,
+      "id": 921,
       "slug": "Endpoint Security 360",
       "name": "Endpoint Security 360",
       "family": "Endpoint & Mobile",
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "id": 830,
+      "id": 920,
       "slug": "Endpoint Security Basic",
       "name": "Endpoint Security Basic",
       "family": "Endpoint & Mobile",
@@ -684,7 +684,7 @@
       ]
     },
     {
-      "id": 838,
+      "id": 928,
       "slug": "Endpoint Security Data Retention",
       "name": "Endpoint Security Data Retention",
       "family": "Endpoint & Mobile",
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "id": 832,
+      "id": 922,
       "slug": "Endpoint Security Elite",
       "name": "Endpoint Security Elite",
       "family": "Endpoint & Mobile",
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "id": 833,
+      "id": 923,
       "slug": "Endpoint Security Prime",
       "name": "Endpoint Security Prime",
       "family": "Endpoint & Mobile",
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "id": 827,
+      "id": 917,
       "slug": "Endpoint Security for Servers",
       "name": "Endpoint Security for Servers",
       "family": "Endpoint & Mobile",
@@ -1234,7 +1234,7 @@
       ]
     },
     {
-      "id": 784,
+      "id": 874,
       "slug": "Full Encryption",
       "name": "Full Encryption",
       "family": "Endpoint & Mobile",
@@ -1399,7 +1399,7 @@
       ]
     },
     {
-      "id": 828,
+      "id": 918,
       "slug": "Managed Zero-Trust",
       "name": "Managed Zero-Trust",
       "family": "Endpoint & Mobile",
@@ -1509,7 +1509,7 @@
       ]
     },
     {
-      "id": 780,
+      "id": 870,
       "slug": "Panda EPP+",
       "name": "Panda EPP+",
       "family": "Endpoint & Mobile",
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "id": 781,
+      "id": 871,
       "slug": "Passport",
       "name": "Passport",
       "family": "Endpoint & Mobile",
@@ -1707,7 +1707,7 @@
       ]
     },
     {
-      "id": 782,
+      "id": 872,
       "slug": "Patch Management",
       "name": "Patch Management",
       "family": "Endpoint & Mobile",
@@ -1872,7 +1872,7 @@
       ]
     },
     {
-      "id": 829,
+      "id": 919,
       "slug": "Zero-Trust",
       "name": "Zero-Trust",
       "family": "Endpoint & Mobile",

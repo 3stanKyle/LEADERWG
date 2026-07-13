@@ -2,7 +2,7 @@
   "label": "MDR & NDR",
   "products": [
     {
-      "id": 788,
+      "id": 878,
       "slug": "Compliance Reporting",
       "name": "Compliance Reporting",
       "family": "Reporting & Visibility",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 785,
+      "id": 875,
       "slug": "Core MDR",
       "name": "Core MDR",
       "family": "MDR & NDR",
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "id": 795,
+      "id": 885,
       "slug": "Core MDR for Microsoft",
       "name": "Core MDR for Microsoft",
       "family": "MDR & NDR",
@@ -1047,7 +1047,7 @@
       ]
     },
     {
-      "id": 776,
+      "id": 866,
       "slug": "Dimension Command",
       "name": "Dimension Command",
       "family": "Reporting & Visibility",
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "id": 834,
+      "id": 924,
       "slug": "Open MDR",
       "name": "Open MDR",
       "family": "MDR & NDR",
@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "id": 793,
+      "id": 883,
       "slug": "Orion",
       "name": "Orion",
       "family": "MDR & NDR",
@@ -1652,7 +1652,7 @@
       ]
     },
     {
-      "id": 791,
+      "id": 881,
       "slug": "SIEMFeeder",
       "name": "SIEMFeeder",
       "family": "Reporting & Visibility",
@@ -1817,7 +1817,7 @@
       ]
     },
     {
-      "id": 835,
+      "id": 925,
       "slug": "ThreatSync Open",
       "name": "ThreatSync Open",
       "family": "MDR & NDR",
@@ -2147,7 +2147,7 @@
       ]
     },
     {
-      "id": 789,
+      "id": 879,
       "slug": "ThreatSync+ NDR",
       "name": "ThreatSync+ NDR",
       "family": "MDR & NDR",
@@ -2246,7 +2246,7 @@
       ]
     },
     {
-      "id": 790,
+      "id": 880,
       "slug": "ThreatSync+ SaaS",
       "name": "ThreatSync+ SaaS",
       "family": "MDR & NDR",
@@ -2345,7 +2345,7 @@
       ]
     },
     {
-      "id": 813,
+      "id": 903,
       "slug": "Total MDR",
       "name": "Total MDR",
       "family": "MDR & NDR",
@@ -2510,7 +2510,7 @@
       ]
     },
     {
-      "id": 821,
+      "id": 911,
       "slug": "Total NDR",
       "name": "Total NDR",
       "family": "MDR & NDR",

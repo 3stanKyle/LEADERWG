@@ -1,5 +1,5 @@
 {
-  "id": 826,
+  "id": 916,
   "slug": "M395",
   "name": "Firebox M395",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "High-throughput firewall for demanding networks",
   "image_file": "m395.jpg",
   "appliance": {
-    "id": 14377,
+    "id": 15981,
     "sku_code": "WGM395000",
     "full_sku": "NWG-WGM395000",
     "name": "WatchGuard Firebox M395 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14932,
+      "id": 16536,
       "sku_code": "WGM39520801",
       "full_sku": "NWG-WGM39520801",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M395",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14977,
+      "id": 16581,
       "sku_code": "WGM39520803",
       "full_sku": "NWG-WGM39520803",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M395",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 14992,
+      "id": 16596,
       "sku_code": "WGM39540201",
       "full_sku": "NWG-WGM39540201",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M395",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 14918,
+      "id": 16522,
       "sku_code": "WGM39540203",
       "full_sku": "NWG-WGM39540203",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M395",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 14009,
+      "id": 15613,
       "sku_code": "WGM3950071",
       "full_sku": "NWG-WGM3950071",
       "name": "WatchGuard Basic Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 14010,
+      "id": 15614,
       "sku_code": "WGM3950073",
       "full_sku": "NWG-WGM3950073",
       "name": "WatchGuard Basic Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 14913,
+      "id": 16517,
       "sku_code": "WGM39521801",
       "full_sku": "NWG-WGM39521801",
       "name": "WatchGuard Cloud 1-month data retention for M395 - 1-yr",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 14979,
+      "id": 16583,
       "sku_code": "WGM39521803",
       "full_sku": "NWG-WGM39521803",
       "name": "WatchGuard Cloud 1-month data retention for M395 - 3-yr",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 14942,
+      "id": 16546,
       "sku_code": "WGM39540701",
       "full_sku": "NWG-WGM39540701",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M395",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 14959,
+      "id": 16563,
       "sku_code": "WGM39540703",
       "full_sku": "NWG-WGM39540703",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M395",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 14449,
+      "id": 16053,
       "sku_code": "WGM3950061",
       "full_sku": "NWG-WGM3950061",
       "name": "WatchGuard Standard Support for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 13991,
+      "id": 15595,
       "sku_code": "WGM3950063",
       "full_sku": "NWG-WGM3950063",
       "name": "WatchGuard Standard Support for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 14975,
+      "id": 16579,
       "sku_code": "WGM39540101",
       "full_sku": "NWG-WGM39540101",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M395",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 14931,
+      "id": 16535,
       "sku_code": "WGM39540103",
       "full_sku": "NWG-WGM39540103",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M395",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 14920,
+      "id": 16524,
       "sku_code": "WGM39540301",
       "full_sku": "NWG-WGM39540301",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M395",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 14945,
+      "id": 16549,
       "sku_code": "WGM39540303",
       "full_sku": "NWG-WGM39540303",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M395",
@@ -212,7 +212,7 @@
       "term_years": 3
     },
     {
-      "id": 14013,
+      "id": 15617,
       "sku_code": "WGM3950081",
       "full_sku": "NWG-WGM3950081",
       "name": "WatchGuard Total Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
@@ -224,7 +224,7 @@
       "term_years": 1
     },
     {
-      "id": 14553,
+      "id": 16157,
       "sku_code": "WGM3950083",
       "full_sku": "NWG-WGM3950083",
       "name": "WatchGuard Total Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
@@ -238,7 +238,7 @@
   ],
   "tradeUps": [
     {
-      "id": 14004,
+      "id": 15608,
       "sku_code": "WGM3950203",
       "full_sku": "NWG-WGM3950203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
@@ -250,7 +250,7 @@
       "term_years": 3
     },
     {
-      "id": 14445,
+      "id": 16049,
       "sku_code": "WGM3950211",
       "full_sku": "NWG-WGM3950211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
@@ -262,7 +262,7 @@
       "term_years": 1
     },
     {
-      "id": 14380,
+      "id": 15984,
       "sku_code": "WGM3950213",
       "full_sku": "NWG-WGM3950213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
@@ -276,7 +276,7 @@
   ],
   "highAvailability": [
     {
-      "id": 14242,
+      "id": 15846,
       "sku_code": "WGM3951601",
       "full_sku": "NWG-WGM3951601",
       "name": "WatchGuard High Availability for M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
@@ -288,7 +288,7 @@
       "term_years": 1
     },
     {
-      "id": 14026,
+      "id": 15630,
       "sku_code": "WGM3951603",
       "full_sku": "NWG-WGM3951603",
       "name": "WatchGuard High Availability for M395 - 3-Year (License ONLY; HW SKU: WGM395000)",

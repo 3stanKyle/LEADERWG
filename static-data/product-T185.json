@@ -1,5 +1,5 @@
 {
-  "id": 814,
+  "id": 904,
   "slug": "T185",
   "name": "Firebox T185",
   "family": "T-Series",
@@ -7,7 +7,7 @@
   "description": "High-performance tabletop for growing businesses",
   "image_file": "T185.jpg",
   "appliance": {
-    "id": 14337,
+    "id": 15941,
     "sku_code": "WGT185000",
     "full_sku": "NWG-WGT185000",
     "name": "WatchGuard Firebox T185 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 14922,
+      "id": 16526,
       "sku_code": "WGT185171",
       "full_sku": "NWG-WGT185171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T185",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 14980,
+      "id": 16584,
       "sku_code": "WGT185173",
       "full_sku": "NWG-WGT185173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T185",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 14923,
+      "id": 16527,
       "sku_code": "WGT185175",
       "full_sku": "NWG-WGT185175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T185",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 14925,
+      "id": 16529,
       "sku_code": "WGT185341",
       "full_sku": "NWG-WGT185341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T185",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 14884,
+      "id": 16488,
       "sku_code": "WGT185343",
       "full_sku": "NWG-WGT185343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T185",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 14532,
+      "id": 16136,
       "sku_code": "WGT1850075",
       "full_sku": "NWG-WGT1850075",
       "name": "WatchGuard Basic Security Suite for Firebox T185 - 5 -Year (License ONLY; HW SKU: WGT185000)",
@@ -92,7 +92,7 @@
       "term_years": null
     },
     {
-      "id": 13941,
+      "id": 15545,
       "sku_code": "WGT1850071",
       "full_sku": "NWG-WGT1850071",
       "name": "WatchGuard Basic Security Suite for Firebox T185 - 1-Year (License ONLY; HW SKU: WGT185000)",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 14531,
+      "id": 16135,
       "sku_code": "WGT1850073",
       "full_sku": "NWG-WGT1850073",
       "name": "WatchGuard Basic Security Suite for Firebox T185 - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 14886,
+      "id": 16490,
       "sku_code": "WGT18521801",
       "full_sku": "NWG-WGT18521801",
       "name": "WatchGuard Cloud 1-month data retention for T185 - 1-yr",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 15001,
+      "id": 16605,
       "sku_code": "WGT18521803",
       "full_sku": "NWG-WGT18521803",
       "name": "WatchGuard Cloud 1-month data retention for T185 - 3-yr",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 14924,
+      "id": 16528,
       "sku_code": "WGT185261",
       "full_sku": "NWG-WGT185261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T185",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 14981,
+      "id": 16585,
       "sku_code": "WGT185263",
       "full_sku": "NWG-WGT185263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T185",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 14002,
+      "id": 15606,
       "sku_code": "WGT1850061",
       "full_sku": "NWG-WGT1850061",
       "name": "WatchGuard Standard Support for Firebox T185 - 1-Year (License ONLY; HW SKU: WGT185000)",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 13933,
+      "id": 15537,
       "sku_code": "WGT1850063",
       "full_sku": "NWG-WGT1850063",
       "name": "WatchGuard Standard Support for Firebox T185 - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 14003,
+      "id": 15607,
       "sku_code": "WGT1850065",
       "full_sku": "NWG-WGT1850065",
       "name": "WatchGuard Standard Support for Firebox T185 - 5-Year (License ONLY; HW SKU: WGT185000)",
@@ -200,7 +200,7 @@
       "term_years": 5
     },
     {
-      "id": 15000,
+      "id": 16604,
       "sku_code": "WGT185201",
       "full_sku": "NWG-WGT185201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T185",
@@ -212,7 +212,7 @@
       "term_years": 1
     },
     {
-      "id": 14885,
+      "id": 16489,
       "sku_code": "WGT185203",
       "full_sku": "NWG-WGT185203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T185",
@@ -224,7 +224,7 @@
       "term_years": 3
     },
     {
-      "id": 14896,
+      "id": 16500,
       "sku_code": "WGT185351",
       "full_sku": "NWG-WGT185351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T185",
@@ -236,7 +236,7 @@
       "term_years": 1
     },
     {
-      "id": 14948,
+      "id": 16552,
       "sku_code": "WGT185353",
       "full_sku": "NWG-WGT185353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T185",
@@ -248,7 +248,7 @@
       "term_years": 3
     },
     {
-      "id": 14399,
+      "id": 16003,
       "sku_code": "WGT1850081",
       "full_sku": "NWG-WGT1850081",
       "name": "WatchGuard Total Security Suite for Firebox T185 - 1-Year (License ONLY; HW SKU: WGT185000)",
@@ -260,7 +260,7 @@
       "term_years": 1
     },
     {
-      "id": 14338,
+      "id": 15942,
       "sku_code": "WGT1850083",
       "full_sku": "NWG-WGT1850083",
       "name": "WatchGuard Total Security Suite for Firebox T185 - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -272,7 +272,7 @@
       "term_years": 3
     },
     {
-      "id": 13942,
+      "id": 15546,
       "sku_code": "WGT1850085",
       "full_sku": "NWG-WGT1850085",
       "name": "WatchGuard Total Security Suite for Firebox T185 - 5-Year (License ONLY; HW SKU: WGT185000)",
@@ -286,7 +286,7 @@
   ],
   "tradeUps": [
     {
-      "id": 14340,
+      "id": 15944,
       "sku_code": "WGT1850203",
       "full_sku": "NWG-WGT1850203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T185 - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -298,7 +298,7 @@
       "term_years": 3
     },
     {
-      "id": 13969,
+      "id": 15573,
       "sku_code": "WGT1850205",
       "full_sku": "NWG-WGT1850205",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T185 - 5-Year (License ONLY; HW SKU: WGT185000)",
@@ -310,7 +310,7 @@
       "term_years": 5
     },
     {
-      "id": 14222,
+      "id": 15826,
       "sku_code": "WGT1850211",
       "full_sku": "NWG-WGT1850211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T185 - 1-Year (License ONLY; HW SKU: WGT185000)",
@@ -322,7 +322,7 @@
       "term_years": 1
     },
     {
-      "id": 13970,
+      "id": 15574,
       "sku_code": "WGT1850213",
       "full_sku": "NWG-WGT1850213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T185 - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -334,7 +334,7 @@
       "term_years": 3
     },
     {
-      "id": 14223,
+      "id": 15827,
       "sku_code": "WGT1850215",
       "full_sku": "NWG-WGT1850215",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T185 - 5-Year (License ONLY; HW SKU: WGT185000)",
@@ -348,7 +348,7 @@
   ],
   "highAvailability": [
     {
-      "id": 14533,
+      "id": 16137,
       "sku_code": "WGT18501601",
       "full_sku": "NWG-WGT18501601",
       "name": "WatchGuard Standard Support for Firebox T185 High Availability - 1-Year (License ONLY; HW SKU: WGT185000)",
@@ -360,7 +360,7 @@
       "term_years": 1
     },
     {
-      "id": 14339,
+      "id": 15943,
       "sku_code": "WGT18501603",
       "full_sku": "NWG-WGT18501603",
       "name": "WatchGuard Standard Support for Firebox T185 High Availability - 3-Year (License ONLY; HW SKU: WGT185000)",
@@ -372,7 +372,7 @@
       "term_years": 3
     },
     {
-      "id": 13934,
+      "id": 15538,
       "sku_code": "WGT18501605",
       "full_sku": "NWG-WGT18501605",
       "name": "WatchGuard Standard Support for Firebox T185 High Availability - 5-Year (License ONLY; HW SKU: WGT185000)",

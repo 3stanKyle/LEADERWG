@@ -2,7 +2,7 @@
   "label": "Firebox Cloud",
   "products": [
     {
-      "id": 836,
+      "id": 926,
       "slug": "CloudDR",
       "name": "CloudDR",
       "family": "CloudDR",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 794,
+      "id": 884,
       "slug": "FireCloud Internet Access",
       "name": "FireCloud Internet Access",
       "family": "FireCloud",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "id": 815,
+      "id": 905,
       "slug": "FireCloud Total Access",
       "name": "FireCloud Total Access",
       "family": "FireCloud",
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "id": 769,
+      "id": 859,
       "slug": "Firebox Cloud Large",
       "name": "Firebox Cloud Large",
       "family": "Cloud",
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "id": 768,
+      "id": 858,
       "slug": "Firebox Cloud Medium",
       "name": "Firebox Cloud Medium",
       "family": "Cloud",
@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "id": 767,
+      "id": 857,
       "slug": "Firebox Cloud Small",
       "name": "Firebox Cloud Small",
       "family": "Cloud",
@@ -1795,7 +1795,7 @@
       ]
     },
     {
-      "id": 770,
+      "id": 860,
       "slug": "Firebox Cloud XLarge",
       "name": "Firebox Cloud XLarge",
       "family": "Cloud",

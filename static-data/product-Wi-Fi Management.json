@@ -1,5 +1,5 @@
 {
-  "id": 775,
+  "id": 865,
   "slug": "Wi-Fi Management",
   "name": "WatchGuard Wi-Fi Management",
   "family": "Access Points",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 13754,
+      "id": 15358,
       "sku_code": "WGWSM00621",
       "full_sku": "NWG-WGWSM00621",
       "name": "WatchGuard Standard Wi-Fi Management License 1-yr - Renewal, 1 AP",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 13785,
+      "id": 15389,
       "sku_code": "WGWSM00623",
       "full_sku": "NWG-WGWSM00623",
       "name": "WatchGuard Standard Wi-Fi Management License 3-yr - Renewal, 1 AP",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 13734,
+      "id": 15338,
       "sku_code": "WGWSM00625",
       "full_sku": "NWG-WGWSM00625",
       "name": "WatchGuard Standard Wi-Fi Management License 5-yr - Renewal, 1 AP",
@@ -45,7 +45,7 @@
       "term_years": 5
     },
     {
-      "id": 13755,
+      "id": 15359,
       "sku_code": "WGWUM22021",
       "full_sku": "NWG-WGWUM22021",
       "name": "WatchGuard USP Wi-Fi Management License 1-yr - Renewal/Upgrade, 1 AP",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 13749,
+      "id": 15353,
       "sku_code": "WGWUM22023",
       "full_sku": "NWG-WGWUM22023",
       "name": "WatchGuard USP Wi-Fi Management License 3-yr - Renewal/Upgrade, 1 AP",
@@ -69,7 +69,7 @@
       "term_years": 3
     },
     {
-      "id": 13733,
+      "id": 15337,
       "sku_code": "WGWUM22025",
       "full_sku": "NWG-WGWUM22025",
       "name": "WatchGuard USP Wi-Fi Management License 5-yr - Renewal/Upgrade, 1 AP",
