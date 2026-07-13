@@ -2,7 +2,7 @@
   "label": "Firebox Rackmount (M-Series)",
   "products": [
     {
-      "id": 82,
+      "id": 807,
       "slug": "M290",
       "name": "Firebox M290",
       "family": "M-Series",
@@ -13,10 +13,10 @@
         {
           "sku_code": "WGM2900203",
           "full_sku": "NWG-WGM2900203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M290 - 3-Year",
-          "msrp": 3615,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 3564,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?KOk3vOX0ogQ=ZXu2Etie8Z/uLh6q1jN3kg==QuvSjmFxvPA1pjz1yK/k718EMa2AZg==",
+          "url": "https://partner.leadersystems.com.au/products.html?rn5GPDMVDCs=+LjckfYZYe1ok/ZCFtzAAg==LP7jDqnB7ebV0mbf10pshHFU7/KQeQ==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -24,10 +24,10 @@
         {
           "sku_code": "WGM2900211",
           "full_sku": "NWG-WGM2900211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 1-Year",
-          "msrp": 2782,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 2743,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Yy/N6fo/X9Q=q1w/O7bHj8YDAsoOGa7Grg==HQ5ajYM/N4sLzNu/BDD5r6ohYWbFeA==",
+          "url": "https://partner.leadersystems.com.au/products.html?DmWns3fELZw=YmUozfoeDlOa8SJCZzkz7Q==R5frEgI7SR07key582N7Dd/0iOQpgA==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -35,10 +35,10 @@
         {
           "sku_code": "WGM2900213",
           "full_sku": "NWG-WGM2900213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 3-Year",
-          "msrp": 7638,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 7530,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?HNL4BaZWq2M=IupZB4VYmn9FWk9C59Ga5g==nrBoSFC9NpOeTJfqPbrNeLlLyFE1WQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?uSxeap8D/5k=qfMx/8HQvob7DtHSRpQ71A==KYiSjgrvByM+nrhzSJcOsIDzJoF5Zg==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -47,9 +47,9 @@
           "sku_code": "WGM29020801",
           "full_sku": "NWG-WGM29020801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M290",
-          "msrp": 935,
+          "msrp": 922,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Be6QB6UWqY0=KEl1lqZNigM6FaPPnl5/9A==ryzNl3Qb2b8Hku0XhYOFyvh/2xF7aw0=",
+          "url": "https://partner.leadersystems.com.au/products.html?sJJYONLHdLM=SFzImzxEaXjbSKvM3FaIfQ==Wnl1AhWVWgkQo7w44mBFUX416LnTw7o=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -58,9 +58,9 @@
           "sku_code": "WGM29020803",
           "full_sku": "NWG-WGM29020803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M290",
-          "msrp": 2255,
+          "msrp": 2224,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?m6yYIHgdv3I=1BtCnVmOSs0RLWhoVlqVrA==dMt+JKVHQU66Avyp0rSo+HNrR6Z1x0Q=",
+          "url": "https://partner.leadersystems.com.au/products.html?jGvNpqDXzRs=vmL76NPPZHFJa2gJBR0Orw==GIg1LSRg7fWpjb+Q0uLOOyJVGF+abl8=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -69,9 +69,9 @@
           "sku_code": "WGM29040201",
           "full_sku": "NWG-WGM29040201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M290",
-          "msrp": 1918,
+          "msrp": 1891,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?mHZSMteoHzA=WDN0yySJGpyZh7oeK+w10w==ppZsVCsNfgzRqN2e6lEUnbFXY1tOGtU=",
+          "url": "https://partner.leadersystems.com.au/products.html?pYP+K/cP9UA=V7AAhpItTXTc+wecffOtUQ==OiE538xDtxUnxjPC2zbePLUngZJl1x8=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -80,9 +80,9 @@
           "sku_code": "WGM29040203",
           "full_sku": "NWG-WGM29040203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M290",
-          "msrp": 4605,
+          "msrp": 4540,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?bluElDGqh2w=xsrq30MDBMZguxI8qHLs1g==5bkY/GLhHUJZQynVykVhuaG5G3Wvhz8=",
+          "url": "https://partner.leadersystems.com.au/products.html?KtT1iMOJG5Q=/VZYhyX+LyQhYEecni8qIw==Qjh4xkr+POKia+Vzt49ds2u9ytTo93o=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -90,10 +90,10 @@
         {
           "sku_code": "WGM2900071",
           "full_sku": "NWG-WGM2900071",
-          "name": "WatchGuard Basic Security Suite for Firebox M290 - 1-Year",
-          "msrp": 1941,
+          "name": "WatchGuard Basic Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 1914,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FXaXDtieTHw=T4bxoa8qkfQXP6x+rEth6g==OMsL+g4nxn526UKgCoK1NgrdhD6kxA==",
+          "url": "https://partner.leadersystems.com.au/products.html?N6n3ftGHvVQ=Vn/rdYYVc6r52avAWn++XA==qEHPTNACN2xLVbDMbVoFr4Ok9xym2Q==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -101,10 +101,10 @@
         {
           "sku_code": "WGM2900073",
           "full_sku": "NWG-WGM2900073",
-          "name": "WatchGuard Basic Security Suite for Firebox M290 - 3-Year",
-          "msrp": 4479,
+          "name": "WatchGuard Basic Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 4416,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xIi2+tA0i+0=l/xf+VrdxVW9hAxWI0y+Vw==bfPHN73f2UQAGQVorWlDDCSI0RqFWA==",
+          "url": "https://partner.leadersystems.com.au/products.html?Rx/ObST5Ktc=3d7uLLg37ofZ9GKODVT7ow==DalwcILo6DWaeZpvuYixUGBgEEMDCg==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -113,9 +113,9 @@
           "sku_code": "WGM29021801",
           "full_sku": "NWG-WGM29021801",
           "name": "WatchGuard Cloud 1-month data retention for M290 - 1-yr",
-          "msrp": 731,
+          "msrp": 721,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?0XzElrlyi3A=jM4UQK5KgVvhXzY3X5mlpA==CJ4jmzvT5ywdOeFGCz2Ar/oHpuXvPvw=",
+          "url": "https://partner.leadersystems.com.au/products.html?+MNf+01NW+M=4cRoE5RNulb1CCOTS7aj9g==0oUwba2aFHVoZT48mzZDER/t0RYri2E=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -124,9 +124,9 @@
           "sku_code": "WGM29021803",
           "full_sku": "NWG-WGM29021803",
           "name": "WatchGuard Cloud 1-month data retention for M290 - 3-yr",
-          "msrp": 2193,
+          "msrp": 2162,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?LLg2Tzs0PHw=m/ZEvB6SNpbA9dQwQufFvw==VHKhm6/63jtEGUA7J3HBayyylQZT3cA=",
+          "url": "https://partner.leadersystems.com.au/products.html?BhuKZ3/yCrQ=l6Hkdbd3J/rRXj2rxnHECQ==SzU7D8xcHomAncAHkEM/kjmwYqRjbVY=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -134,10 +134,10 @@
         {
           "sku_code": "WGM290000",
           "full_sku": "NWG-WGM290000",
-          "name": "WatchGuard Firebox M290 Appliance Only",
+          "name": "WatchGuard Firebox M290 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 2263,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?25G8t4aw4dk=eLXsKS+pQmY6ZLS6bool5A==Fy85f2ZnRBWu+yGIHkHx220yMHGk",
+          "url": "https://partner.leadersystems.com.au/products.html?6/gASFNaJkQ=x/doIM1Cccd/JoDo0CTqMw==a1yA2MJpeZrcLyNirDNOGS/IIm+h",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -146,9 +146,9 @@
           "sku_code": "WGM29040701",
           "full_sku": "NWG-WGM29040701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M290",
-          "msrp": 1000,
+          "msrp": 986,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?O8Q2REdtBRQ=R8oBKPQQyYjZV1WswywMMQ==834v1IqhTvKscY0DtV0LdP86RC6STC4=",
+          "url": "https://partner.leadersystems.com.au/products.html?oc4UE4JgJIg=hUGqlw2dIhNZ47A7AVYZfA==f3hpxWP69g+gxh46csyoRvwWqqcChaQ=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -157,9 +157,9 @@
           "sku_code": "WGM29040703",
           "full_sku": "NWG-WGM29040703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M290",
-          "msrp": 2334,
+          "msrp": 2301,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/OqrI/l9D6c=UCr8qGrs7l+WtPagrkEdqg==byOcA76pvGaBVK4fRjgL0To9z9OKbm8=",
+          "url": "https://partner.leadersystems.com.au/products.html?53GeyTcg2Jo=5t0WGvFM1SY1KEXwdpwyMQ==+M93z119zm81sJTyAe0mIznvsZCWW1w=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -167,10 +167,10 @@
         {
           "sku_code": "WGM2901601",
           "full_sku": "NWG-WGM2901601",
-          "name": "WatchGuard High Availability for M290 - 1-Year",
-          "msrp": 311,
+          "name": "WatchGuard High Availability for M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 357,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/2WXfRqbvys=gUlbaRrEEyBkOwrDYbSaUA==aPpM8d11jidBG730qFE7e1xa8srdWw==",
+          "url": "https://partner.leadersystems.com.au/products.html?xb2D2X8CTQ0=xAE/0nIzQum+0Qso6O5qAg==WBISR5KjG3OZ6kPEsaK4RBLF7C1Xtg==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -178,10 +178,10 @@
         {
           "sku_code": "WGM2901603",
           "full_sku": "NWG-WGM2901603",
-          "name": "WatchGuard High Availability for M290 - 3-Year",
-          "msrp": 751,
+          "name": "WatchGuard High Availability for M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 860,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?XAX71uoJKMk=oMplUt+YQFtc+rYhHJANqw==RfKG5jqRIUvvaioVSOX/geNdscvZ5Q==",
+          "url": "https://partner.leadersystems.com.au/products.html?E9D1PuSnXA8=hpWYS0k2FHGuY0xKUJMEKg==BlENtK3N3Ik4Bdu5nGI5rDhiZJyUNQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -190,9 +190,9 @@
           "sku_code": "WGM29040101",
           "full_sku": "NWG-WGM29040101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M290",
-          "msrp": 692,
+          "msrp": 682,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?oxhp7fxUt7Q=vR0T822ElzEgMgLj3hyCkg==07ilX/Pa9ws1FNrLbQHtNW1zYPNFeto=",
+          "url": "https://partner.leadersystems.com.au/products.html?xg/XNrxoo1c=OjYX7nSDimDIje9SKFlf0Q==MoqvWLe01JAe73VrjFRs28XQhIaL7BA=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -201,9 +201,9 @@
           "sku_code": "WGM29040103",
           "full_sku": "NWG-WGM29040103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M290",
-          "msrp": 1682,
+          "msrp": 1658,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xFd0W5F6R0E=h/C2VtzBDpJVR3wtab2G3w==bIypNsVAPy/xEAqtO17lBRUAWjRxIsg=",
+          "url": "https://partner.leadersystems.com.au/products.html?w2pw79D4LPE=qf9DTkicBK7l1ARMPCA/rg==A7M15pnp+D/IMJyy8ndRMScJ5D7XpsA=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -211,10 +211,10 @@
         {
           "sku_code": "WGM2900061",
           "full_sku": "NWG-WGM2900061",
-          "name": "WatchGuard Standard Support for Firebox M290 - 1-Year",
-          "msrp": 1195,
+          "name": "WatchGuard Standard Support for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 1178,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?m31kv0y9B4o=78GiH3/+wSZuYedJObgmhA==FKLGdaKEJITCgHoRESaeLc7l+ML7Nw==",
+          "url": "https://partner.leadersystems.com.au/products.html?9V52z0ikvi0=dcai/OQCeHEOvrJiVwcLJw==2SdUaAxG/44/0nOB918ByBliVMsLdQ==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -222,10 +222,10 @@
         {
           "sku_code": "WGM2900063",
           "full_sku": "NWG-WGM2900063",
-          "name": "WatchGuard Standard Support for Firebox M290 - 3-Year",
-          "msrp": 2114,
+          "name": "WatchGuard Standard Support for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 2084,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?lxR2FLeMZ3Q=KJrsUAb336PSyIi13EiQrA==lSKXCziKc981hinX6nO667McbmWwDg==",
+          "url": "https://partner.leadersystems.com.au/products.html?f4dRpr7JZ5c=NVs4BrlcN/1QGjjKsiroeA==fQA7ImTIE6my5qt4jJ2px/yt6U+vtA==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -234,9 +234,9 @@
           "sku_code": "WGM29040301",
           "full_sku": "NWG-WGM29040301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M290",
-          "msrp": 3685,
+          "msrp": 3634,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?v0bvuEJADH0=YogltHMPA7jf8KmhN5+9SA==3XfKWMgYso1sUUiVtnwZZnq2aR3nTRs=",
+          "url": "https://partner.leadersystems.com.au/products.html?Cbfc1/D/DYs=XAxTNKYcCDywgIhjreSQ8g==1Qch3790R+a2bHmYb/L5jc2Vc5N2dBo=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -245,9 +245,9 @@
           "sku_code": "WGM29040303",
           "full_sku": "NWG-WGM29040303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M290",
-          "msrp": 8832,
+          "msrp": 8708,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?eFuFWeg5clQ=7gMI3BbziX+ZNyW3efnnLA==UmDb4OhOXcir+VQ9fsvHp8eCclt10TI=",
+          "url": "https://partner.leadersystems.com.au/products.html?kmdUzNzyt9c=G16WcC8gvNvsjxY4JIM9Fg==J8t8IXUYtAcq6EogQX0k9+mj+I25hrY=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -255,10 +255,10 @@
         {
           "sku_code": "WGM2900081",
           "full_sku": "NWG-WGM2900081",
-          "name": "WatchGuard Total Security Suite for Firebox M290 - 1-Year",
-          "msrp": 3646,
+          "name": "WatchGuard Total Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 3595,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Wz8DnYeN5vM=x8u7GMR/rRUU4HFeVKqGsg==lAYS64HjprbgC8X6G/fHhheJtFnglA==",
+          "url": "https://partner.leadersystems.com.au/products.html?M0lkGQ7UBk4=SmLc4TKmKr5IbAJxAul1lA==rkkBI4QM1+/0RvLWXirrOIOB521GdA==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -266,10 +266,10 @@
         {
           "sku_code": "WGM2900083",
           "full_sku": "NWG-WGM2900083",
-          "name": "WatchGuard Total Security Suite for Firebox M290 - 3-Year",
-          "msrp": 8525,
+          "name": "WatchGuard Total Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
+          "msrp": 8405,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?RcdUTkcftXs=adLimlKMq9WlKU4Tb8mH+Q==1hhRvwVU3iopTpPvgeC8IefK18EbJg==",
+          "url": "https://partner.leadersystems.com.au/products.html?QqwMgpuq0/8=x4f4KKmeu8r58wXQvdFgOQ==M5H3ICxWOJaEc3DFF4kVxAtKJER5ZA==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "id": 83,
+      "id": 823,
       "slug": "M295",
       "name": "Firebox M295",
       "family": "M-Series",
@@ -286,23 +286,12 @@
       "image_file": "m295.jpg",
       "skus": [
         {
-          "sku_code": "WGM29540303",
-          "full_sku": "NWG-WGM29540303",
-          "name": "Total Security Renewal 3-yr for M295",
-          "msrp": 0,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?aAWzoivtBlM=jBCnuxjV6JIGEntIZIHLgw==Flwsfs5HuMnzhjdP7cxmG2DOT8M9tz8=",
-          "sku_type": "subscription",
-          "subscription_type": "Total Security Renewal",
-          "term_years": 3
-        },
-        {
           "sku_code": "WGM2950203",
           "full_sku": "NWG-WGM2950203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M295 - 3-Year",
-          "msrp": 6553,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M295 - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 6461,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6VOEb1bZWnQ=hmOc7qTowrb1KtPC4JbKeQ==kd2frAbSZCPT7FE5Jj2wqcFaI4Eq+g==",
+          "url": "https://partner.leadersystems.com.au/products.html?Lsn3uj1S96A=QomZvRS7seT/u0t2Lbq1Xg==etHKLYOqYQ+sM6LIFkR75bcdYpulYg==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -310,10 +299,10 @@
         {
           "sku_code": "WGM2950211",
           "full_sku": "NWG-WGM2950211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M295 - 1-Year",
-          "msrp": 5548,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M295 - 1-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 5470,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?taFJC4istZ8=I2snTq+A08BKURWfiqTqnA==0PtonLs//HufX9sBY1+O+ma+JeXZAg==",
+          "url": "https://partner.leadersystems.com.au/products.html?InYidfXXDKM=WGj3OANdlvE7Tk6GN124ww==VOlbVz+QFQmv8BtQRsLkAuZVuAv7Lw==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -321,43 +310,21 @@
         {
           "sku_code": "WGM2950213",
           "full_sku": "NWG-WGM2950213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M295 - 3-Year",
-          "msrp": 11409,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M295 - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 11248,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?fQGt0ko3pKs=M19NoUibjeHEs/lZXepRUw==DQ3UVihnDxSCV74sXBS2Xf4hOO+3xg==",
+          "url": "https://partner.leadersystems.com.au/products.html?7BaYhuAGwz0=w2li6QpaSJnR7nbLgwMxlA==BrzwVS1HATIF7BvENy+35jd+xXo5ew==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
-          "term_years": 3
-        },
-        {
-          "sku_code": "WGM2951601",
-          "full_sku": "NWG-WGM2951601",
-          "name": "WatchGuard  Standard Support for Firebox M295 High Availability - 1-Year",
-          "msrp": 629,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?zfmqiYkfkXg=OOdxQ8jXsl0knZ93lCVgDw==Q5elwQkaEBKukgoVjJh5bvVVsCvdCg==",
-          "sku_type": "high_availability",
-          "subscription_type": "High Availability",
-          "term_years": 1
-        },
-        {
-          "sku_code": "WGM2951603",
-          "full_sku": "NWG-WGM2951603",
-          "name": "WatchGuard  Standard Support for Firebox M295 High Availability - 3-Year",
-          "msrp": 2342,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?c643RGO4Bm4=R847niX7Kb3uB1B706r+uQ==/hvlA44p3LLVFsvcKyX0d1FTEa8x3A==",
-          "sku_type": "high_availability",
-          "subscription_type": "High Availability",
           "term_years": 3
         },
         {
           "sku_code": "WGM29520801",
           "full_sku": "NWG-WGM29520801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M295",
-          "msrp": 1038,
+          "msrp": 1023,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+ovRNGRK9xk=yhDARg5HZTjmkufwDdzvYw==ceqEJgCMKSYQoo063YV8W0zdhGpL/rU=",
+          "url": "https://partner.leadersystems.com.au/products.html?OTQkLrSyRak=jnEqML+WIdDOGz8fWpaXxw==zgjevdXpHVSRWDH7OTQHfMyMX+FkTNE=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -366,9 +333,9 @@
           "sku_code": "WGM29520803",
           "full_sku": "NWG-WGM29520803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M295",
-          "msrp": 2483,
+          "msrp": 2448,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NhUnsjDD0gs=uLmgxQC1Qi3rL3W2KQer1g==geeA+HL92pcdts2II3F9+Rni34zwNwo=",
+          "url": "https://partner.leadersystems.com.au/products.html?qploxEQ3Mh8=9NTeilfdtj7w5yx6ox9t/g==UBIBcYlwGt2IbjR5sxX50PSOQLm03AQ=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -377,9 +344,9 @@
           "sku_code": "WGM29540201",
           "full_sku": "NWG-WGM29540201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M295",
-          "msrp": 2845,
+          "msrp": 2805,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+Ec1mKLQizM=8zSn0BeHa9oCP/DMfTYbuQ==/fXHH++Xp5eNGWqk8qud2aUyNO3orbY=",
+          "url": "https://partner.leadersystems.com.au/products.html?Yt1s6evh1Is=tJDNYRMPqmJBjfPw1hrx1Q==gF1SB4uwHzjm2t4eoMrZBNBdvXGa/SE=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -388,9 +355,9 @@
           "sku_code": "WGM29540203",
           "full_sku": "NWG-WGM29540203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M295",
-          "msrp": 6820,
+          "msrp": 6724,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xv3OkXrHISs=KF9ff6nGw86ym4XYVdLfCQ==Vr0PlJypwWSlUQ/JzPR2nn1Pzt5RXJc=",
+          "url": "https://partner.leadersystems.com.au/products.html?i5xjBgny94U=zJ8D6elH5n4Jlf0yZSGiiQ==hhAt8rCcOBfK1iq3U08oNiU1TGWrX7w=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -398,10 +365,10 @@
         {
           "sku_code": "WGM2950071",
           "full_sku": "NWG-WGM2950071",
-          "name": "WatchGuard Basic Security Suite for Firebox M295 - 1-Year",
-          "msrp": 3756,
+          "name": "WatchGuard Basic Security Suite for Firebox M295 - 1-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 3703,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?vBMFR4Zb45c=7Ka4xDDVOJVAG00WEQix0g==IVFIHBPKhK+WxTHip05zxuDRxVN9yA==",
+          "url": "https://partner.leadersystems.com.au/products.html?6sgXPx7OFsI=kBGwfB9JZ2rhtVd+SHHzzQ==n082EI0tpchy+J84RSTiEQe1bhptvQ==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -409,10 +376,10 @@
         {
           "sku_code": "WGM2950073",
           "full_sku": "NWG-WGM2950073",
-          "name": "WatchGuard Basic Security Suite for Firebox M295 - 3-Year",
-          "msrp": 6978,
+          "name": "WatchGuard Basic Security Suite for Firebox M295 - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 6879,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ostYhHXTzEA=9vP/Hl8Il1Ix0tzo1VHSMw==c9ueWq0L4D/WFQy0hUHDL1YneakgpQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?tvFKAWyl2CI=K+/44aQgnl9la8TSGV3nIg==ulJJ61H/hzQhBZYBq+b2wuEkZHL+Qg==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -423,7 +390,7 @@
           "name": "WatchGuard Cloud 1-month data retention for M295 - 1-yr",
           "msrp": 818,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?maKYh9Ks6AI=hS6jrkqwtaHo4FwfSlKkDQ==DENWS92iWTsCl6IrgnowuOyBEJs/VEY=",
+          "url": "https://partner.leadersystems.com.au/products.html?Lb/4eVdU1zs=f6gxtUec9fIMsxeYKEnasg==NJk7I1RWrj4+Rnnoo5mybSfximwCNao=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -432,9 +399,9 @@
           "sku_code": "WGM29521803",
           "full_sku": "NWG-WGM29521803",
           "name": "WatchGuard Cloud 1-month data retention for M295 - 3-yr",
-          "msrp": 2420,
+          "msrp": 2386,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?LwS8oad8k1E=3WyrPh8HqyrqKc5MgkUULw==UpXTmF9PLYdcGN7M7lxPzhJIZEjsX0k=",
+          "url": "https://partner.leadersystems.com.au/products.html?2oguyiqhDKE=eam8wrvGbC+njmy66Mf8Cw==v90PAIU5WYmw8JXmkElNf0HJ6mPpO1Q=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -442,10 +409,10 @@
         {
           "sku_code": "WGM295000",
           "full_sku": "NWG-WGM295000",
-          "name": "WatchGuard Firebox M295 Appliance Only",
+          "name": "WatchGuard Firebox M295 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 1572,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?f+P56YCTCy8=S9Ja6Q+3mbBtIKJiOv9/7A==VLEGFj8wa3DfDltzpR7HX7bGItBC",
+          "url": "https://partner.leadersystems.com.au/products.html?xOwCENTrjfk=hbuHMwwHGQOkWQZx1jO08w==hGzKZ8Y1ktMAxHNyeZf86Z8yGbod",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -454,9 +421,9 @@
           "sku_code": "WGM29540701",
           "full_sku": "NWG-WGM29540701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M295",
-          "msrp": 1635,
+          "msrp": 1612,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?nJgNX/8UUQs=loarvjDI4JoLHa/5HDU1XQ==+M8waNxJnlcff/lqPm58+xtlM9MXKpY=",
+          "url": "https://partner.leadersystems.com.au/products.html?ICZqqGseP7k=Q1ZO9oaHdkcZ2z0z8Dt+Hw==4G6dUIq37X0QVzoJfv/EG3uljkmzL/E=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -465,20 +432,31 @@
           "sku_code": "WGM29540703",
           "full_sku": "NWG-WGM29540703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M295",
-          "msrp": 3929,
+          "msrp": 3874,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?denHFgdJAT0=oy22CmGjsFOFW6er5ZRwjQ==aq3zFvVTkH3RQjWEJKyW50L1yZn16Pg=",
+          "url": "https://partner.leadersystems.com.au/products.html?mrQhILxbrkU=4tzWus9uRYOGuQ9xvjmLqA==YFRhlF/jyeqvE5j55be1wWphUEVVZWA=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
+          "term_years": 3
+        },
+        {
+          "sku_code": "WGM2950023",
+          "full_sku": "NWG-WGM2950023",
+          "name": "WatchGuard NFR for Firebox M295 - 3 Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 3759,
+          "delivery_method": "Electronic",
+          "url": "https://partner.leadersystems.com.au/products.html?2YB1Z3lAvx0=55JJp9A0QdbqTTYRd8MYQg==XRpsYAbxH3bzWlcoa2yEtmXl/CvopA==",
+          "sku_type": "other",
+          "subscription_type": null,
           "term_years": 3
         },
         {
           "sku_code": "WGM29540101",
           "full_sku": "NWG-WGM29540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M295",
-          "msrp": 1100,
+          "msrp": 1699,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?V3aNwPUusfk=P3aKC42f8z8oWubPkAF4Uw==aJeLGx9xO2img4X85acah9WyYCM3VjU=",
+          "url": "https://partner.leadersystems.com.au/products.html?hYdFU6F8dEg=P9bJAXg2hRGp4hpndvnNMA==TD4tXddt7ZE4U31IOE++Dg6QmBkUkPc=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -487,9 +465,9 @@
           "sku_code": "WGM29540103",
           "full_sku": "NWG-WGM29540103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M295",
-          "msrp": 2625,
+          "msrp": 4077,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?YNE5n/PiCMY=E6+NnNT0kmTEmRdhHK46BQ==xD8J6TKAHP6LIz/v9WzcozO2NYgnEqw=",
+          "url": "https://partner.leadersystems.com.au/products.html?/DQZfr6f8Eg=jghYrBsUuB+7jgsWZN2Qww==NTiDumVhH4JPVQ/dITGM+dFJG7zgaVc=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -497,10 +475,10 @@
         {
           "sku_code": "WGM2950061",
           "full_sku": "NWG-WGM2950061",
-          "name": "WatchGuard Standard Support for Firebox M295 - 1-Year",
-          "msrp": 2813,
+          "name": "WatchGuard Standard Support for Firebox M295 - 1-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 2774,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Z2GSzt1Dq+8=rrtL3MNdziKbOKhCScRYxg==+FP+2dmJ1+ms4IWRd88TjKVDPk8LsA==",
+          "url": "https://partner.leadersystems.com.au/products.html?bHKhqTNNHqE=TdbIGcARgshTpLQlMzF++w==1F63nRuNR8AFJHRGHxse7/9yoQHRYw==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -508,32 +486,65 @@
         {
           "sku_code": "WGM2950063",
           "full_sku": "NWG-WGM2950063",
-          "name": "WatchGuard Standard Support for Firebox M295 - 3-Year",
-          "msrp": 4935,
+          "name": "WatchGuard Standard Support for Firebox M295 - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 4865,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FcZzvlv4V8o=95M4P3UaUahuSHVmdk271A==BZSm65HCBQAOr/weojKUEiUU6uxJcg==",
+          "url": "https://partner.leadersystems.com.au/products.html?5CQX2OZKDCo=xHPHaOscoYBebpjFYl1MCQ==mrr7qhv/cG0tbf4ufABTYo8rsvcbSw==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
+          "term_years": 3
+        },
+        {
+          "sku_code": "WGM2951601",
+          "full_sku": "NWG-WGM2951601",
+          "name": "WatchGuard Standard Support for Firebox M295 High Availability - 1-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 720,
+          "delivery_method": "Electronic",
+          "url": "https://partner.leadersystems.com.au/products.html?INrN45Qk6mM=B8Ts2PTk7q2suvZKFnY6SA==H3ra3AGGoKuRumIuwgfAtV5hdmhaQA==",
+          "sku_type": "high_availability",
+          "subscription_type": "High Availability",
+          "term_years": 1
+        },
+        {
+          "sku_code": "WGM2951603",
+          "full_sku": "NWG-WGM2951603",
+          "name": "WatchGuard Standard Support for Firebox M295 High Availability - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 2309,
+          "delivery_method": "Electronic",
+          "url": "https://partner.leadersystems.com.au/products.html?/pD0JZOoSac=rc2cFkD2yBYosEgWyhwkZg==xYz2qORwSUP/jKSySMiwrvEBink5Fw==",
+          "sku_type": "high_availability",
+          "subscription_type": "High Availability",
           "term_years": 3
         },
         {
           "sku_code": "WGM29540301",
           "full_sku": "NWG-WGM29540301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M295",
-          "msrp": 4982,
+          "msrp": 4912,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?nj9PUsPc7rc=5CaFG/Lg8VPp3PhkaoD3BQ==Aa3MzoQ5AUx1AvaCfSFrFJ/paAyxqMg=",
+          "url": "https://partner.leadersystems.com.au/products.html?EC1VYoO5je8=yiIx0UanOEd5kB3Evm2u8A==J9lWBCOdaSf2plBzC4B9pFcYCJ62cD8=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
         },
         {
+          "sku_code": "WGM29540303.",
+          "full_sku": "NWG-WGM29540303.",
+          "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M295",
+          "msrp": 0,
+          "delivery_method": "Electronic",
+          "url": "https://partner.leadersystems.com.au/products.html?iq6HqLpTqEU=Y+SLL2wlXT7170c13s8gRQ==WIoMd4UyNN6KgVBMUHHS3qaTFqt3nCLb",
+          "sku_type": "subscription",
+          "subscription_type": "Total Security Renewal",
+          "term_years": 3
+        },
+        {
           "sku_code": "WGM2950081",
           "full_sku": "NWG-WGM2950081",
-          "name": "WatchGuard Total Security Suite for Firebox M295 - 1-Year",
-          "msrp": 5925,
+          "name": "WatchGuard Total Security Suite for Firebox M295 - 1-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 5841,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?4AJvzSqbDgk=LnmYAN4lds+z1Y9kd2MbCw==nsgpw6RCo4K1yZy3+r8Ii9T6zHch8w==",
+          "url": "https://partner.leadersystems.com.au/products.html?zbDGfY5dWXw=Qold/klQvruZZIUyt3dRFQ==z2pnUyqXfug4QA9XBThH4iykWt/pTA==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -541,10 +552,10 @@
         {
           "sku_code": "WGM2950083",
           "full_sku": "NWG-WGM2950083",
-          "name": "WatchGuard Total Security Suite for Firebox M295 - 3-Year",
-          "msrp": 12085,
+          "name": "WatchGuard Total Security Suite for Firebox M295 - 3-Year (License ONLY; HW SKU: WGM295000)",
+          "msrp": 11915,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ehsyrzMm3yA=gfXsMYdzkHod/QyTSDvN2g==H2birTR8PrSYyxTikucLiMbnlYdH9A==",
+          "url": "https://partner.leadersystems.com.au/products.html?6ye4I9+3vUs=Wxr0g8tUwpdF3F3iWz93/A==SLzjuXzBtt6ukqhtlh/6k9bJ0jMusg==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -552,7 +563,7 @@
       ]
     },
     {
-      "id": 84,
+      "id": 797,
       "slug": "M390",
       "name": "Firebox M390",
       "family": "M-Series",
@@ -563,10 +574,10 @@
         {
           "sku_code": "WGM3900203",
           "full_sku": "NWG-WGM3900203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M390 - 3-Year",
-          "msrp": 5445,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 5369,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?u+G6AW+5cJc=LbGGMgBqlngdeGP1exr1Fg==/VvZ+5sZ1WKQO3AlLkekaQlxy5g1/w==",
+          "url": "https://partner.leadersystems.com.au/products.html?jOGg9eD5rHg=eg7ZdhLlNJO5l0mdJBPLZQ==2SxQ7aHE/g4iRWHV8n6AbvocShvg3g==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -574,10 +585,10 @@
         {
           "sku_code": "WGM3900211",
           "full_sku": "NWG-WGM3900211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M390 - 1-Year",
-          "msrp": 4196,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M390 - 1-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 4137,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?y7X7YMoucV4=YkkoJXf4wEK+BGKQ2aoGjQ==PL6mu7quzKIZqgLjbsnImqa8mLFwwQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?OO+ml7SlLUg=NPhdIzLoXdjRjkFO7N+mjA==YafMUg2JEfXRHuHgOXxZS/RtRkJBTw==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -585,10 +596,10 @@
         {
           "sku_code": "WGM3900213",
           "full_sku": "NWG-WGM3900213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M390 - 3-Year",
-          "msrp": 11503,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 11341,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?N3JY7MOvXP4=mK4DOlzN4iiorwcjq1SPEQ==ef+Ud9y+HTS7xSEiEs3QCwrV9UYm4A==",
+          "url": "https://partner.leadersystems.com.au/products.html?mrsirBXL0kI=zO6SQT+ffa+PW/fQz8LwxQ==I1Zx7VDoyQPZ3Cl8bh5KKkfxsJEymw==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -597,9 +608,9 @@
           "sku_code": "WGM39020801",
           "full_sku": "NWG-WGM39020801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M390",
-          "msrp": 1415,
+          "msrp": 1395,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?kk7quE9L/1Y=44IFsDdSZJbN3i9VQ2ifsQ==eeFpm2qtzGBeEIpgFepotgnNmLhASMM=",
+          "url": "https://partner.leadersystems.com.au/products.html?gyJyAQDHB3g=AtisDXxO6LRNq2HSAG6+Sw==RnMm0uQQkU7KRWl76xqa5G67XCiIa3c=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -608,9 +619,9 @@
           "sku_code": "WGM39020803",
           "full_sku": "NWG-WGM39020803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M390",
-          "msrp": 3387,
+          "msrp": 3339,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?dEJOM3yDofE=tHFwLT3NlR6FJIHm+VswNw==HozpFXIgJqWKYG9E8vGnNe1U6MdZOXg=",
+          "url": "https://partner.leadersystems.com.au/products.html?tDpNlFbmxJ8=HTNFP+q1NDf7NnDrw2oL8A==rHy6+4EZxraSFBSrWQCxfNV/HXYWLT8=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -619,9 +630,9 @@
           "sku_code": "WGM39040201",
           "full_sku": "NWG-WGM39040201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M390",
-          "msrp": 2892,
+          "msrp": 2851,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Um0OqTJEB6A=dVSuTKjSVI12rNrDxmsGyw==dnS/BLg1QnYq2FEDXH4/hgb8ueTliwE=",
+          "url": "https://partner.leadersystems.com.au/products.html?eZURZfOu3/c=CVa+Hd6hNr2ebxo1zu28FA==YRFt+G1yMHd005zbm+YJf55tnnnRsZo=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -630,9 +641,9 @@
           "sku_code": "WGM39040203",
           "full_sku": "NWG-WGM39040203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M390",
-          "msrp": 6923,
+          "msrp": 6825,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Du5XtXBgDOQ=XjHbtHlCmNPnXblFhagwqQ==uXVkEVlFEsx7JZk2n4v+lALpMxmO+/c=",
+          "url": "https://partner.leadersystems.com.au/products.html?H+jg5hC6oOU=w+P94S6Sc+EofUx789kesg==QTvEXSmfgv6izyA6sTudwJuUFblVLR8=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -640,10 +651,10 @@
         {
           "sku_code": "WGM3900071",
           "full_sku": "NWG-WGM3900071",
-          "name": "WatchGuard Basic Security Suite for Firebox M390 - 1-Year",
-          "msrp": 2931,
+          "name": "WatchGuard Basic Security Suite for Firebox M390 - 1-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 2890,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ohwTjpMbn3s=X1ITlg+Ps4JIkV/1TosW4Q==9n0SnI2IRIJ1hFa3pDszJg9lTf2H1Q==",
+          "url": "https://partner.leadersystems.com.au/products.html?/rgwo+0fVws=hR1sZ2yogBvvNdXBOcboIw==zv7oL41r2hmnthuchsi4DyUn0W5MZQ==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -651,10 +662,10 @@
         {
           "sku_code": "WGM3900073",
           "full_sku": "NWG-WGM3900073",
-          "name": "WatchGuard Basic Security Suite for Firebox M390 - 3-Year",
-          "msrp": 6742,
+          "name": "WatchGuard Basic Security Suite for Firebox M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 6647,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/DC32XansXQ=5ZnJ6Zr5JVnPA7EU3x4p3w==51Ww2gbAD/wKq5vMDQ3s3sPMFnOHcg==",
+          "url": "https://partner.leadersystems.com.au/products.html?Fr9NBt3OWgU=NrolJ5QezxSO9QZRVcNwXQ==2DM5jAI15sxXlMg236r4Np7AXEXm/w==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -663,9 +674,9 @@
           "sku_code": "WGM39021801",
           "full_sku": "NWG-WGM39021801",
           "name": "WatchGuard Cloud 1-month data retention for M390 - 1-yr",
-          "msrp": 943,
+          "msrp": 930,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?RPdEeUH2aJU=6YZUyDBpSk5nWgUmgPjM5A==9stE8+ZLCosD6IB5brRgFSZZxgFPrtM=",
+          "url": "https://partner.leadersystems.com.au/products.html?gK7y3Y88taU=DFIActMM2p/pQj7delEG2Q==wYfJR1ML4Iv/6v0zWEgLW4sXymgsv2I=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -674,9 +685,9 @@
           "sku_code": "WGM39021803",
           "full_sku": "NWG-WGM39021803",
           "name": "WatchGuard Cloud 1-month data retention for M390 - 3-yr",
-          "msrp": 2829,
+          "msrp": 2789,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?MYS8hez1HVg=i0sEDCAsHclGHcPaaUzGIA==boV/yCmm2OTlCLyTfOTeC0NPT2ZCw/4=",
+          "url": "https://partner.leadersystems.com.au/products.html?exDIelS7kFA=VneON/ZlSR//qywlbwxGYQ==ZT4ZkQfWzH7TCYKjZBqrq50CZ+Ygzfs=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -684,10 +695,10 @@
         {
           "sku_code": "WGM390000",
           "full_sku": "NWG-WGM390000",
-          "name": "WatchGuard Firebox M390 Appliance Only",
+          "name": "WatchGuard Firebox M390 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 3403,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?u7QSJo/m1dQ=fPftxpm3ioTnoJbumNEmyQ==9+g+0OOyqe9UtGXYaFT6DOubNLdU",
+          "url": "https://partner.leadersystems.com.au/products.html?pGxLJEkfbJ0=F9/3VQuIyFE2FP13C2KA9A==znjTt7N+wyENFjHEACeQNuZ0hS9h",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -696,9 +707,9 @@
           "sku_code": "WGM39040701",
           "full_sku": "NWG-WGM39040701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M390",
-          "msrp": 1509,
+          "msrp": 1488,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?VhjtoSKq8fU=JsOb322ihcUKmyRhGsbL8Q==WEChfq8XYJTBLvm0NNaiZJNMrLDiShk=",
+          "url": "https://partner.leadersystems.com.au/products.html?UxAifhOYEik=IogtZTiPUA1+Z8zbvM0YFw==5qHZIkS6OONxHqLSQKe7ZyU8DcVQhU8=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -707,9 +718,9 @@
           "sku_code": "WGM39040703",
           "full_sku": "NWG-WGM39040703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M390",
-          "msrp": 3513,
+          "msrp": 3463,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FpN5mpzU8HA=SEpEbSVFe6WubpIe/37NYA==letyj9ItB6j39mug3fcxnH0R7/iyXFQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?dMEsID2WiA8=PUoOJ47sbZSUPMk71yg/6Q==kYriSOKEzmBrfVysNSTVVx4PF5xmi/k=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -717,10 +728,10 @@
         {
           "sku_code": "WGM3901601",
           "full_sku": "NWG-WGM3901601",
-          "name": "WatchGuard High Availability for M390 - 1-Year",
-          "msrp": 460,
+          "name": "WatchGuard High Availability for M390 - 1-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 527,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?7l9nS7LrSy0=1KAfIB9nA5qHC5q35/jJEw==NRJps12E2QAQWLXq+ndyqKOpK0GsEQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?enV+fBCHR78=ZTi6lNi4H+pET56GTjUBHQ==Ov5FXOafK8Ii2FsbVKtI/0yw/McWDQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -728,10 +739,10 @@
         {
           "sku_code": "WGM3901603",
           "full_sku": "NWG-WGM3901603",
-          "name": "WatchGuard High Availability for M390 - 3-Year",
-          "msrp": 1110,
+          "name": "WatchGuard High Availability for M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 1271,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?KevlVK0iEe8=gBZEAw/Tz42zWRF2LuhcRg==DBur/91XsHuArdbAPe8qLluQvxXEYg==",
+          "url": "https://partner.leadersystems.com.au/products.html?ZUtE/C9Zo9w=jzbpy7obbFDN3Rd5p9T1fQ==RbA2ag8ZKZH8mqMzKwuf0+IrzyOnnQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -740,9 +751,9 @@
           "sku_code": "WGM39040101",
           "full_sku": "NWG-WGM39040101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M390",
-          "msrp": 1050,
+          "msrp": 1035,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?fI0/rBMewkA=1lEdxiGdoRhnGfLZss434g==Ir7DYayvxejhPmFjvWD8aGkxW0M0F6s=",
+          "url": "https://partner.leadersystems.com.au/products.html?GlYr4XIWcw8=9ACeBke8RaBCS0ru5l6NUA==enDlLdSQPpr4u9f+gThkRk9MWKVj17Q=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -751,9 +762,9 @@
           "sku_code": "WGM39040103",
           "full_sku": "NWG-WGM39040103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M390",
-          "msrp": 2523,
+          "msrp": 2487,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?u4dAL30/59M=kDsXBWv3i2o+bd1tWR977w==kcWmgOXLGv4MWI7jTLTxYlR8zFFRy18=",
+          "url": "https://partner.leadersystems.com.au/products.html?Lo+qhNM6Qos=lkfk3B0PZnW8+T0QAr453Q==DsMnL+LdoxzZQ8ARh7Ksw+cvJX4gQaQ=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -761,10 +772,10 @@
         {
           "sku_code": "WGM3900061",
           "full_sku": "NWG-WGM3900061",
-          "name": "WatchGuard Standard Support for Firebox M390 - 1-Year",
-          "msrp": 1800,
+          "name": "WatchGuard Standard Support for Firebox M390 - 1-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 1774,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xRIAqGhxE2c=tq2cp1BTwTVYo6wHoPma0g==24ONbyl2sGK6nNGTbLT23elvWp3Y7g==",
+          "url": "https://partner.leadersystems.com.au/products.html?CasfzQMvkPg=62+W1rtXa2My1ySqQodNyw==oETPLn1DHFlB+S/oYtRub4oHYW2j5w==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -772,10 +783,10 @@
         {
           "sku_code": "WGM3900063",
           "full_sku": "NWG-WGM3900063",
-          "name": "WatchGuard Standard Support for Firebox M390 - 3-Year",
-          "msrp": 3198,
+          "name": "WatchGuard Standard Support for Firebox M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 3153,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?yH5279uS+/E=tfgQqzIsrZQ+NFQ6Es87gQ==iiOOeM5niIo/eL1uH5Fa9vG3Ahsuqw==",
+          "url": "https://partner.leadersystems.com.au/products.html?CdgGBBIKgG4=7jvpxIqnQbydRO6zttGlXA==ezM0f1d1PerwtHwYnZs4FMXqqVoIoA==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -784,9 +795,9 @@
           "sku_code": "WGM39040301",
           "full_sku": "NWG-WGM39040301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M390",
-          "msrp": 5532,
+          "msrp": 5454,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?i7g7sRjqwx4=Kf09RB1EjzPjQGDqAQ+3VA==c/R7M6fxTnYsRjVAXBkQ2tHsTz1bq4s=",
+          "url": "https://partner.leadersystems.com.au/products.html?p+OzTWrhePU=L+S2Yivtf09aFh+TgepP3Q==iH9+Gs9CDgvzaetgCiHcnAFsaWIjLUU=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -795,9 +806,9 @@
           "sku_code": "WGM39040303",
           "full_sku": "NWG-WGM39040303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M390",
-          "msrp": 13287,
+          "msrp": 13100,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?UqjDphdLzGs=CGuNC8JVVIeuo9/l6KJcSw==dvvuqb+3OaxXkUgaT28QBaL/GJKLSts=",
+          "url": "https://partner.leadersystems.com.au/products.html?NOzeOExGiMQ=zNPx/NHyR3LRAJ2odUuNvQ==QuD0IFGpD36foETFbYBZolwn56j9zGE=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -805,10 +816,10 @@
         {
           "sku_code": "WGM3900081",
           "full_sku": "NWG-WGM3900081",
-          "name": "WatchGuard Total Security Suite for Firebox M390 - 1-Year",
-          "msrp": 5493,
+          "name": "WatchGuard Total Security Suite for Firebox M390 - 1-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 5415,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?GqrbhUf5eMg=19JdvlWfQXwQ6V6Xs1fDRg==JlV9Pz3hXzHMwAIFVuXUqmzKZJVOYA==",
+          "url": "https://partner.leadersystems.com.au/products.html?VhfMEcE0rFo=TqpfjxX9sF8DMuVIywlP7w==G0FCUtquYeFTKUZzcOfiD8WT0ARf6A==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -816,10 +827,10 @@
         {
           "sku_code": "WGM3900083",
           "full_sku": "NWG-WGM3900083",
-          "name": "WatchGuard Total Security Suite for Firebox M390 - 3-Year",
-          "msrp": 12831,
+          "name": "WatchGuard Total Security Suite for Firebox M390 - 3-Year (License ONLY; HW SKU: WGM390000)",
+          "msrp": 12650,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?G4eyZcDwrmk=SAO585rpPu09U20mtDHFGQ==tMoHD9207QMUUW6uh2J6WE1tiATiLg==",
+          "url": "https://partner.leadersystems.com.au/products.html?mhjEHW1xBA0=/+/H2nNjyj3KRmHtCOroBQ==HSMtMmLrMytqU6qa43mICMrMmy0Www==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -827,7 +838,7 @@
       ]
     },
     {
-      "id": 85,
+      "id": 826,
       "slug": "M395",
       "name": "Firebox M395",
       "family": "M-Series",
@@ -838,10 +849,10 @@
         {
           "sku_code": "WGM3950203",
           "full_sku": "NWG-WGM3950203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M395 - 3-Year",
-          "msrp": 11283,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 11124,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?1cAtaKQLzVg=MLQl4FnllFmEvRaBvKHW3Q==pwOc4wAEMNHTsS+NIGccFIJp7MDyBA==",
+          "url": "https://partner.leadersystems.com.au/products.html?apY8+yIBnc0=kgZjluCXpO5hH480ZxsLyw==FVXhipGad5y+MMTyQFBdDr56mFUrRg==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -849,10 +860,10 @@
         {
           "sku_code": "WGM3950211",
           "full_sku": "NWG-WGM3950211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 1-Year",
-          "msrp": 9586,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 9451,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/wp8yPat6nM=6ukU0EwwVv8R3iEOvSgelQ==gKO7WCaiILmpNHE8exbfDDovAcoSIw==",
+          "url": "https://partner.leadersystems.com.au/products.html?j0DfW2DJCgo=hYZv6gKWiWaFPpBKHM86YQ==xy4GfuQZRnvpTwmaZjfxd41PbbSO7g==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -860,10 +871,10 @@
         {
           "sku_code": "WGM3950213",
           "full_sku": "NWG-WGM3950213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 3-Year",
-          "msrp": 19549,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 19274,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ujAgkj8Mydo=XZ/Yzz7jf8svG7amKdcGbw==Yp8I0kQiCmESb86NNjfteebA42Zx7w==",
+          "url": "https://partner.leadersystems.com.au/products.html?SBfQjIHd57I=AAg60KG018PnxU+jUa7+hw==6aIoiPyW2y2cSUGH0oEn9hC3qUKb1g==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -872,9 +883,9 @@
           "sku_code": "WGM39520801",
           "full_sku": "NWG-WGM39520801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M395",
-          "msrp": 1556,
+          "msrp": 1534,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Lq8/Syhybpk=2d1LB3HxNtBXmn552fVzQw==fqvRXY0HrXJiIf/SmHKAU7KCFmlxxoA=",
+          "url": "https://partner.leadersystems.com.au/products.html?b7lpHdmU7k4=RhzjEmx/RwcDKE/miXaoCg==X2xPcUQX88XDjE+3X+SHxwz9O5D+v8M=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -883,9 +894,9 @@
           "sku_code": "WGM39520803",
           "full_sku": "NWG-WGM39520803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M395",
-          "msrp": 3740,
+          "msrp": 3688,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ml/eC7KC7Ng=J5+MT7hbS/r0qgDGXMAwIA==z+1bXPNjDIUR63ILJ507BylGcJXoj04=",
+          "url": "https://partner.leadersystems.com.au/products.html?1KR4QdnlwTQ=usjLH35FjYQ+8HSuEGD+Yg==BHdD4W56ZO79croAUGz8mMxvRc7JM/w=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -894,9 +905,9 @@
           "sku_code": "WGM39540201",
           "full_sku": "NWG-WGM39540201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M395",
-          "msrp": 4903,
+          "msrp": 4834,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?rKXGsTE5Sjc=VN8Yo37Gvrc12kiw8va1fg==ewxOEVLSnEXFm2EE4D8cIC3e7N8grkc=",
+          "url": "https://partner.leadersystems.com.au/products.html?uvXdx3NHAF0=iRTS4ljkzM0EpNujUIA8kA==lJsnm2Hyc8DCI1lw+a4WTEerkCy/DkU=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -905,9 +916,9 @@
           "sku_code": "WGM39540203",
           "full_sku": "NWG-WGM39540203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M395",
-          "msrp": 11755,
+          "msrp": 11589,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6f454lNfSqs=EOMy0R/k6Ktub8xwxaVQ9A==0QqGchtDCiLwoZl8gMH25RbSn3YORyM=",
+          "url": "https://partner.leadersystems.com.au/products.html?fQmRPB/vLkU=5U3GduhIKPv9mRAWrU92iw==ZOpt37g5AMAzXx5Apf1fYQwWVc5Zk7M=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -915,10 +926,10 @@
         {
           "sku_code": "WGM3950071",
           "full_sku": "NWG-WGM3950071",
-          "name": "WatchGuard Basic Security Suite for Firebox M395 - 1-Year",
-          "msrp": 6553,
+          "name": "WatchGuard Basic Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 6461,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?OIUsHwCdqNE=ShacC715IfaanSMIxfRSJA==HnnLWw+4ZP/x/uQuceBVhH09LNh1sQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?yBNmOZcwF3Q=pPmZ3wUlW+VlMPZ7ZDZsfw==4xfnjMpmlFCW4LYoisQFXV3f466m6Q==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -926,10 +937,10 @@
         {
           "sku_code": "WGM3950073",
           "full_sku": "NWG-WGM3950073",
-          "name": "WatchGuard Basic Security Suite for Firebox M395 - 3-Year",
-          "msrp": 12006,
+          "name": "WatchGuard Basic Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 11837,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FQvhSYQVL1E=rkrW3f/xQTY9XYEJGwNe7g==5hxcXHZHhCEV2agmWb/UjvPYkMfykw==",
+          "url": "https://partner.leadersystems.com.au/products.html?iKgRwk8qvEA=PsGmaYaitExkQjalhihNxA==SKhmqkcspM2pEJNLXfXF5HECgjsorQ==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -938,9 +949,9 @@
           "sku_code": "WGM39521801",
           "full_sku": "NWG-WGM39521801",
           "name": "WatchGuard Cloud 1-month data retention for M395 - 1-yr",
-          "msrp": 1038,
+          "msrp": 1023,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?37EQCEoJ7W4=g17tlzGD2u3QTFTpCUOEHQ==m1H+0PzapTtIzKTgWmVaElZ5wIWXASQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?PcckqrnSaHk=vS2xtdWmI1WAkX03arSLnw==FLHw6hcjm9GNNdheOobt0S/c3nQx3fE=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -949,9 +960,9 @@
           "sku_code": "WGM39521803",
           "full_sku": "NWG-WGM39521803",
           "name": "WatchGuard Cloud 1-month data retention for M395 - 3-yr",
-          "msrp": 3112,
+          "msrp": 3068,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ycphw1xvb50=wlQP0fVx8+fDcH106EyYFw==wvhqF0+6NKr4MmSr0TvgOO0SRD2uMJg=",
+          "url": "https://partner.leadersystems.com.au/products.html?xfapiOtYgH4=5ClYWAtfFgdwTiz3H3MSDw==0Maye1ZhAd7P18+h8zItcLFMaXuopWU=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -959,10 +970,10 @@
         {
           "sku_code": "WGM395000",
           "full_sku": "NWG-WGM395000",
-          "name": "WatchGuard Firebox M395 Appliance Only",
+          "name": "WatchGuard Firebox M395 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 2515,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?u75GJ2OEi3Q=DsEtdQQ+T/Ak2abaBogj7Q==cZWQ2ztjvR0ABpLKZ14V2V0gbrPs",
+          "url": "https://partner.leadersystems.com.au/products.html?4TnRPAfhlSk=8h/Vsn01ziUa8en1V9nU5A==b3pEA3wCy/5aCaRSGgnLgTnOiEeW",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -971,9 +982,9 @@
           "sku_code": "WGM39540701",
           "full_sku": "NWG-WGM39540701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M395",
-          "msrp": 2468,
+          "msrp": 2433,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?n1jU1LbOHFI=f6LstAkLT/W0cBiRTv32fg==EqjScYJkIAd/vMOx3X9NTwUEPdojl7o=",
+          "url": "https://partner.leadersystems.com.au/products.html?J/QKoNuhUes=r6MUCkOgqtN0ghNrTIDQ3g==8MfBncKAYMjtSXfMwN9vqmM0CpIdDIg=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -982,9 +993,9 @@
           "sku_code": "WGM39540703",
           "full_sku": "NWG-WGM39540703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M395",
-          "msrp": 5893,
+          "msrp": 5810,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Y6zf+OYU4sg=HTpWSmjhppSJDQWI8w+b6Q==4U6HAXszvkaEOySUdbxqmWr5q5/bL2c=",
+          "url": "https://partner.leadersystems.com.au/products.html?Rb2FrVP5APc=2QGm5KbOe8mjgvP+2Qyaqw==Gc7UJMhO88+fIKsw0wGFITQuieXHHKI=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -992,10 +1003,10 @@
         {
           "sku_code": "WGM3951601",
           "full_sku": "NWG-WGM3951601",
-          "name": "WatchGuard High Availability for M395 - 1-Year",
-          "msrp": 1226,
+          "name": "WatchGuard High Availability for M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 1264,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?wU3HWehbDS0=JB7osHzJxrlP5Q2llYv1HA==ecBl4e4U/WOAEd7QA6hjfROMLBJxcQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?cZN/TZDwSBc=Z6w15bHEkIuqdOE4sHzrCQ==7DvKJqOtNalPxX3/aLMoU0MlOLpkRQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -1003,10 +1014,10 @@
         {
           "sku_code": "WGM3951603",
           "full_sku": "NWG-WGM3951603",
-          "name": "WatchGuard High Availability for M395 - 3-Year",
-          "msrp": 4086,
+          "name": "WatchGuard High Availability for M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 4029,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?LmcoiwcNQSE=K8dVB2PtlUtJDt1bJDn47A==Ph+YbT7Zu3XiaZtWTc+rTLxkiASk3Q==",
+          "url": "https://partner.leadersystems.com.au/products.html?E28II/RZ49Q=jl4CAcO8NFdlECzt0cwBEg==auoj9tPDnEB7WyvKkmxWtRfY4rv5lA==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -1015,9 +1026,9 @@
           "sku_code": "WGM39540101",
           "full_sku": "NWG-WGM39540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M395",
-          "msrp": 1650,
+          "msrp": 2940,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?a4kw7WZBRGo=NWs4HBm5MXlhAomrr+5SCQ==BAW+IUeTpMYP8pO3R93mtnaR/xtjuk8=",
+          "url": "https://partner.leadersystems.com.au/products.html?16CF+NZb4AQ=A7sPzylfvYrgbKG4NCL6BQ==5g23nx2qfGP3O+UsxyKZvicH0+M57dw=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -1026,9 +1037,9 @@
           "sku_code": "WGM39540103",
           "full_sku": "NWG-WGM39540103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M395",
-          "msrp": 3929,
+          "msrp": 7033,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/qt4dV9r7w4=7MrB3injFXIt8f1SaxtxzA==Gf6rRPfADxDL96vfjOv8YY5QIzAZupU=",
+          "url": "https://partner.leadersystems.com.au/products.html?iOgK79n7p0c=3jFe8lQaCw3ecf7TJuIQMg==oZu/J01y3vLF4bC5RycQyFviV93q3Uc=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -1036,10 +1047,10 @@
         {
           "sku_code": "WGM3950061",
           "full_sku": "NWG-WGM3950061",
-          "name": "WatchGuard Standard Support for Firebox M395 - 1-Year",
-          "msrp": 4950,
+          "name": "WatchGuard Standard Support for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 4881,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?5KlF4SrZ44Q=vLDtdia0841wQGziu3akRg==H5e/ze9zaPHsNqL+gEQ9bLlkMjc6Qw==",
+          "url": "https://partner.leadersystems.com.au/products.html?9H/WVeVSiHY=Zbdj0eAUS2rkVRp9+XX1Sg==K2u9KjKo3MkjQoAA92mGfPFoPDpc6A==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -1047,10 +1058,10 @@
         {
           "sku_code": "WGM3950063",
           "full_sku": "NWG-WGM3950063",
-          "name": "WatchGuard Standard Support for Firebox M395 - 3-Year",
-          "msrp": 8486,
+          "name": "WatchGuard Standard Support for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 8367,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Ak+76GtlEkE=927SMHLZQBhIA1eBW5xF4A==A8ujbOyhxctngRlDE9eK9sM95G5kRg==",
+          "url": "https://partner.leadersystems.com.au/products.html?0nQTnHxROf8=uIsVxnzWwBL2wTfWmH8zxg==0j5gcApAW41STz8xbPQZyP3I+cRBzQ==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -1059,9 +1070,9 @@
           "sku_code": "WGM39540301",
           "full_sku": "NWG-WGM39540301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M395",
-          "msrp": 8533,
+          "msrp": 8413,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?mvynoX8gC30=1QrV8sb5Pv3tHYcPFtNU9A==l7pW3eBN9ijqzeUwXtmJJSALyd1Wyk0=",
+          "url": "https://partner.leadersystems.com.au/products.html?ROdN99/2sS0=/a5NToI78DfXAxtPBTA16Q==lPEt1amqweIN8CmjeVqUoCXF7LttQAo=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -1070,9 +1081,9 @@
           "sku_code": "WGM39540303",
           "full_sku": "NWG-WGM39540303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M395",
-          "msrp": 20460,
+          "msrp": 20172,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?3D7gItauXlo=jt4U0N51T7DRW6DhLQFaMw==aL8C2E1ry5GExb19I7ajzXHRI4wOR9g=",
+          "url": "https://partner.leadersystems.com.au/products.html?VTLU5QZI4t4=1Bk4/QZ0FB7kL9cM9SI7Ng==/XQ/rO4f8GCpv19t0YyEsU5FlXP2LoY=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -1080,10 +1091,10 @@
         {
           "sku_code": "WGM3950081",
           "full_sku": "NWG-WGM3950081",
-          "name": "WatchGuard Total Security Suite for Firebox M395 - 1-Year",
-          "msrp": 10215,
+          "name": "WatchGuard Total Security Suite for Firebox M395 - 1-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 10071,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?HofOakpjUHY=bm1HMxgr7KIbD+qWdUI8rA==LVbYuKL4gEoJPDRn94Yf7lixuyGVVg==",
+          "url": "https://partner.leadersystems.com.au/products.html?HjJkDiv/HCU=BffoBSJOcbkKCV4Q2Ad7GQ==9sCicEdDlmalywf4QnjZwppqegs0Dw==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1091,10 +1102,10 @@
         {
           "sku_code": "WGM3950083",
           "full_sku": "NWG-WGM3950083",
-          "name": "WatchGuard Total Security Suite for Firebox M395 - 3-Year",
-          "msrp": 20712,
+          "name": "WatchGuard Total Security Suite for Firebox M395 - 3-Year (License ONLY; HW SKU: WGM395000)",
+          "msrp": 20420,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?5mjLVWTTK8U=JSa9i0m5NRFL/rwNtZ8jBw==qjvnoHzm4QUbNR675JDWqNd72mFzWQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?mVs3zVO3Ch8=0pPMFkJGLnCLI8dkzpVjqQ==Cjko+UqIbjrWbOsZnzYe8TzphD5Kow==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1102,7 +1113,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 805,
       "slug": "M4800",
       "name": "Firebox M4800",
       "family": "M-Series",
@@ -1113,10 +1124,10 @@
         {
           "sku_code": "WGM48000203",
           "full_sku": "NWG-WGM48000203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M4800 - 3-Year",
-          "msrp": 32340,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 31885,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?b4BS9OuqLJ4=0DXVRrBAbBD8ilHpqMnKRg==EBLSrd3KLk2qAF9m2+0QPeqpavoXZzs=",
+          "url": "https://partner.leadersystems.com.au/products.html?Ed1q7u+hPiI=1nrc2Z2eYBHU9Fu6wCORCA==jjDxC0SjzHm9KpColB1btsujuWyg9ZE=",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1124,10 +1135,10 @@
         {
           "sku_code": "WGM48000201",
           "full_sku": "NWG-WGM48000201",
-          "name": "Trade Up to WatchGuard Basic Security Suite for M4800 - 1-Year",
-          "msrp": 13625,
+          "name": "Trade Up to WatchGuard Basic Security Suite for M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 13433,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FsdZOx4r5YQ=30WmXbUKlxmKcsk7PKqsUA==VGdFmxtc4y02t5IZ/tCY+XuNlYxxWxw=",
+          "url": "https://partner.leadersystems.com.au/products.html?deDjUTPMcF4=XTSdSjE+9UlHCYXP57cThQ==2aOXjxgQ7hV2MD9GT+DCdAjndR73xXI=",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -1135,10 +1146,10 @@
         {
           "sku_code": "WGM48000211",
           "full_sku": "NWG-WGM48000211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 1-Year",
-          "msrp": 26228,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 25858,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?3KhPrB2blpw=3APdHTSVwOUTxNWnxvx71w==MP8cwtwFCsnkSfpkylbSz6OFmTgoS68=",
+          "url": "https://partner.leadersystems.com.au/products.html?vvXVUpD4xso=HyGzVRfuNwCvty9xNmYUqg==rpUHWFWlO2T06t11JY7HcdpfcqiAIZc=",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1146,10 +1157,10 @@
         {
           "sku_code": "WGM48000213",
           "full_sku": "NWG-WGM48000213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 3-Year",
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
           "msrp": 86819,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?RpK1XS1qUIs=Z88KtxlcqXVMJMg4Up5qPQ==mpLE26nag0ory+OdMrn+iMUJm+BH6v4=",
+          "url": "https://partner.leadersystems.com.au/products.html?eyN2QFmJc3s=atPmmFHrLbDo11AhxoS+BA==5iih0+6vxn/2lSC9R6cHxDSoyVi6J8g=",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1160,7 +1171,7 @@
           "name": "WatchGuard APT Blocker 1-yr for Firebox M4800",
           "msrp": 6923,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?1pyJ6N6NnFs=A6YMXV8MirwJXhNINE41OQ==obb/Nnqw+828JAtYjw6hAQSEtcw=",
+          "url": "https://partner.leadersystems.com.au/products.html?svIMgc8AZfg=uALZ3PYAncCtyiCAlUOZDQ==bnUhsi4jqI467DH9h6xCVSS65ck=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -1171,7 +1182,7 @@
           "name": "WatchGuard APT Blocker 3-yr for Firebox M4800",
           "msrp": 16618,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?aL7Fruvy1Js=fisys0KTo42ZJ/lvTYLBHg==/LGmt/xy58yyCGuBIGbP6oVGlII=",
+          "url": "https://partner.leadersystems.com.au/products.html?0QgCZR0wkbc=y2gpHRfK85h0uG4sPzupsA==3OGrrM1ziDQVwzwDvL8Py9ejkJk=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -1182,7 +1193,7 @@
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M4800",
           "msrp": 14183,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?AIBH9pgO9QM=D4D7/S0O1RGAT6XJjtEu1A==HPqyq8Mk3LyhtXt8DzvH1Dzecu8=",
+          "url": "https://partner.leadersystems.com.au/products.html?B5FVsuUwRBw=R8hPfedGy81sQJXl1JQh1g==2k2Oy6G9zO+3+BVZWFHpl2bVLE4=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -1193,7 +1204,7 @@
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M4800",
           "msrp": 32985,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?dG6MVAJJTfo=6tWZodT6MkUqCrEwZYxHQw==VUW9q9FexHir9YfBT7Gz4/Kar/0=",
+          "url": "https://partner.leadersystems.com.au/products.html?oNMcSehFj6k=Nbi1sO6z/s49IZCE3DdBDA==kPsgr8psactK1QCJwnSxoFdMWdg=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -1201,10 +1212,10 @@
         {
           "sku_code": "WGM48000071",
           "full_sku": "NWG-WGM48000071",
-          "name": "WatchGuard Basic Security Suite for Firebox M4800 - 1-Year",
-          "msrp": 20013,
+          "name": "WatchGuard Basic Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 19731,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?z6v7qT6JPlM=Ok7KobM/3CBy6wguM0Ek7A==AbzX5Tdtm9asfgOH+7E2GfNKPe0Tb6w=",
+          "url": "https://partner.leadersystems.com.au/products.html?Ampc/CkKpqA=zlbAfhD30y76NhkqvhGaTg==K6o2AQgFfzcFY5ZZnC1vzRok+k7KXXo=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -1212,10 +1223,10 @@
         {
           "sku_code": "WGM48000073",
           "full_sku": "NWG-WGM48000073",
-          "name": "WatchGuard Basic Security Suite for Firebox M4800 - 3-Year",
-          "msrp": 38752,
+          "name": "WatchGuard Basic Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 38206,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Id4Paj+XZDI=gv6EMDhE7GP3s0yWyqDsAA==C+gK+2msn52koencFvbe6gUpxMa4WjE=",
+          "url": "https://partner.leadersystems.com.au/products.html?LdEKb6dDebY=MYM3oakscU8U7RtwfCJCow==ohXiQovW1UXnS2yXKAhS8ntyJPb5dGQ=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1223,10 +1234,10 @@
         {
           "sku_code": "WGM48000",
           "full_sku": "NWG-WGM48000",
-          "name": "WatchGuard Firebox M4800 Appliance Only",
+          "name": "WatchGuard Firebox M4800 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 11079,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?BLOjs3SE31U=qzsmbnPndWeC0nNFCt47XQ==gMK+0fFwLdxlH3O3SHqVNZizS5k=",
+          "url": "https://partner.leadersystems.com.au/products.html?+LPhE/7lBHk=Oisy267kWTn6ldKuVaBfkg==o3nJNmxzWQROQZSDNwo2WYBJhQM=",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -1237,7 +1248,7 @@
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M4800",
           "msrp": 7402,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?rLM82sd1JS0=jT+nzkq1bTkW/HxruS31Dw==KYswnL4CqkKy9s4PJkplAe5rVjg=",
+          "url": "https://partner.leadersystems.com.au/products.html?bLjhOu+gAGw=nLEvBhisnh4XrS8goH2kFA==9EuiwNrdx1xbe9t1rWiTt7Jh7Ns=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -1248,29 +1259,18 @@
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M4800",
           "msrp": 17215,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?H2kRHehm6gs=vIa5gllNX3oQUTZta06P3g==DZGdBhfOKSATD1aFFz63Kwm9BZI=",
+          "url": "https://partner.leadersystems.com.au/products.html?ES2gBILTXYA=Kj9QzPIox3YFrYzgaSKn6g==BGwYiWKs4Wy8HzBQ5Cs6vVX0iY8=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
         },
         {
-          "sku_code": "WGM480001620",
-          "full_sku": "NWG-WGM480001620",
-          "name": "WatchGuard High Availability for M4800 - 1-Month Subscription",
-          "msrp": 0,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?oyZT1WcmRpg=0T2R+Kt+qZhF5D6N0z+zZQ==lhoXQ3jMJX0qEg48yvids9NxfLMroCUP",
-          "sku_type": "high_availability",
-          "subscription_type": "High Availability",
-          "term_years": 0
-        },
-        {
           "sku_code": "WGM480001601",
           "full_sku": "NWG-WGM480001601",
-          "name": "WatchGuard High Availability for M4800 - 1-Year",
-          "msrp": 2412,
+          "name": "WatchGuard High Availability for M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 2760,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?AyTAQaEQQ3c=kPKFnLJfnyfdlbbsYe9F/w==mMCtpwuzAdo1rmIv/JNekZ/dd9ajr6Xo",
+          "url": "https://partner.leadersystems.com.au/products.html?aZZKLKeVb2Q=vtq0xr7al+XpBCFNqqJRoA==iqzIGJHZCUTfN/i+Y4ad/cTmDjkVWbXq",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -1278,10 +1278,10 @@
         {
           "sku_code": "WGM480001603",
           "full_sku": "NWG-WGM480001603",
-          "name": "WatchGuard High Availability for M4800 - 3-Year",
-          "msrp": 5788,
+          "name": "WatchGuard High Availability for M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 6624,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?UIEBWiZwCsY=I9FIYyCy5+U40fU4nbYUPQ==WEnrw9cNDA7HKaPXFo3c11FSaVd6vQvm",
+          "url": "https://partner.leadersystems.com.au/products.html?XXEwgHW1aPg=PzxUhF9vw8HQBA3fIjshMQ==oWgHACcLvsVub+BkgEpaGojakEPavzjG",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -1292,7 +1292,7 @@
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M4800",
           "msrp": 5155,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?EyxWEhOvVGs=Ha5BpjPcGAsA2HomdwIPBA==z67yfHrgOcHW8O12y/V3/ZWtLZ4=",
+          "url": "https://partner.leadersystems.com.au/products.html?f7Q6/SeHL9g=axurQH8Out3YB/aAYL5XXA==p2LGERyNGe13rWop/aD9qUGMbOc=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -1303,7 +1303,7 @@
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M4800",
           "msrp": 11983,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?WlN0DK+cTX0=nbsvVixbAjDwUNiNSoa8Aw==+4VATG28ZKfmcLTe1J7KqIDeouA=",
+          "url": "https://partner.leadersystems.com.au/products.html?4zaaRllnzMk=AdsrwNkGCTIPg/aqPgRtxg==ZXiAtqPxfAe6C8kYB+ZnYOfR0Rs=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -1311,10 +1311,10 @@
         {
           "sku_code": "WGM48000061",
           "full_sku": "NWG-WGM48000061",
-          "name": "WatchGuard Standard Support for Firebox M4800 - 1-Year",
-          "msrp": 14481,
+          "name": "WatchGuard Standard Support for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 14277,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?oYPUzrACxds=Pju9lV5uT0yDerLSLB6l1A==cqIPf2i4HT5h0FRZGIHpAGmgzjVRels=",
+          "url": "https://partner.leadersystems.com.au/products.html?Eo/KsP7bFN8=820OjznrkdSUdzmNYA2Rog==qN8oQvm0rNO4aELIYwwestTSqn2F4Tg=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -1322,10 +1322,10 @@
         {
           "sku_code": "WGM48000063",
           "full_sku": "NWG-WGM48000063",
-          "name": "WatchGuard Standard Support for Firebox M4800 - 3-Year",
-          "msrp": 21309,
+          "name": "WatchGuard Standard Support for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 21009,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?oNUBMDEs4zg=/nBMAx53U13Fj7TV7SA7Dg==FaWXIvk9GnTnl7hJHJPr79KNSW9pwjs=",
+          "url": "https://partner.leadersystems.com.au/products.html?RMMT35DWIpE=m6KWR7VCWBH/dJZiMyMGBQ==WjkKP0DNDGdn6+K4smBGP1OC0nkZwt8=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -1336,7 +1336,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M4800",
           "msrp": 27186,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?mkiAW5IuIEw=9PMfWMF/2XMlkm5sOhKQJg==D0SQy1rwjIXXFpJGPgdibbHl/pw=",
+          "url": "https://partner.leadersystems.com.au/products.html?YzMMN0P5jwQ=rrIGd+STI2OFvrAGmK5trQ==6VPDuWnoqEWePjtiYYjoOXK/CtY=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -1347,7 +1347,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M4800",
           "msrp": 72909,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?zKc0JkoPWVc=EkFdty5vUbf1MpV0J5KJpA==Nb4GP0i4hl1mY2qclJVGGxVahq8=",
+          "url": "https://partner.leadersystems.com.au/products.html?7p7wVzXTwLQ=jKioh3XFCi0DvuO5K6Lz4Q==di1//guzNNkZYllPNo9K5/oUFf0=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -1355,10 +1355,10 @@
         {
           "sku_code": "WGM48000081",
           "full_sku": "NWG-WGM48000081",
-          "name": "WatchGuard Total Security Suite for Firebox M4800 - 1-Year",
-          "msrp": 32615,
+          "name": "WatchGuard Total Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
+          "msrp": 32156,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?JMpxHy5I1bw=bvP99gMhwpAMsev7KBB/3g==o35A4WspyE5jvZJxYP1GB7O+LxWN+j0=",
+          "url": "https://partner.leadersystems.com.au/products.html?YHCB+yKjtak=+f0BsFjWXbdi4AbMsOyrqA==kiBWQzXHIYFHUN38G9dNMB+kzBu92G0=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1366,10 +1366,10 @@
         {
           "sku_code": "WGM48000083",
           "full_sku": "NWG-WGM48000083",
-          "name": "WatchGuard Total Security Suite for Firebox M4800 - 3-Year",
+          "name": "WatchGuard Total Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
           "msrp": 94539,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?yCSMvxtxcd8=sNoG/vX7u8CRLGrwcHKwFA==l843Rx/1WNRvWx24f7bWHApdNw2IHUE=",
+          "url": "https://partner.leadersystems.com.au/products.html?rOudFHf2JQI=veqDf/2k3ojb4yr8xnXPFA==feF7lkx//1sHEpSSWp25x1ya4cegJz0=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1377,7 +1377,7 @@
       ]
     },
     {
-      "id": 87,
+      "id": 822,
       "slug": "M495",
       "name": "Firebox M495",
       "family": "M-Series",
@@ -1388,10 +1388,10 @@
         {
           "sku_code": "WGM4950203",
           "full_sku": "NWG-WGM4950203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M495 - 3-Year",
-          "msrp": 20492,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 20203,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?f0OQFPy4Ug0=Adi/hRGgnjc9/O26t8wR1g==1vMY5vUVHs8M61nWS6AHcRWAqMWL/A==",
+          "url": "https://partner.leadersystems.com.au/products.html?YuIn0U4LuQQ=vStlfnd5v7WV0T89ajwIKQ==JQgIbs/F9hBcR5Ky0TO+RjcvJwLy9Q==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1399,10 +1399,10 @@
         {
           "sku_code": "WGM4950211",
           "full_sku": "NWG-WGM4950211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 1-Year",
-          "msrp": 17490,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 17244,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?VDUbE8vZTZo=y5Us3cdaz2bzRTJCtoGTjg==49VXAeBctzcG+SQoYcQyfgY4Cl+SDg==",
+          "url": "https://partner.leadersystems.com.au/products.html?YAdO5WK9KTo=tmJVhPBEH7PPZGnjNUwqGA==Y28cHmV2/XwyaPWD1qxVl+9NZBXn2g==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1410,10 +1410,10 @@
         {
           "sku_code": "WGM4950213",
           "full_sku": "NWG-WGM4950213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 3-Year",
-          "msrp": 35028,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 34534,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?XOdAnYa2pUI=YiwDBQkmLFcuZrVSm3AMHA==pPGd2BHTgjy31RoWuHnT7bALHN1QQA==",
+          "url": "https://partner.leadersystems.com.au/products.html?krllpM8La14=oUNYwyPb6H2jqJRtpZ8avQ==4KaALwVYuqeCfrNU7DpIxHxSK/6OGg==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1422,9 +1422,9 @@
           "sku_code": "WGM49520801",
           "full_sku": "NWG-WGM49520801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M495",
-          "msrp": 1870,
+          "msrp": 1844,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?aqPLq7bdIBs=mKsn32h5sLJosspWWTPodg==FnPpSpd4Mo0ozc1H13dBkLZSAURgTyI=",
+          "url": "https://partner.leadersystems.com.au/products.html?z1r99gaNG+A=bgtU3GMyqo4xYBQw7hFxaQ==uHY/SflQ125CyY5jFGuYuSQL3/H074o=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -1433,9 +1433,9 @@
           "sku_code": "WGM49520803",
           "full_sku": "NWG-WGM49520803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M495",
-          "msrp": 5092,
+          "msrp": 5020,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?kGfHGPibLHU=OhtpYAv7mlm/TC/ySGr58A==sg1TLCBe5IAnmeejS90AD+6AuFoNYhc=",
+          "url": "https://partner.leadersystems.com.au/products.html?UsA+bGX4NPs=XIw6kQh5v2FkJ4wUFSxD1Q==ZTFl/PLcg4NIdFiXL9laNZ6c1IEbVxE=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -1444,9 +1444,9 @@
           "sku_code": "WGM49540201",
           "full_sku": "NWG-WGM49540201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M495",
-          "msrp": 8926,
+          "msrp": 8800,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?c6jIdPO2Bwk=qZGoBhMr8ticDzA98ERdxw==yN+so4hHTTkZPHag/Kc8gSXyGTSK/w8=",
+          "url": "https://partner.leadersystems.com.au/products.html?xzz5eZdF9Hw=MzsWbCM4ca4a4V4l1GSF5Q==+iWJWmTAQRbZBiqthd5aSzmYG5rThkk=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -1455,9 +1455,9 @@
           "sku_code": "WGM49540203",
           "full_sku": "NWG-WGM49540203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M495",
-          "msrp": 21388,
+          "msrp": 21086,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?gHsQe5gihp4=FPl4L4p4e0NHD2s1nFa2gw==kxtzwmg9TNw3ALULcMC5fU0O6yHicic=",
+          "url": "https://partner.leadersystems.com.au/products.html?fe7Vjmotoso=lCLQBsu86jyIsXLJjUqbdQ==ObxifjlHBBx77S3LDmJ+9wu7lAdPUmw=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -1465,10 +1465,10 @@
         {
           "sku_code": "WGM4950071",
           "full_sku": "NWG-WGM4950071",
-          "name": "WatchGuard Basic Security Suite for Firebox M495 - 1-Year",
-          "msrp": 12179,
+          "name": "WatchGuard Basic Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 12008,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?tU7Rx12wsHI=eiYecW8syVastDAf1u/JeA==2kig7sKCGoBfU/vf+4zraXl0Yq5MDw==",
+          "url": "https://partner.leadersystems.com.au/products.html?eSjITnxaveE=QO6N5mN/fdZdwC2ogohxCw==1pZWG8/XaY9RFd888UseO0XhfJQlpA==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -1476,10 +1476,10 @@
         {
           "sku_code": "WGM4950073",
           "full_sku": "NWG-WGM4950073",
-          "name": "WatchGuard Basic Security Suite for Firebox M495 - 3-Year",
-          "msrp": 21765,
+          "name": "WatchGuard Basic Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 21458,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Xovh+D/M7Wo=hB3Ny+Pt7m92KtP8dXyP1g==HZJgU/7YIAd4eoVoErkzWNasIRK8yA==",
+          "url": "https://partner.leadersystems.com.au/products.html?DFhQywRVx8k=gkW9ZfKPE1IYUExxe3cj3g==X27/Q0DvVNmEG2x6ERH8dtg9vjPkjw==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1487,10 +1487,10 @@
         {
           "sku_code": "WGM495000",
           "full_sku": "NWG-WGM495000",
-          "name": "WatchGuard Firebox M495 Appliance Only",
+          "name": "WatchGuard Firebox M495 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 3772,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?9K7ePLksUz8=z5frc+wZO/nAeDjgi8wesg==hN7KDPfkKS9ww0jo1xoIfgBOHD2G",
+          "url": "https://partner.leadersystems.com.au/products.html?fG+JoNItrc8=60/2dGJW8u9EzPNLBANqMQ==GGWB3xmaQp84KkENjYoBznRHKBpR",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -1499,9 +1499,9 @@
           "sku_code": "WGM49540701",
           "full_sku": "NWG-WGM49540701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M495",
-          "msrp": 4888,
+          "msrp": 4819,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?hlTfErhPwYw=m42jEiFCXMNLWgApT99DgA==SgUPt2jlZNcAhSSrxAGcArBQkolcVpw=",
+          "url": "https://partner.leadersystems.com.au/products.html?inZJy8TpqK4=OWCuAS/Da7cIsql0KEfAxQ==un+f85R9bLQP8CeAp6XEdPfuYd5O/1E=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -1510,9 +1510,9 @@
           "sku_code": "WGM49540703",
           "full_sku": "NWG-WGM49540703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M495",
-          "msrp": 11676,
+          "msrp": 11512,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?OLgdpqL724Y=sS4StC++kr7vEaR0h5y41g==nn1xmT9RHUDWAqjVNf5284KikmWDCbk=",
+          "url": "https://partner.leadersystems.com.au/products.html?LzhkscTiGa4=2q2GrX+nyOvkWXZ9qgsHxQ==I/cyHUmEvOSsdtMMB1d0DdMLV+He0lk=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -1520,10 +1520,10 @@
         {
           "sku_code": "WGM4951601",
           "full_sku": "NWG-WGM4951601",
-          "name": "WatchGuard High Availability for M495 - 1-Year",
-          "msrp": 2782,
+          "name": "WatchGuard High Availability for M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 2743,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?FfkbqmakIBw=ly/+CopZkeXQebo2thwGzw==gmp1vC2V3u9YGhNUzvIQv1YD1PjkkQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?kpHzTAkD/gg=xyckq6ffsp/rHcC4d+wdTg==iAuIDMVeP2oPKR35mZvjxTsSQ+JIRQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -1531,10 +1531,10 @@
         {
           "sku_code": "WGM4951603",
           "full_sku": "NWG-WGM4951603",
-          "name": "WatchGuard High Availability for M495 - 3-Year",
-          "msrp": 7700,
+          "name": "WatchGuard High Availability for M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 7592,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?9T7UAlPCJP8=93vZ9un9uYG7z/p1JAZv5Q==96GJEUMuhn/9GBm9+DX+uFcxyIO6aA==",
+          "url": "https://partner.leadersystems.com.au/products.html?ueH61cSzC7Y=Bt3awlBXMBftXwDQ1io4bQ==Xd1BsKixOCabGTiGuai3bbj26I+GjQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -1543,9 +1543,9 @@
           "sku_code": "WGM49540101",
           "full_sku": "NWG-WGM49540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M495",
-          "msrp": 3253,
+          "msrp": 5334,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?r1Vy7OXs0lI=4PqLkrs1t2GPHtzlsR4ubw==osGqIy+kTt6BSbBKO0kE6Ff9dFHziDk=",
+          "url": "https://partner.leadersystems.com.au/products.html?X1nlpPpDTgY=VTkG5eFTJt/gEEFUKAJLjQ==4Oe8hfj0JHbG2jHm/tt1wo37qpHTfHA=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -1554,9 +1554,9 @@
           "sku_code": "WGM49540103",
           "full_sku": "NWG-WGM49540103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M495",
-          "msrp": 7779,
+          "msrp": 12795,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?QKCyxt5MXDc=SPpekE6GajxGjYXqgD4SpQ==CMYtL+oult70he8JRW2vjjkwWFwxOiA=",
+          "url": "https://partner.leadersystems.com.au/products.html?OHbWbXLcfuY=rQZITC+t5kBqaepDBnoGxQ==26ACTc3jRbVUd4lOReuySzYU16Ez3w8=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -1564,10 +1564,10 @@
         {
           "sku_code": "WGM4950061",
           "full_sku": "NWG-WGM4950061",
-          "name": "WatchGuard Standard Support for Firebox M495 - 1-Year",
-          "msrp": 9319,
+          "name": "WatchGuard Standard Support for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 9188,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?br+/81Eo/Uc=Gau1ojnTwl49NH85n74KVw==hTWyAmwvKvLlPZQULS6jVVhY1nH+OQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?uyebOXVCvzQ=vFzAwrOG7l8UPfZpSrocTQ==7L4WZdGDSQHI5lq/uzwqZ9JqnRu77A==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -1575,10 +1575,10 @@
         {
           "sku_code": "WGM4950063",
           "full_sku": "NWG-WGM4950063",
-          "name": "WatchGuard Standard Support for Firebox M495 - 3-Year",
-          "msrp": 15353,
+          "name": "WatchGuard Standard Support for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 15137,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?duTHKcfzL3I=a/RS5XU1RGSF2RtL5RpFGw==jOHrN6t+hjy42Ifydczb9jmQD8ihwA==",
+          "url": "https://partner.leadersystems.com.au/products.html?5Zjjk0Wf4PQ=DTPYxw1etGuroC1Okliqig==X3xYZUkN7LUT9lmOH6QrhO1oBdOIsg==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -1587,9 +1587,9 @@
           "sku_code": "WGM49540301",
           "full_sku": "NWG-WGM49540301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M495",
-          "msrp": 15290,
+          "msrp": 15075,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ODMaFl/ttso=0yxz15VEhs7Okv2qnmtL4A==Nlgo/FDAnD71MqaTl5atuqQyAibpnAo=",
+          "url": "https://partner.leadersystems.com.au/products.html?dHYuaBEa1ys=6FcFU5HaxLeCJoD68EYRFA==aa7jnVrdOO4l12ngMxbJg/eNqaMMuSk=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -1598,9 +1598,9 @@
           "sku_code": "WGM49540303",
           "full_sku": "NWG-WGM49540303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M495",
-          "msrp": 36693,
+          "msrp": 36177,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?T5+In3Z2bL0=WgMp+5dmEkTPSNJKirsTHw==Gi3A6wOvePgDzID0caMevpnzq8GjGto=",
+          "url": "https://partner.leadersystems.com.au/products.html?z4T/L9frKjI=jYJ6qApSzk42JcC+Ntk58w==RFPMdvIxS2nQJOvRAcJxojd6LkVEumA=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -1608,10 +1608,10 @@
         {
           "sku_code": "WGM4950081",
           "full_sku": "NWG-WGM4950081",
-          "name": "WatchGuard Total Security Suite for Firebox M495 - 1-Year",
-          "msrp": 18606,
+          "name": "WatchGuard Total Security Suite for Firebox M495 - 1-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 18344,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?1IgLbaEOTGg=fUmZ9y2Sw3gdW7dHovkl7g==+AyR/odENstx7vyXfx8wta/GCaljLg==",
+          "url": "https://partner.leadersystems.com.au/products.html?Mlz4Hayrwbk=s6cUHKHKaLkdcze2/7WWzA==qAIUGrqnjMClVrnQF/tmgICgoZe/aA==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1619,10 +1619,10 @@
         {
           "sku_code": "WGM4950083",
           "full_sku": "NWG-WGM4950083",
-          "name": "WatchGuard Total Security Suite for Firebox M495 - 3-Year",
-          "msrp": 37070,
+          "name": "WatchGuard Total Security Suite for Firebox M495 - 3-Year (License ONLY; HW SKU: WGM495000)",
+          "msrp": 36548,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?80Rl91pBmbY=6SriXtZUlrkiXjGIJ6ABFg==9Lahn7vyIJWEtGvpXdGF3dQMHTboaw==",
+          "url": "https://partner.leadersystems.com.au/products.html?lqqv7Dd9Wz0=WXDS8K0Dshyu2zuzIhPHkQ==xwluY0T4WjUw9dNCxDBwOO4E27JPUg==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1630,7 +1630,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 806,
       "slug": "M5800",
       "name": "Firebox M5800",
       "family": "M-Series",
@@ -1641,10 +1641,10 @@
         {
           "sku_code": "WGM58000203",
           "full_sku": "NWG-WGM58000203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M5800 - 3-Year",
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 119559,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ElvqfNWtAEc=Y/EHiYLr/t0wCqP0MbKIkA==h/GFIhdL2IppkmnRJ3HnYgOpgBnejVw=",
+          "url": "https://partner.leadersystems.com.au/products.html?ken5vsd5uOE=WO5GK//X4ACYoz4xqKWvGg==yt8l4nWOgQG2TIhV46Iw/CUc10wz4cs=",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1652,10 +1652,10 @@
         {
           "sku_code": "WGM58000201",
           "full_sku": "NWG-WGM58000201",
-          "name": "Trade Up to WatchGuard Basic Security Suite for M5800 - 1-Year",
-          "msrp": 42602,
+          "name": "Trade Up to WatchGuard Basic Security Suite for M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
+          "msrp": 42002,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?hpJF1ZAXIlA=gi4n1ci/1hKdqF8dLMKe7Q==xKqKWKO50MhX1OnYVemjOqTfVafm7JA=",
+          "url": "https://partner.leadersystems.com.au/products.html?A2ovxbmKkA8=9tp3nRDKfwV/ueK77QPp6g==FvAL8LyN2nGY3G9bWo2ZBqDedssM+kE=",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -1663,10 +1663,10 @@
         {
           "sku_code": "WGM58000211",
           "full_sku": "NWG-WGM58000211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 1-Year",
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 102719,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NcWGD433oP8=hFKa3KI8fYxTRZ+kvaPSMA==7j8ddc+xEW/PYcWkLycjd6TX1c9aFx8=",
+          "url": "https://partner.leadersystems.com.au/products.html?T7lsj+twnt4=D6uKu6Wl9Ue8q3eQsL6lSg==HH1CwQcgW6fEa8RoUcwUn6cn1O4zRCU=",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1674,10 +1674,10 @@
         {
           "sku_code": "WGM58000213",
           "full_sku": "NWG-WGM58000213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 3-Year",
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 201489,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+Z5MMmRkrMI=RPkMmgut0U2+6DTMAWTZ5A==bFt4zyQuuFCtLT3GIt95eXMP/hs05oU=",
+          "url": "https://partner.leadersystems.com.au/products.html?+iZI/ZRzoCc=6zMLtxGBta2JxkZc/v6dbg==mCBdBRgBBprS3i4buNEexCXGeAEhpjw=",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1688,7 +1688,7 @@
           "name": "WatchGuard APT Blocker 1-yr for Firebox M5800",
           "msrp": 16084,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?9s9KQiLH9TM=ToXjnMsK9RutUjyZBNq0hg==oLqjNqM+U8akGvY5C+FqrxjgkH8=",
+          "url": "https://partner.leadersystems.com.au/products.html?/G2RZ1p//a8=95ugZneasb7sNf4xmHy/IA==65kSI5kyBcp+gEJ867eD6hTSOrw=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -1699,7 +1699,7 @@
           "name": "WatchGuard APT Blocker 3-yr for Firebox M5800",
           "msrp": 38610,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?uLYdsrfC4PI=xaLpt3hdtQVHGqjaIYWPXw==Ayfx2MV8FyICtnFYqkW4Ypv/po8=",
+          "url": "https://partner.leadersystems.com.au/products.html?QUXMXwWhjG0=ZHnw8dqLW5S7QT+OK2zjEQ==EO7msah5q+w5o2vvG0MDFoP6eV4=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -1710,7 +1710,7 @@
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M5800",
           "msrp": 32922,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?35ZYHTN9lw4=UBOS/QHxmivK04y5yTQj0w==WpYb+TshvxVPzzPghCbceE0ozTc=",
+          "url": "https://partner.leadersystems.com.au/products.html?CD98R3uFvLQ=/WTLjrtzghakR9rbZV5oiQ==ZFlLq770uTvIGvg0ssANCvK33o4=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -1721,7 +1721,7 @@
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M5800",
           "msrp": 88279,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?K+YzI6aoMFk=2IDEMfMfqamsBZ6fsISK6Q==9ZHMxdiMcGdo7XVho4Y7/BUNoF8=",
+          "url": "https://partner.leadersystems.com.au/products.html?ZfmR4tnSzTA=TeuM75got7VHqUSnoWG0mg==gbgiBksHu4UncA9iO+5o9IpSUwI=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -1729,10 +1729,10 @@
         {
           "sku_code": "WGM58000071",
           "full_sku": "NWG-WGM58000071",
-          "name": "WatchGuard Basic Security Suite for Firebox M5800 - 1-Year",
+          "name": "WatchGuard Basic Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 85649,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?mH5El2c90+U=8jGSQRfsS/Ccr5xPlYs4Vw==5cCkeKyq9RinNnqMORC/LPtfxjB7xSE=",
+          "url": "https://partner.leadersystems.com.au/products.html?+wgUt+xoLM8=SSkriInXq8qpp1tRFhQAkw==yYFp0qMXkniVHmkqsA4Pz5ovHwheFu0=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -1740,10 +1740,10 @@
         {
           "sku_code": "WGM58000073",
           "full_sku": "NWG-WGM58000073",
-          "name": "WatchGuard Basic Security Suite for Firebox M5800 - 3-Year",
+          "name": "WatchGuard Basic Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 137179,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?0ARQ0t3JBII=HSYluNTJBMo8b21zC/oPZQ==tpEFTXncjnEGTD6RW9yVatLUHj0vyhs=",
+          "url": "https://partner.leadersystems.com.au/products.html?xiDgVbQSltk=I3leqrh2K+sk3DlWvPIHgA==Imxg8af/fBCTyBY6Y8UG/T/zXSrrm64=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1751,10 +1751,10 @@
         {
           "sku_code": "WGM58000",
           "full_sku": "NWG-WGM58000",
-          "name": "WatchGuard Firebox M5800 Appliance Only",
+          "name": "WatchGuard Firebox M5800 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 14772,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?IQc4mjiUZSc=IEMrZIGuyGP1MV7M7UmwUg==qc3GWcH5YEgrRvIBswT4yTD3exY=",
+          "url": "https://partner.leadersystems.com.au/products.html?UMjpuDSZ/Tw=qSKPXPbq/AqEt9dK2aS4Wg==n9FDdzjunpIVsVAZ30mYMUhMixQ=",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -1765,7 +1765,7 @@
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M5800",
           "msrp": 17168,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?D09C9mJM+dY=Uax+8nr4ZCoi08j7Sspy3w==ZqpzivuweMO8aaH4go83yB3pf60=",
+          "url": "https://partner.leadersystems.com.au/products.html?JdehXvDwKC0=ilFgGkI/9uffXTt75j9KTA==M5lWK0uu0sX9PKhXI1Qx/I3lA0g=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -1776,29 +1776,18 @@
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M5800",
           "msrp": 39978,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?DChOBebykCM=XM2hQkIaGqUKYIgjVgn7pQ==ACGo6oVhjnnTLlTaPpdQ3SLNR5A=",
+          "url": "https://partner.leadersystems.com.au/products.html?LvZGSXyZSSc=9l2im68dsqL1i8lPIT2XEA==UoOisvQLcI7V+iRL+65S7PrDB64=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
         },
         {
-          "sku_code": "WGM580001620",
-          "full_sku": "NWG-WGM580001620",
-          "name": "WatchGuard High Availability for M5800 - 1-Month Subscription",
-          "msrp": 0,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/KpxutpPDhQ=FlGwTeisByvvREj/vdClvg==1KOQrMayf0azUX+bwjSXJp/IL8KcF4KY",
-          "sku_type": "high_availability",
-          "subscription_type": "High Availability",
-          "term_years": 0
-        },
-        {
           "sku_code": "WGM580001601",
           "full_sku": "NWG-WGM580001601",
-          "name": "WatchGuard High Availability for M5800 - 1-Year",
-          "msrp": 10513,
+          "name": "WatchGuard High Availability for M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
+          "msrp": 12031,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Bu7O3sVE36E=goq0sKPVy+/+ZY56YvTMaQ==3gRPaxXOl00EGigm9CUda1OySL92vdE+",
+          "url": "https://partner.leadersystems.com.au/products.html?P3SZxe0OCRg=+GA+Wl7z/t/0yeNDhU69zQ==tmNy3nh4mOHUQqcdymE+nbM7A5Ls4Axp",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -1806,10 +1795,10 @@
         {
           "sku_code": "WGM580001603",
           "full_sku": "NWG-WGM580001603",
-          "name": "WatchGuard High Availability for M5800 - 3-Year",
-          "msrp": 22879,
+          "name": "WatchGuard High Availability for M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
+          "msrp": 26184,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?g1E83i1rENA=ZcdEK3BmmMIIRFqKNiJCaQ==fFlP64nu9l6+aH3d/1XfByeSv8uBnlJ2",
+          "url": "https://partner.leadersystems.com.au/products.html?urPxy1Rc+tQ=PjtDFumJF0rNpxwEYlLtSA==6zgD3Tif8jbf58Zx3vmAgmimD/d5OZdz",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -1820,7 +1809,7 @@
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M5800",
           "msrp": 11967,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?bgR7zFItplo=KL8oQZY+JFWSrDwgXDflHg==gyA9UFc6Rlfx8XdksaPvNkb0nH0=",
+          "url": "https://partner.leadersystems.com.au/products.html?zurJCcDFCNI=D+kdxbIDwxCdibWce2kqow==p7UrffxHf9VNXI6R1FiGX9smTG8=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -1831,7 +1820,7 @@
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M5800",
           "msrp": 27823,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?tJdysS0Qc/E=RgehYMPZvGm55bWGL+6dvA==tEEXrP4pSuJ6U9m/6dl3IDEyO9A=",
+          "url": "https://partner.leadersystems.com.au/products.html?kp5F1aicVoI=RJHJhWG5u/8KVXxznK30ig==rF0wXJbimaMEeECG2ptKF3Z7nDg=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -1839,10 +1828,10 @@
         {
           "sku_code": "WGM58000061",
           "full_sku": "NWG-WGM58000061",
-          "name": "WatchGuard Standard Support for Firebox M5800 - 1-Year",
-          "msrp": 44582,
+          "name": "WatchGuard Standard Support for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
+          "msrp": 43954,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?7m75mfAwWgA=zuWTSSTEOVlZFj9n4QK+QQ==EjdnJhx4bjCZAYCQznCwzrc2IpSe4BU=",
+          "url": "https://partner.leadersystems.com.au/products.html?tb7VOkVfyow=Emmbl8QC6bTY7mtXROF9CA==iSse8s4+2a4cXdgehaxMGapIGv6Lnj0=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -1850,10 +1839,10 @@
         {
           "sku_code": "WGM58000063",
           "full_sku": "NWG-WGM58000063",
-          "name": "WatchGuard Standard Support for Firebox M5800 - 3-Year",
+          "name": "WatchGuard Standard Support for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 89199,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?dze05FAOQqc=o/MVP4durQJw2A7dru+OwA==ePmpzl8lISrdEYxc34jCu9qwGo5iZ3o=",
+          "url": "https://partner.leadersystems.com.au/products.html?yltzMdiyV/g=5wszR5XCSZHTT3qW/CYxvA==DP6+lrwhv6SG+2pa/ahwrtZIJQ0cuA4=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -1864,7 +1853,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M5800",
           "msrp": 63743,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?hcpy4hpmS/Y=SohlBNVvHsbgzIHHaSUBfA==w2PZjZdANMjyzttCqsUgKLFF0/g=",
+          "url": "https://partner.leadersystems.com.au/products.html?jB3d6TivNOY=7RGjk3xWh3uC74tr3Z0Rjw==wKS7wyb3Z4Ne3CnsVu7iWXJMMQs=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -1875,7 +1864,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M5800",
           "msrp": 169339,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?IbYgleml1no=K09OoTNB5Ty/McY8bjuLuQ==wwmXAh64AG7mUYbi7/47vmuixHI=",
+          "url": "https://partner.leadersystems.com.au/products.html?mEZu0WsZ8yY=rxjOwllShyl9zpVhLATu7g==JNEBVQqdi+Xk7hqnPuBwANAVMaQ=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -1883,10 +1872,10 @@
         {
           "sku_code": "WGM58000081",
           "full_sku": "NWG-WGM58000081",
-          "name": "WatchGuard Total Security Suite for Firebox M5800 - 1-Year",
+          "name": "WatchGuard Total Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 120289,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?KzG1ofT1Wrk=L4HUmx2eGsQaonqJziAYwg==OVsksxRaNrl9tcrkfaF63eaKl+XgsZ8=",
+          "url": "https://partner.leadersystems.com.au/products.html?EguCWkzeUBQ=4Bfz6OCLS3ImD+UlJqM0mg==F/GhQKHc/GAiDmHsMMjVmoi/owJtAh0=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1894,10 +1883,10 @@
         {
           "sku_code": "WGM58000083",
           "full_sku": "NWG-WGM58000083",
-          "name": "WatchGuard Total Security Suite for Firebox M5800 - 3-Year",
+          "name": "WatchGuard Total Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
           "msrp": 219429,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?7VmCbutSivM=3g9OVFpQpT2kc5PSOfF4Lg==tT9kCp+GtSTwrUZIknExbkhVHVvnU/E=",
+          "url": "https://partner.leadersystems.com.au/products.html?s6BHX3wyBd0=kbpGyqOISiKt7iCsS3zTUQ==edB0PsHgRAvqSdf4x2hQLC2bccRBGKo=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1905,7 +1894,7 @@
       ]
     },
     {
-      "id": 89,
+      "id": 804,
       "slug": "M590",
       "name": "Firebox M590",
       "family": "M-Series",
@@ -1916,10 +1905,10 @@
         {
           "sku_code": "WGM5900203",
           "full_sku": "NWG-WGM5900203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M590 - 3-Year",
-          "msrp": 10820,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 10667,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?L65sFjlivm8=8zCw/FYrhJ0u9IVTvprNUQ==tGWUUTR2Ha7QPyoWZwKuB3ulhgLlbw==",
+          "url": "https://partner.leadersystems.com.au/products.html?cOvhyOwrNLg=25NFAE6dwaYPV20aGpHDaw==G1zuAoLcaSnR3TMzmCTgrmT5qTjHQg==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -1927,10 +1916,10 @@
         {
           "sku_code": "WGM5900211",
           "full_sku": "NWG-WGM5900211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 1-Year",
-          "msrp": 8345,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 8227,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ltzAT2j/Mfo=YqVQCCRYkPtfS0127f/f+w==E1yfUv7Y/6BgtkoKldL9GcYNle6K3A==",
+          "url": "https://partner.leadersystems.com.au/products.html?2iDPbrNIMbQ=UfYCB6lK+ssAzqpPAewwQQ==XM2wfWkAgJS4oSfKjqc6nahZrmNhwQ==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -1938,10 +1927,10 @@
         {
           "sku_code": "WGM5900213",
           "full_sku": "NWG-WGM5900213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 3-Year",
-          "msrp": 22873,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 22550,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?gr7lubBbjZc=fOcC+gtPQkRfzj2xNfImQw==0/SrQziszV53YVKMpoE4B5MRBuimOg==",
+          "url": "https://partner.leadersystems.com.au/products.html?MGWAx4xP/tc=L/kEu2WVfvbQtcmfmBGyiA==FJfcyz9TEBIOFON3LSXWF4E2ZYNfjQ==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -1950,9 +1939,9 @@
           "sku_code": "WGM59020801",
           "full_sku": "NWG-WGM59020801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M590",
-          "msrp": 2798,
+          "msrp": 2758,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?CTsWCXAkKm0=wbnZ9XNc0iXaw4TpLd4D0A==Q3U53tX0MJqFv+RxIr+58sxdeHNhBlo=",
+          "url": "https://partner.leadersystems.com.au/products.html?So0MfOmBVRA=hs4kSbtsBzek9fK0b2+2kg==0cd2JkodseUziWhxE6gaY0nuqJLRWW4=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -1961,9 +1950,9 @@
           "sku_code": "WGM59020803",
           "full_sku": "NWG-WGM59020803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M590",
-          "msrp": 6726,
+          "msrp": 6631,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Ah+ev0Auz5Y=KHOz/YclzB8Q18YlrGFNhA==7VkLZMISqwHDwMg8Sq1hHD8FIwPN4y4=",
+          "url": "https://partner.leadersystems.com.au/products.html?Ksv4kskmrWc=avHr85dqRxDH4mDw9jj/0w==IKD+tJUGOhYVyAMC+kUmkyy+5yDxXrE=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -1972,9 +1961,9 @@
           "sku_code": "WGM59040201",
           "full_sku": "NWG-WGM59040201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M590",
-          "msrp": 5744,
+          "msrp": 5663,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+scWm1Vuix8=iO+RZCoR0Ox+9oHrCrVvjg==7BJv7GKcOVXgdxn4OXB0jjJRUlxzCZs=",
+          "url": "https://partner.leadersystems.com.au/products.html?FJibqspSkUQ=Dpn45Xh+NAWtX8HqE35EFQ==XnuIy+6Ys7JvalVFg6IrESC2+kQDDho=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -1983,9 +1972,9 @@
           "sku_code": "WGM59040203",
           "full_sku": "NWG-WGM59040203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M590",
-          "msrp": 13774,
+          "msrp": 13580,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?TWL/0cy4bPc=VIs3fGGuUUuvtQugQAd1gA==B0ta//2qKdAaGuHaBtvTvZhwQvQvKDQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?sN3EXzB8jTg=7uudqEaKwyE+EZ29V3/ntQ==fCANMsCUM+iN4MbBcRj8uwB5Esd/lQY=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -1993,10 +1982,10 @@
         {
           "sku_code": "WGM5900071",
           "full_sku": "NWG-WGM5900071",
-          "name": "WatchGuard Basic Security Suite for Firebox M590 - 1-Year",
-          "msrp": 5830,
+          "name": "WatchGuard Basic Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 5748,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?jnS2xhVu5Ps=PU3iqby58+UKKXFi2+TSIQ==9pEUCvOaMl/5tjYcjDgOB9NqfR9FDA==",
+          "url": "https://partner.leadersystems.com.au/products.html?q+EvLFxkbKs=LPs9RcQB/bdlSD9ZjhtcUg==4cVvjQcM6Cy936j6JfccYN1989j9oA==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -2004,10 +1993,10 @@
         {
           "sku_code": "WGM5900073",
           "full_sku": "NWG-WGM5900073",
-          "name": "WatchGuard Basic Security Suite for Firebox M590 - 3-Year",
-          "msrp": 13413,
+          "name": "WatchGuard Basic Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 13224,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?aKKVYQV1cTQ=oKpXU9OQ1baRmiQ1JfIKTg==GM1MuMBHA7FjtlVLqBX5EZKypP5rBA==",
+          "url": "https://partner.leadersystems.com.au/products.html?AJenKw0xeZ4=HTWJ/ibK0hDQaDuodo7kGg==OGhwWy+22qFHqvI30HcglVdhpK/Nlg==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2016,9 +2005,9 @@
           "sku_code": "WGM59021801",
           "full_sku": "NWG-WGM59021801",
           "name": "WatchGuard Cloud 1-month data retention for M590 - 1-yr",
-          "msrp": 2381,
+          "msrp": 2348,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?wHufDiNBpUQ=ug/iAPOr3ErYVTz0HyxiEw==Uz7cwjFMlMfm8cBZedl1K9woEnH1RNw=",
+          "url": "https://partner.leadersystems.com.au/products.html?mhQGuXwQ48E=tQnbQcrli8gTye31SQ9MAw==0nVFES67BvTI6iQJnUTyT9HJ0Y7bdsk=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -2027,9 +2016,9 @@
           "sku_code": "WGM59021803",
           "full_sku": "NWG-WGM59021803",
           "name": "WatchGuard Cloud 1-month data retention for M590 - 3-yr",
-          "msrp": 7143,
+          "msrp": 7042,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?GTSQqO4q/Bo=gYIn77uFy+XYfQvQUzTCIg==1fusGthe2B57Xo+Jen74XwOR/U9MqW8=",
+          "url": "https://partner.leadersystems.com.au/products.html?+hFS/LyWKNQ=IZ0GqTzyeWYD62YDEvGjeQ==8tqEAl4NlSTh4dTeSkrkCC9jfJu882I=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -2037,10 +2026,10 @@
         {
           "sku_code": "WGM590000",
           "full_sku": "NWG-WGM590000",
-          "name": "WatchGuard Firebox M590 Appliance Only",
+          "name": "WatchGuard Firebox M590 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 6758,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?C55s6H/nLX8=T121u4M04MH9dDK0mxfEnw==lz0ZD5+qhT7OmLknFZNmQjYlaeSO",
+          "url": "https://partner.leadersystems.com.au/products.html?10dExMgMIH4=Z1SLGqcVSGAUbTyPxL/s1g==pQPNp0TnRl3wTGlAUVAjcG93lUf1",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -2049,9 +2038,9 @@
           "sku_code": "WGM59040701",
           "full_sku": "NWG-WGM59040701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M590",
-          "msrp": 3002,
+          "msrp": 2960,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?vpXBwaqQZec=MZEzMZkybWjfdqRWpphzsA==32roKsLyPzUTfNMAlCzatWBloi0Zur0=",
+          "url": "https://partner.leadersystems.com.au/products.html?MzraU74ZFEc=0P8F5nV6Yp632rpAwF0n2g==Xlze9sOc5E/jFWwWpSPhgH3xP+6WTh0=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -2060,9 +2049,9 @@
           "sku_code": "WGM59040703",
           "full_sku": "NWG-WGM59040703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M590",
-          "msrp": 6970,
+          "msrp": 6872,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6FYpzFTMIIQ=oZGj/WrhkFBX7y8aw+FN5Q==NyDfg79iyo/4cqpS3lpl7TfzKXBnWmM=",
+          "url": "https://partner.leadersystems.com.au/products.html?YunRwm+XhTg=SKl03sQJCIV0FEt23/xvHQ==+gjPWem6hOwVOaXxsuv3GK3ogNpVrRs=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -2070,10 +2059,10 @@
         {
           "sku_code": "WGM5901601",
           "full_sku": "NWG-WGM5901601",
-          "name": "WatchGuard High Availability for M590 - 1-Year",
-          "msrp": 908,
+          "name": "WatchGuard High Availability for M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 1039,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?zDbOnrIeBSg=AroDXST96NlZghi43RqTyA==H2aCiTIUDdgtfF2FEwoLKxkA353+bw==",
+          "url": "https://partner.leadersystems.com.au/products.html?AOCeZUUo748=4kiQitbFWPd9A4sBD5IslQ==4qQoHzw7NEmpPITV4WiZEViRA0mOXw==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -2081,10 +2070,10 @@
         {
           "sku_code": "WGM5901603",
           "full_sku": "NWG-WGM5901603",
-          "name": "WatchGuard High Availability for M590 - 3-Year",
-          "msrp": 2180,
+          "name": "WatchGuard High Availability for M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 2495,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?VIGKxdpVWYo=8foQUqc3TU3/t32onw2UYw==vR/ACBwG9QEkAGhyMF8S8SV2y6iOAw==",
+          "url": "https://partner.leadersystems.com.au/products.html?WnO5eldVYaE=DZcYz1tM0wqTV1vroro3Wg==j9WfZW5EcAX9Imw6Uyd2gxHR1FY89A==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -2093,9 +2082,9 @@
           "sku_code": "WGM59040101",
           "full_sku": "NWG-WGM59040101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M590",
-          "msrp": 2083,
+          "msrp": 2053,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?5UXVTgq1xVI=N6oG5LDTULwApq/o+CP0dw==0+gapJNS2ro92ymK3ki3VSSwztXZrHw=",
+          "url": "https://partner.leadersystems.com.au/products.html?E6vDfl5OPrc=S3EdPjZX/uY+9T4BbV+Z5g==Eg5po8DkuURDopMPVIRneAH1eH+zDTw=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -2104,9 +2093,9 @@
           "sku_code": "WGM59040103",
           "full_sku": "NWG-WGM59040103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M590",
-          "msrp": 4998,
+          "msrp": 4927,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6wBIwrPK0oY=cRrIxQ1G0liCe0d95OE4Rw==aW622rvRgLFSAjskSU8KnHHiezTq5S0=",
+          "url": "https://partner.leadersystems.com.au/products.html?g1t3i5Ij53s=THYTtezVwgJeYZ+esqgmxg==yimak3Ru/H5nDlRKyah7Y0XD9AYkBfE=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -2114,10 +2103,10 @@
         {
           "sku_code": "WGM5900061",
           "full_sku": "NWG-WGM5900061",
-          "name": "WatchGuard Standard Support for Firebox M590 - 1-Year",
-          "msrp": 3583,
+          "name": "WatchGuard Standard Support for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 3533,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?jMuf2ame8MI=pJPA7pLkCqYUz8+uh9VKsA==tQjxi6a4YUut8ukplPhJ+VjMz2ABqQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?RGU5FW1Ckqc=TXxzx9B5eivIM1YJCvfMhw==OyIOyMMdBuQdMWnPOTVapfqtHCm/mg==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -2125,10 +2114,10 @@
         {
           "sku_code": "WGM5900063",
           "full_sku": "NWG-WGM5900063",
-          "name": "WatchGuard Standard Support for Firebox M590 - 3-Year",
-          "msrp": 6349,
+          "name": "WatchGuard Standard Support for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 6260,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6p6IxDTIRHQ=AhR1mU8ML9CrYmTKyFHRjQ==OzNQXzvG0/WyVduqW63p8MHQYZwvgw==",
+          "url": "https://partner.leadersystems.com.au/products.html?//KwozJzSko=UErzEkl367YCCn+856zaxA==8YMp2hcNfK0W6WW2zgM1e8zuhjDJrw==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -2137,9 +2126,9 @@
           "sku_code": "WGM59040301",
           "full_sku": "NWG-WGM59040301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M590",
-          "msrp": 11008,
+          "msrp": 10853,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?8BEi1do3M40=q5SLl1/vF3zg0KWLSjScMg==nvUx9/jvtnfGaXAhsTBfHksHlNgKyVI=",
+          "url": "https://partner.leadersystems.com.au/products.html?8ELjcGmkKBU=rF32g+2abLioj6eERHzOLg==JhOvxF10n3Ik6Lr7d7j3QmLEvCJxy8s=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -2148,9 +2137,9 @@
           "sku_code": "WGM59040303",
           "full_sku": "NWG-WGM59040303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M590",
-          "msrp": 26408,
+          "msrp": 26036,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?2dZH6VByh/M=Cof/WcYy3GcKXOeEDQIFxA==j7hofZUv4684KMBaRneoTLplbeHUNxQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?fy95qGd4bHg=ZdNOeffdWaJp0RXFq46lCg==wS6Ng6iOnOfLlX3aFxiPoYJgG2RTxbw=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -2158,10 +2147,10 @@
         {
           "sku_code": "WGM5900081",
           "full_sku": "NWG-WGM5900081",
-          "name": "WatchGuard Total Security Suite for Firebox M590 - 1-Year",
-          "msrp": 10922,
+          "name": "WatchGuard Total Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 10768,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?srBFOwURqYY=uJXo5hVYuyD909KazPZbqQ==8Jo3HiYy8epZdTWWOU5G5VNVcjzB+Q==",
+          "url": "https://partner.leadersystems.com.au/products.html?Z1tKJPRel3U=GI5XDXSSw1FjffPTD7qzCA==+3kBbLL3T0cJDGvtgR7OwpAFyISGcg==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2169,10 +2158,10 @@
         {
           "sku_code": "WGM5900083",
           "full_sku": "NWG-WGM5900083",
-          "name": "WatchGuard Total Security Suite for Firebox M590 - 3-Year",
-          "msrp": 25513,
+          "name": "WatchGuard Total Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
+          "msrp": 25153,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?8tRCszfyyd4=IuJCeo1a1OFxke5hW0zmlg==m3MfCqR3ivUCd8Lep0j0F+R6R9y2gA==",
+          "url": "https://partner.leadersystems.com.au/products.html?0HSB1t2VJ+Q=totCQ8Nvf54NQqDs5yfM7A==GhZyHFT/jf3nyy0lzUrQkVYTOuX2rQ==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2180,7 +2169,7 @@
       ]
     },
     {
-      "id": 90,
+      "id": 825,
       "slug": "M595",
       "name": "Firebox M595",
       "family": "M-Series",
@@ -2191,10 +2180,10 @@
         {
           "sku_code": "WGM5950203",
           "full_sku": "NWG-WGM5950203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M595 - 3-Year",
-          "msrp": 28632,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 28229,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?aJsUA9Kf3X0=4toxcZJIU98qYu0R/sDdEQ==mtqXmsALvjswBC3r8+QdERfTqy3eeA==",
+          "url": "https://partner.leadersystems.com.au/products.html?xYqpOPh9ROk=SE6UC5y6im0WTcXqxeL3tg==cviTFEp3MyCYz0l8cnboM8M3t9l+jg==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2202,10 +2191,10 @@
         {
           "sku_code": "WGM5950211",
           "full_sku": "NWG-WGM5950211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M595 - 1-Year",
-          "msrp": 24483,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M595 - 1-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 24139,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?iwDiu2841oc=NN8gYF841ttpaf9y3xT9hg==p3V2RhxaqvuvaKe1C5acLAxx7J1jSA==",
+          "url": "https://partner.leadersystems.com.au/products.html?6xGvuPLv18g=YWQt+U4APe/LdWJcng/Img==XBc5jeY/u6dB8HsDVh6vkJBsYbkLfA==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2213,10 +2202,10 @@
         {
           "sku_code": "WGM5950213",
           "full_sku": "NWG-WGM5950213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M595 - 3-Year",
-          "msrp": 48825,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 48137,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?e1LwgmfMPHs=hFEJzR3rT07t3F0VR6ZoVg==pt5N80iUJGZaJz1cvNPMMoHXdb0JBw==",
+          "url": "https://partner.leadersystems.com.au/products.html?hLmyhhn9N5Q=WISH67AlZUe1JXGMEBmt3g==wglxH34ZQI5z9j+tLDnFNmSVRgvhoQ==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2225,9 +2214,9 @@
           "sku_code": "WGM59520801",
           "full_sku": "NWG-WGM59520801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M595",
-          "msrp": 3080,
+          "msrp": 3037,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?lkYFEGZUB7Y=3kyu4eLy8MWSb6AiNXIICQ==HQvu/mwaOtQm++Hj7X0976O9UsWFuVI=",
+          "url": "https://partner.leadersystems.com.au/products.html?8rIzU4kT5QM=Uz1ItICbtsrc/zNGLM5dsw==57u8hWZSosk57o9qspBLRoATUz/5HKU=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -2236,9 +2225,9 @@
           "sku_code": "WGM59520803",
           "full_sku": "NWG-WGM59520803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M595",
-          "msrp": 7402,
+          "msrp": 7298,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?KqBngq1oENs=GJ1BpmxTFr64ra8Rr8EOyg==AtF0hc2VViYYPXuM+cmvXNypWC1sVxI=",
+          "url": "https://partner.leadersystems.com.au/products.html?EI+MiNP8pDA=j5BzDtqfnmWGqZI1sKjcIQ==sM8OTMSQb4PxrpWte+kN+1Yxg27iPAw=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -2247,9 +2236,9 @@
           "sku_code": "WGM59540201",
           "full_sku": "NWG-WGM59540201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M595",
-          "msrp": 12478,
+          "msrp": 12302,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Yv5OH6vC6Sk=zcNB7xy/iH3tuZz78XRKWw==MvaPLuhXEMmFNh40z3K6iAMnVwg8Ytg=",
+          "url": "https://partner.leadersystems.com.au/products.html?iLgaCjlkcCU=Y/9/WXI5gsg/GZ8AyzhUvw==bCuugHkmUufLcNa3XcP9z06pCaDtZBs=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -2258,9 +2247,9 @@
           "sku_code": "WGM59540203",
           "full_sku": "NWG-WGM59540203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M595",
-          "msrp": 29889,
+          "msrp": 29468,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?oa1EYvEc9ak=okr0wZYg4GKFCawybJ2sEw==wBQVaDZqw9Kop5gfmoDN2CRp/rXlyhE=",
+          "url": "https://partner.leadersystems.com.au/products.html?iYd10VROfmw=45XvNY+64wIvHYr7ie8SWQ==jPDmOoJl+M9HazjfFQx0hE9AYT6WiTI=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -2268,10 +2257,10 @@
         {
           "sku_code": "WGM5950071",
           "full_sku": "NWG-WGM5950071",
-          "name": "WatchGuard Basic Security Suite for Firebox M595 - 1-Year",
-          "msrp": 17082,
+          "name": "WatchGuard Basic Security Suite for Firebox M595 - 1-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 16841,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?RaI9q4KaQvo=yam8m7ITPd3TwctWyoM75w==3wNtm3cYLPZiaMAiq17htaLFcahE4g==",
+          "url": "https://partner.leadersystems.com.au/products.html?Mq/ChC8jJpo=xh1hzLAFXX9zvymPDicuig==PWYXgMwKViXmaPTqd9xgraZodsmxHQ==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -2279,10 +2268,10 @@
         {
           "sku_code": "WGM5950073",
           "full_sku": "NWG-WGM5950073",
-          "name": "WatchGuard Basic Security Suite for Firebox M595 - 3-Year",
-          "msrp": 30392,
+          "name": "WatchGuard Basic Security Suite for Firebox M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 29964,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6talRtuivEE=Dmh/qheINDlzwobWDnqC7A==8fGcmS/rex8sa6y13en1iyHM5w2M+A==",
+          "url": "https://partner.leadersystems.com.au/products.html?/N7SXXCpQwc=rp4U6A5V4CjN/wcjq2jPRQ==3y6GTJ6yLiSb8ot4hSJpFHtS5ws5Kw==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2290,10 +2279,10 @@
         {
           "sku_code": "WGM595000",
           "full_sku": "NWG-WGM595000",
-          "name": "WatchGuard Firebox M595 Appliance Only",
+          "name": "WatchGuard Firebox M595 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 5029,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?FG2/9d1bwx8=imU52ROCT3CK/AvyrrFUug==l0Bdq8vVdts0m+Tkm4ThwbcOKUed",
+          "url": "https://partner.leadersystems.com.au/products.html?XvI2EpfltDg=5WYCZoMLr2DIGoWZp4MysA==CpFGHtqITChWs2DGC92a7DzRl5Zr",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -2302,9 +2291,9 @@
           "sku_code": "WGM59540701",
           "full_sku": "NWG-WGM59540701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M595",
-          "msrp": 6773,
+          "msrp": 6678,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?cNAuMcA9Xd8=87eIoYSrX0GakUJCUq7w1g==EGfjfsCabcONR6nostqwW+UKwx4lx+I=",
+          "url": "https://partner.leadersystems.com.au/products.html?J7+OvBC5S5k=RQHNqyZsYEnwGUdfWPArpQ==ujhs7Tte3QySAgNtnqe+dnFjsh/zkVY=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -2313,9 +2302,9 @@
           "sku_code": "WGM59540703",
           "full_sku": "NWG-WGM59540703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M595",
-          "msrp": 16233,
+          "msrp": 16005,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?OWzLmzgtSbg=KZZhYbFHAYbT4Iwu0adHgg==fKvtAuUVfb/YlewZx4znhHSvX1o5oQQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?YDAHNGVc1OA=TqGWVg3Vj0g6ozZ1hpVSXw==tEKPC0FqEz5+wN7nrtOCBktzIgqMW50=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -2323,10 +2312,10 @@
         {
           "sku_code": "WGM5951601",
           "full_sku": "NWG-WGM5951601",
-          "name": "WatchGuard High Availability for M595 - 1-Year",
-          "msrp": 4070,
+          "name": "WatchGuard High Availability for M595 - 1-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 4013,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?CiQzCSO0CyU=6j/A7sUrcJ0dDKm4JqwH/g==q1EwEe/McQJo0BC9IOGvGdgZRyahNw==",
+          "url": "https://partner.leadersystems.com.au/products.html?D98ENv1Ua7w=x5Xk0iWdCXG+CCQ5S8Ajhw==Gfb8qWix8o9aoZ/WyW04p80OsO4zJg==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -2334,10 +2323,10 @@
         {
           "sku_code": "WGM5951603",
           "full_sku": "NWG-WGM5951603",
-          "name": "WatchGuard High Availability for M595 - 3-Year",
-          "msrp": 10859,
+          "name": "WatchGuard High Availability for M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 10706,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?6nzyBzFgtRY=5uSH6chuUj9IVzTR3YACjg==tBXmNfeP91FjCabaHiujZFWYx6Iz2g==",
+          "url": "https://partner.leadersystems.com.au/products.html?SHRqNaeHClw=rR+3MHFSCbxJ0PIDwf7w6Q==rZN2pQBZmHK9YxuMBown9+e1Rc5muQ==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -2346,9 +2335,9 @@
           "sku_code": "WGM59540101",
           "full_sku": "NWG-WGM59540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M595",
-          "msrp": 4526,
+          "msrp": 7461,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?fvUNtk68a+I=75+6qtyCUlQCwbRO9+0H3w==DrmZPzkTNOwAG0RqGT0/r5oiwm5V2/c=",
+          "url": "https://partner.leadersystems.com.au/products.html?VsBO0J/0uVw=3HNvJhL6U+D1usEmcwCjqw==WDOPXicUFQE9FcP5osbsFYDXIYG6nYU=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -2357,9 +2346,9 @@
           "sku_code": "WGM59540103",
           "full_sku": "NWG-WGM59540103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M595",
-          "msrp": 10828,
+          "msrp": 17892,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?TCCAZjO5kYI=iGpUo3kdaoDTpXg6bePNcg==evkTCHN4ThraOZvbTAuhy0iLJCHX/JQ=",
+          "url": "https://partner.leadersystems.com.au/products.html?+jGSQIl77FU=iC3mPQDdSTSANbAp8CWCNg==S5lQczBJpe+jcV7zsI8LnvmHBXp+z8s=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -2367,10 +2356,10 @@
         {
           "sku_code": "WGM5950061",
           "full_sku": "NWG-WGM5950061",
-          "name": "WatchGuard Standard Support for Firebox M595 - 1-Year",
-          "msrp": 13169,
+          "name": "WatchGuard Standard Support for Firebox M595 - 1-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 12984,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?h2ITLs8vIgg=QQgpSrDKYpjLasP4HatJPQ==Xm15E4IfxlbWB1YsvWyC+yLFqfjo+w==",
+          "url": "https://partner.leadersystems.com.au/products.html?17BXiuUIxgI=nETZbyGxcwL6YcNEn6WGVQ==4jaXhaPErYqRQi4+I8Z/z9PW9EKGYg==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -2378,10 +2367,10 @@
         {
           "sku_code": "WGM5950063",
           "full_sku": "NWG-WGM5950063",
-          "name": "WatchGuard Standard Support for Firebox M595 - 3-Year",
-          "msrp": 21450,
+          "name": "WatchGuard Standard Support for Firebox M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 21148,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?hcFg7YvTGNw=u/E7EC3MwZ1YHjOD98aAGg==3bFESNwNus4XVLdOuF5TfpyqsnFn8w==",
+          "url": "https://partner.leadersystems.com.au/products.html?t7XdHwpZaF8=/ZpINk7J4ivEbYcZYpnk+Q==UuE2ospCRtvG2zZs9ggZO86cs5EzIw==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -2390,9 +2379,9 @@
           "sku_code": "WGM59540301",
           "full_sku": "NWG-WGM59540301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M595",
-          "msrp": 21325,
+          "msrp": 21024,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?vXhDNOkNdtI=x7CBVx9fQedhNjkMY8wUNw==ieF/NTCt3PRihb6kmJDfolwxd1wCGTw=",
+          "url": "https://partner.leadersystems.com.au/products.html?XWi1nzzXYnk=hGSh58BMfUXVzBVwi/Ae8A==QgfIcMSiMSXGYrSJtEy1bkNtz9z3gWw=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -2403,7 +2392,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M595",
           "msrp": 52004,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?cb0pYMQIUqg=hhtV8Z+Z876vImL12DbuEw==iJ+8u00Q2bFbitHUcuXapteqLEJfY/8=",
+          "url": "https://partner.leadersystems.com.au/products.html?fVUNrqkntd8=V5hD8aa5UN54rnDmMIXDUg==wIogkVRGxzlUOgqnR1CPmMQMiRpk6rM=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -2411,10 +2400,10 @@
         {
           "sku_code": "WGM5950081",
           "full_sku": "NWG-WGM5950081",
-          "name": "WatchGuard Total Security Suite for Firebox M595 - 1-Year",
-          "msrp": 26039,
+          "name": "WatchGuard Total Security Suite for Firebox M595 - 1-Year (License ONLY; HW SKU: WGM595000)",
+          "msrp": 25672,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?YIIcfeklFvQ=ar8aewU+P95Qzj7ly7gWXA==iM6KtJNlqycp/HZSW/BgvxvJzVOJtg==",
+          "url": "https://partner.leadersystems.com.au/products.html?cVn8PJdgO34=EyFPbF51hce8cYK0crgNZg==ph9ceH8S3PZkDAj/nd00+XwcD43Z6Q==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2422,10 +2411,10 @@
         {
           "sku_code": "WGM5950083",
           "full_sku": "NWG-WGM5950083",
-          "name": "WatchGuard Total Security Suite for Firebox M595 - 3-Year",
+          "name": "WatchGuard Total Security Suite for Firebox M595 - 3-Year (License ONLY; HW SKU: WGM595000)",
           "msrp": 53017,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?dC1dGlsMmfo=d9Wq+KxtlzbRaYPjKPjGag==Nb4mmlNGaeZOkSnvdaKWi5dj53bBww==",
+          "url": "https://partner.leadersystems.com.au/products.html?RoDMIscoshE=pBwIXCzV8Cw386AFAsuplQ==3xXqJDk2NPmKKxFZHGinkYYF4JEzxg==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2433,7 +2422,7 @@
       ]
     },
     {
-      "id": 91,
+      "id": 802,
       "slug": "M690",
       "name": "Firebox M690",
       "family": "M-Series",
@@ -2444,10 +2433,10 @@
         {
           "sku_code": "WGM6900203",
           "full_sku": "NWG-WGM6900203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M690 - 3-Year",
-          "msrp": 15023,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 14812,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?jocBsn6cikA=dnyhlOvRBkGuFJ0rRnrpLg==YxDyNgMVo4A4NXHZfba10Vm08nQHxQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?2J2APIb0U+Q=iIVVHKSN+jm2ssfujkRkLA==OSSlXyjCUkAeBQbKtQm1AbRMM7/YIw==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2455,10 +2444,10 @@
         {
           "sku_code": "WGM6900211",
           "full_sku": "NWG-WGM6900211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 1-Year",
-          "msrp": 11590,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 11427,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?YtWx6i5lHZM=tKNLwoTiP9Ci5SPGu0HAFw==WI1Qvoz7Z1Lb/U0qyEvgTZfkNLjUwA==",
+          "url": "https://partner.leadersystems.com.au/products.html?W9IMIOdYs4g=uJTim8TxD6JKB+nUSWwi6w==VRw+EEyW9qxZ+2ARdA3rxZ4eKg+M7g==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2466,10 +2455,10 @@
         {
           "sku_code": "WGM6900213",
           "full_sku": "NWG-WGM6900213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 3-Year",
-          "msrp": 31751,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 31304,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?/ppZCZBjgq8=i3bXf01yWrlRWYNxb1VM8w==WtMvm8a5zSMkUn2sD1BpIKN0kVCq2A==",
+          "url": "https://partner.leadersystems.com.au/products.html?jU0d5RV6f7o=KdRQj9ie+C4GtnfWhWFU8w==JQLF5V+LhqbA8jNHLHRYSHdktoGgIQ==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2478,9 +2467,9 @@
           "sku_code": "WGM69020801",
           "full_sku": "NWG-WGM69020801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M690",
-          "msrp": 3890,
+          "msrp": 3835,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?OJadpZzoxbg=R4WAnEFJ/XdFA35/QjCuIw==PhiKvPmodw4jNdZPuGmvWygje2hx/JI=",
+          "url": "https://partner.leadersystems.com.au/products.html?hDxfxABGbH4=WOIAfNRrdFeV1FtWld/9RQ==7jtKbCVZflKSVMtZFkjZLL5/dGJFnUs=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -2489,9 +2478,9 @@
           "sku_code": "WGM69020803",
           "full_sku": "NWG-WGM69020803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M690",
-          "msrp": 9343,
+          "msrp": 9211,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?X9Wh36nMtXM=sFwQDBcdOBggtk48HqXxEQ==rB5qbJ/cj6DRyZ80o10SJvNDgTkrRBg=",
+          "url": "https://partner.leadersystems.com.au/products.html?aYW7Gh2hdiY=8WXRcbcxExX634lX1d38CQ==XFytuJc5ZvBUiYzCgQjf0JW4+6PgecU=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -2500,9 +2489,9 @@
           "sku_code": "WGM69040201",
           "full_sku": "NWG-WGM69040201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M690",
-          "msrp": 7975,
+          "msrp": 7863,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?JAecACmtDj0=loK+7YbF6rIu7UtUEP01Xg==GW1Fx99+RJmBoJEgkGMKssMwo+N+wKk=",
+          "url": "https://partner.leadersystems.com.au/products.html?R3uQID0kW2k=te5iw+0LVNVIuts1f4STPg==IAl1KhxnG/urb3w2OV9WMbr0oncIFxU=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -2511,9 +2500,9 @@
           "sku_code": "WGM69040203",
           "full_sku": "NWG-WGM69040203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M690",
-          "msrp": 19109,
+          "msrp": 18840,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+7ty4ebN1Ks=y1GjbYrg/C1y0Wp7mR9/6Q==ECGjDKrjboo2FY9esbUA0MH+bXfVdKE=",
+          "url": "https://partner.leadersystems.com.au/products.html?pkmxey2Tn/w=wPiX8iXV8GbCA8r/QP+mdg==zF9alJ35shV40gA4B+3uXjp349Ekmbs=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -2521,10 +2510,10 @@
         {
           "sku_code": "WGM6900071",
           "full_sku": "NWG-WGM6900071",
-          "name": "WatchGuard Basic Security Suite for Firebox M690 - 1-Year",
-          "msrp": 8093,
+          "name": "WatchGuard Basic Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 7979,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?DZ7o0KMnrQY=wSAag9uNr1AvLBgrgfSQWA==OkZQi/OIALaWu8DQh0yct6g0OWu4bw==",
+          "url": "https://partner.leadersystems.com.au/products.html?WwKxzFQWirY=l/eu6dBAn/5aujNbsCFAwQ==T22fO9IMGggTTIQLB4d3t7aLLHNgHw==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -2532,10 +2521,10 @@
         {
           "sku_code": "WGM6900073",
           "full_sku": "NWG-WGM6900073",
-          "name": "WatchGuard Basic Security Suite for Firebox M690 - 3-Year",
-          "msrp": 18622,
+          "name": "WatchGuard Basic Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 18360,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?1ZpxRjOI2C8=q6Opjnp7Kq5GS0dRp5PQRQ==dV/oXcIRawBNx2Abr6uAX0YIsUx1jg==",
+          "url": "https://partner.leadersystems.com.au/products.html?AOLoYezUfYo=UfwDbXE79OiLjrDkIcGuew==SohZ77xB7qiAOu6dE7E548Dz1dTJBg==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2544,9 +2533,9 @@
           "sku_code": "WGM69021801",
           "full_sku": "NWG-WGM69021801",
           "name": "WatchGuard Cloud 1-month data retention for M690 - 1-yr",
-          "msrp": 3300,
+          "msrp": 3254,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ARJ6FPD435k=1cU1k3zFlp+gGWUPOvAq6A==XAYUAZ2ILT5dMVrmYJtfpIhPJaVtDdg=",
+          "url": "https://partner.leadersystems.com.au/products.html?a0k4uAfRMMg=D93NRJlPNAqiHdnTIXX6cg==+QkVSO8hTZebywAZdvPfV37CgrDNFoc=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 1
@@ -2555,9 +2544,9 @@
           "sku_code": "WGM69021803",
           "full_sku": "NWG-WGM69021803",
           "name": "WatchGuard Cloud 1-month data retention for M690 - 3-yr",
-          "msrp": 9900,
+          "msrp": 9761,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?k3A8pC1Cdsg=hYR43JWta7ZKT+Wz5btsPw==/lJ7zq2560DUpkYlmIJmWFIfXJciisA=",
+          "url": "https://partner.leadersystems.com.au/products.html?tqnxQ7PZMi8=AAZ4CLEPzN0FvBktlNh0RQ==vtEQpUfKs/29R+Q1tnb/TqZ3tZsv4e8=",
           "sku_type": "subscription",
           "subscription_type": "Cloud Data Retention",
           "term_years": 3
@@ -2565,10 +2554,10 @@
         {
           "sku_code": "WGM690000",
           "full_sku": "NWG-WGM690000",
-          "name": "WatchGuard Firebox M690 Appliance Only",
+          "name": "WatchGuard Firebox M690 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 9374,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?sgdg0DBNHxM=pPpXkdn4azUBJbqXbYa71Q==v+AFbExpN5GrWKNA8JG44EPWWbUy",
+          "url": "https://partner.leadersystems.com.au/products.html?pev3c177rxQ=dnqzFyBcXzby4QafDw+y9Q==syNvwK3ra3BVljbJIJmVhN05Im2+",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -2577,9 +2566,9 @@
           "sku_code": "WGM69040701",
           "full_sku": "NWG-WGM69040701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M690",
-          "msrp": 4157,
+          "msrp": 4098,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?McLW8JtG1NU=I886w+z1Xomi/lmBJZ7OhQ==pQ2s7Ymjw257V0EGOdkcVfZznmJcyXE=",
+          "url": "https://partner.leadersystems.com.au/products.html?xqqA2NVfjug=iDBI5JRgz5NI8/FISfpvvg==wJHd7klFfpYTI6UafFVA/CV9fe90c+s=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -2588,9 +2577,9 @@
           "sku_code": "WGM69040703",
           "full_sku": "NWG-WGM69040703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M690",
-          "msrp": 9673,
+          "msrp": 9536,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?8R6IvgRTZTY=wd1tH7ApP4gj5CVPXbP5fw==CJg7H12RY2KX3vkOWTusuWAK0dV0tFY=",
+          "url": "https://partner.leadersystems.com.au/products.html?kVOk2MEKa2E=MM/uWdnC1hnhGlYgb1wc3A==x+WQ8Win7i8Dva5OxEMf45SihTlZJ+k=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -2598,10 +2587,10 @@
         {
           "sku_code": "WGM6901601",
           "full_sku": "NWG-WGM6901601",
-          "name": "WatchGuard High Availability for M690 - 1-Year",
-          "msrp": 1259,
+          "name": "WatchGuard High Availability for M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 1441,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?0ZoqTVoCXdY=ujQ5OH0Y/Yf/I2+96Adc6Q==enotJd3FTvUVeVMvN6a218In5QbVdQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?802rLT6sn6c=fwSJ3H7QIHvh63Wt1yKJ6w==7rNFBfuosJCbDalb506nz1Vmk/AfLw==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -2609,10 +2598,10 @@
         {
           "sku_code": "WGM6901603",
           "full_sku": "NWG-WGM6901603",
-          "name": "WatchGuard High Availability for M690 - 3-Year",
-          "msrp": 3026,
+          "name": "WatchGuard High Availability for M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 3463,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xfxFHJE9Vmo=Ioto/3SzINvgQbzoRqD/bQ==F6C6N3HYaXrWCkhquPNxHkoz5RJeNw==",
+          "url": "https://partner.leadersystems.com.au/products.html?Vm0uZE5Zg0k=Yvhwr30PVE3FZiHo4j2a+w==Q7ZGmIsRDsOhNd4/f/Hn8LaND7+JRg==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -2621,9 +2610,9 @@
           "sku_code": "WGM69040101",
           "full_sku": "NWG-WGM69040101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M690",
-          "msrp": 2892,
+          "msrp": 2851,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?IFCKWx5WizQ=RM934uFfqGYiii6R1jjcuA==Z2k73QbZcRX2gFhnQkrNCmumC3GOlKM=",
+          "url": "https://partner.leadersystems.com.au/products.html?VXFTwDzDxHM=E/vGgPaTwvn0qi7RZ1kb3A==NuP5pMGIrCJVc9Kb9pnskXI1xkeaww8=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -2632,9 +2621,9 @@
           "sku_code": "WGM69040103",
           "full_sku": "NWG-WGM69040103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M690",
-          "msrp": 6954,
+          "msrp": 6856,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?j/VjC2V5AqI=0Z6gbStGmK+6Wm/5rOLemQ==1GCgiQEM72QQ0oZZV+BzWmP9E3iMi7I=",
+          "url": "https://partner.leadersystems.com.au/products.html?u19yIXLrOl0=WpArazBKlk/IxcUzP2aw5w==fn4M32o+JqYGZi3Kl8Gx07LeZ0vXKZs=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -2642,10 +2631,10 @@
         {
           "sku_code": "WGM6900061",
           "full_sku": "NWG-WGM6900061",
-          "name": "WatchGuard Standard Support for Firebox M690 - 1-Year",
-          "msrp": 4990,
+          "name": "WatchGuard Standard Support for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 4920,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Nf4N0ckH9Ww=b+2NMOIdR7hvG74Y2GV4Yw==9rIU3ffTQ3jPo3C40+pqVmaudXKUNQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?6Rjt3ip+jfU=yaMVd1fVHYQ7non/9Fsacw==XumHkWnN+glAlL7H1cvec6Pvov4ugQ==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -2653,10 +2642,10 @@
         {
           "sku_code": "WGM6900063",
           "full_sku": "NWG-WGM6900063",
-          "name": "WatchGuard Standard Support for Firebox M690 - 3-Year",
-          "msrp": 8832,
+          "name": "WatchGuard Standard Support for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 8708,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?y6z5SQ3ybiQ=jUeuf5QmnjvSAjxxsiwzdg==shZZ9Gl4H4IYO5ywciWz8drvDZv5lw==",
+          "url": "https://partner.leadersystems.com.au/products.html?OP9ldbKNSUI=QIlawFpUZHixtKPGor92Aw==LZ0Sn8eNVTZfYW83kM/OAvf12gdhuQ==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -2665,9 +2654,9 @@
           "sku_code": "WGM69040301",
           "full_sku": "NWG-WGM69040301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M690",
-          "msrp": 15283,
+          "msrp": 15067,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?dWieA1yOx2Y=NT9hGaYrVXQR0wUbLRS+jw==esXD82BDo6VUdzKzhAlKTXMlncnxbyU=",
+          "url": "https://partner.leadersystems.com.au/products.html?EY0x7g1QjIk=ySohg1NpZZNQXgRs1Zxuhg==2ER4gS0NMHdbGVRLaVfhILWhhDTQ7/A=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -2676,9 +2665,9 @@
           "sku_code": "WGM69040303",
           "full_sku": "NWG-WGM69040303",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M690",
-          "msrp": 36662,
+          "msrp": 36146,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NxUg8QoTbZo=iQwh3m1EovH8+wKusnOq5Q==Yxct5Hab8oXs3Yc+a0HTdq0cRoJnKqk=",
+          "url": "https://partner.leadersystems.com.au/products.html?WemtAXpx0b8=XJuUMKAaen6H7ZA0kYXv+g==oQfuNW43bvbtVbjoDBO1FlxP8fmG4Pc=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -2686,10 +2675,10 @@
         {
           "sku_code": "WGM6900081",
           "full_sku": "NWG-WGM6900081",
-          "name": "WatchGuard Total Security Suite for Firebox M690 - 1-Year",
-          "msrp": 15173,
+          "name": "WatchGuard Total Security Suite for Firebox M690 - 1-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 14959,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?cn/fSH6vt9k=FqXe9jOV7XPnermXuKTkJg==q6bq3Tn0uBwQnwsV1ge7WTo27ae+hQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?sN/UHHw3woo=hIczM0J8Hk4TzErbZcd8OQ==kg2teW5R0eQ15SRSOTkIbCCfGBrILg==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2697,10 +2686,10 @@
         {
           "sku_code": "WGM6900083",
           "full_sku": "NWG-WGM6900083",
-          "name": "WatchGuard Total Security Suite for Firebox M690 - 3-Year",
-          "msrp": 35420,
+          "name": "WatchGuard Total Security Suite for Firebox M690 - 3-Year (License ONLY; HW SKU: WGM690000)",
+          "msrp": 34922,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?guIp6TLlUC8=osAuCymJ7JbqjaJiVF8Tpg==xlaoaenBzFEjjFIFxcHjMrW8+TlUZQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?Ap+17UC9Fjw=zKemWw2AL3RWAbA36T713g==54yrE3s0HnZ4K0zlaQn6V05rOMLfCw==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2708,7 +2697,7 @@
       ]
     },
     {
-      "id": 92,
+      "id": 824,
       "slug": "M695",
       "name": "Firebox M695",
       "family": "M-Series",
@@ -2719,10 +2708,10 @@
         {
           "sku_code": "WGM6950203",
           "full_sku": "NWG-WGM6950203",
-          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M695 - 3-Year",
-          "msrp": 36992,
+          "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 36471,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?RsXEMyRLKDE=1BaeCSscp56Vi+L1zVqH6Q==U0KrAUjP5H0+v81E77c0c1Y3CL5r0A==",
+          "url": "https://partner.leadersystems.com.au/products.html?+WQKVc93xCI=Ex42Ydn9YfNseFpktlowGA==wiT8p4Xmg/U5JHBQWTUgrmRN1JuHpA==",
           "sku_type": "trade_up",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2730,10 +2719,10 @@
         {
           "sku_code": "WGM6950211",
           "full_sku": "NWG-WGM6950211",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M695 - 1-Year",
-          "msrp": 31570,
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M695 - 1-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 31126,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NsLJIDISXl4=TqebofJjG4ImpsQLL/sc3Q==WRrJODfz5/d6IDmd0X8SJkoL3L1sCw==",
+          "url": "https://partner.leadersystems.com.au/products.html?HOBZRqjpu3c=GoL8w54bMHfYUD47DG2qxw==j4LKpcXKMGif/8kEpBUGbxzJk/Fmww==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2741,10 +2730,10 @@
         {
           "sku_code": "WGM6950213",
           "full_sku": "NWG-WGM6950213",
-          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M695 - 3-Year",
+          "name": "Trade Up to WatchGuard Total Security Suite for Firebox M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
           "msrp": 76027,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NQzgKoc+Sus=5E1i3zgsDxqzJqMS/PLmyQ==yn8amugyHfECR2X1KyS0+W50QlrX2w==",
+          "url": "https://partner.leadersystems.com.au/products.html?JVK/iwEQWp0=Kf9CKxnx/1UWDHy5QIwzCQ==vMbQKTAD5lbSNm4/zMJAKlBlA6nbMQ==",
           "sku_type": "trade_up",
           "subscription_type": "Total Security Suite",
           "term_years": 3
@@ -2753,9 +2742,9 @@
           "sku_code": "WGM69520801",
           "full_sku": "NWG-WGM69520801",
           "name": "WatchGuard APT Blocker 1-yr for Firebox M695",
-          "msrp": 4290,
+          "msrp": 4230,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Rct4QENZhc8=FjeTitGpQmxipi4YDcsnwg==Qd1s+83H7SRYqtYkHoUrgEJWXYewNw4=",
+          "url": "https://partner.leadersystems.com.au/products.html?uqoFCgYL/xs=yIMHNM+8hj/iioZqbpINog==47DGY5DfmtKOm+Pctx9SCPkGCVrn89Y=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 1
@@ -2764,9 +2753,9 @@
           "sku_code": "WGM69520803",
           "full_sku": "NWG-WGM69520803",
           "name": "WatchGuard APT Blocker 3-yr for Firebox M695",
-          "msrp": 10278,
+          "msrp": 10133,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?4SSDOz1fdy4=sTuOGVWVQXKRVgq84duhig==ay1Bq+lDFvFj2ISqCYr/fltVpXzGsh4=",
+          "url": "https://partner.leadersystems.com.au/products.html?49rqc+nRMjY=6pZ+f1r8kT4cXfSpRtg1Vw==/IAYVgXZfOI1QsK/nikOzcB1i7kxhcw=",
           "sku_type": "subscription",
           "subscription_type": "APT Blocker",
           "term_years": 3
@@ -2775,9 +2764,9 @@
           "sku_code": "WGM69540201",
           "full_sku": "NWG-WGM69540201",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M695",
-          "msrp": 14347,
+          "msrp": 15106,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?t/jG/0Zwvhc=0z8i0wT5Gha2XTGSSxbCKg==qmQ7NkFXp3kbbqoHTxzNfuoQe8aaMXY=",
+          "url": "https://partner.leadersystems.com.au/products.html?YnnHSeKC9TA=6gCw2GCFlO9EAq/peMJWGg==3DIByHxEUQasInhAsYosGe3inv9sv6w=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 1
@@ -2786,9 +2775,9 @@
           "sku_code": "WGM69540203",
           "full_sku": "NWG-WGM69540203",
           "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M695",
-          "msrp": 34359,
+          "msrp": 36177,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?XqT0li3x7Dc=M5XTi29W8Zv+oDTxsOlIBw==O49TTqcTV6eRsJUmmBgs38hWmjiDMrg=",
+          "url": "https://partner.leadersystems.com.au/products.html?y8dwi5jarUg=SUMW8iF4P6NgbDLOkx9u/A==NKGMnHWvx8FGX5svk7wMEfzj3jiPE9s=",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Renewal",
           "term_years": 3
@@ -2796,10 +2785,10 @@
         {
           "sku_code": "WGM6950071",
           "full_sku": "NWG-WGM6950071",
-          "name": "WatchGuard Basic Security Suite for Firebox M695 - 1-Year",
-          "msrp": 21922,
+          "name": "WatchGuard Basic Security Suite for Firebox M695 - 1-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 21613,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?weks/XnqEjA=PRN0GldEZsMPoo5N3drzeA==47K9OBRvGWoY5lmunVasCzXK+3BZuQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?EvEVNjp7JAI=OSEPtTiOmVJyyYM74rYW6A==nqG8H2APe2djs6zEMr93i4ypJtlNcA==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 1
@@ -2807,10 +2796,10 @@
         {
           "sku_code": "WGM6950073",
           "full_sku": "NWG-WGM6950073",
-          "name": "WatchGuard Basic Security Suite for Firebox M695 - 3-Year",
-          "msrp": 39302,
+          "name": "WatchGuard Basic Security Suite for Firebox M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 38748,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xmIhH/SRaMY=7RjbVNiRfdm7ttSkO0aOEQ==rEwTSnpfuHsK6/ecdwi/ATybjt8EGg==",
+          "url": "https://partner.leadersystems.com.au/products.html?dm3GhIr6bK4=dlsWujWkrPyfluYFk8mfKA==3cQu8rXHvLVyJVrKQUTOB4aIcIZe1Q==",
           "sku_type": "subscription",
           "subscription_type": "Basic Security Suite",
           "term_years": 3
@@ -2818,10 +2807,10 @@
         {
           "sku_code": "WGM695000",
           "full_sku": "NWG-WGM695000",
-          "name": "WatchGuard Firebox M695 Appliance Only",
+          "name": "WatchGuard Firebox M695 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
           "msrp": 6915,
           "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?K7jy+DvBHgc=3VijDG9OPg48Mm8t0qME7w==vxJvfRTsFWKV7azd4pJj2RRpCM1J",
+          "url": "https://partner.leadersystems.com.au/products.html?DfxtJiV5Mzo=fVYFmZgQDFV28hiI9/3q+Q==e5+hvyKM6ijsIs+F0L/gL3PmDi1x",
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
@@ -2830,9 +2819,9 @@
           "sku_code": "WGM69540701",
           "full_sku": "NWG-WGM69540701",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M695",
-          "msrp": 7799,
+          "msrp": 8212,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?stNd97Nxdmo=QlUKGsN6zbr+PvmIY2sYUQ==nbg9PoE+LoI8F+XjshW/qe5UF0GhCls=",
+          "url": "https://partner.leadersystems.com.au/products.html?UvycbNEtBgU=XAafHZtSr6D2mrrVCwYE3A==PF1UfjA/Y+Iy3PILjHek6zoYL1cB0HE=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
@@ -2841,9 +2830,9 @@
           "sku_code": "WGM69540703",
           "full_sku": "NWG-WGM69540703",
           "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M695",
-          "msrp": 18747,
+          "msrp": 19739,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?JqAwcXLRW5c=b43sTI+ZPet1+mx38z8uaA==ZRc4jl/TyLMB8mgKuFahIFgNU2JvZGk=",
+          "url": "https://partner.leadersystems.com.au/products.html?XCLfUbeCNdg=arQPchNdHzrRM2lwqlvSig==W96+3taJIXnCR15EYgtdmxzF9HGbT0g=",
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 3
@@ -2851,10 +2840,10 @@
         {
           "sku_code": "WGM6951601",
           "full_sku": "NWG-WGM6951601",
-          "name": "WatchGuard High Availability for M695 - 1-Year",
-          "msrp": 4950,
+          "name": "WatchGuard High Availability for M695 - 1-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 4881,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?tDg+PzKQgXs=EmPPGbEi0RkoGLL4c12s7A==mP708qI3QktGfti8sZuqka8LQTURJQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?H4bk/ckL8R0=Q9D30IW4G2IodrwQOGejyw==UYcTh+xE+vGdmU+BLfkqnSGzKs3Zkw==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 1
@@ -2862,10 +2851,10 @@
         {
           "sku_code": "WGM6951603",
           "full_sku": "NWG-WGM6951603",
-          "name": "WatchGuard High Availability for M695 - 3-Year",
-          "msrp": 13860,
+          "name": "WatchGuard High Availability for M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 13665,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?SzC3fAFwqRg=MBlMTPWiYX2zcGT9aCPv6w==iJWFU0o2l21e3TNqop+cyEp4a1ZPEA==",
+          "url": "https://partner.leadersystems.com.au/products.html?txvcN7+5pd8=NbeRHBdhP5qEAwWx/MHx3g==sKEu1ZBsgIk/E45keVaCyR2pF6hD5Q==",
           "sku_type": "high_availability",
           "subscription_type": "High Availability",
           "term_years": 3
@@ -2874,9 +2863,9 @@
           "sku_code": "WGM69540101",
           "full_sku": "NWG-WGM69540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M695",
-          "msrp": 5209,
+          "msrp": 9633,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?X+nmrcXzYnw=dTHNXEy1MkmUGvLUjOPmLA==H4rxAiP0Lz3GQBm9tQ04yVxdAPZzYb4=",
+          "url": "https://partner.leadersystems.com.au/products.html?Gv4GWBVaKIU=ZqaPhYsPLCCombd/fIuKKw==B4zyu69yLyIjksga5XbpUquLMqj22dk=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 1
@@ -2885,9 +2874,9 @@
           "sku_code": "WGM69540103",
           "full_sku": "NWG-WGM69540103",
           "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M695",
-          "msrp": 12507,
+          "msrp": 23092,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?XHB/+AiBoaM=0wkVYuYbbNFqCAwHrJ/6pw==9Sz8iQGHX2cEIoFKGEttFXrEpsATjXs=",
+          "url": "https://partner.leadersystems.com.au/products.html?BhXB+uuI27Y=Cxh2MzWMxSFbVOBx9i0bsA==l1X5wRL+O7h9NUqtoncvQ9SpEDnayI0=",
           "sku_type": "subscription",
           "subscription_type": "Standard Support Renewal",
           "term_years": 3
@@ -2895,10 +2884,10 @@
         {
           "sku_code": "WGM6950061",
           "full_sku": "NWG-WGM6950061",
-          "name": "WatchGuard Standard Support for Firebox M695 - 1-Year",
-          "msrp": 16799,
+          "name": "WatchGuard Standard Support for Firebox M695 - 1-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 16562,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Sq2Min20MtY=khjdnVi4/4StfMWZ9K9lrg==Qb1AX5AtPTTR9ZAV9y7UTNoaefZ8pA==",
+          "url": "https://partner.leadersystems.com.au/products.html?+8zsSQpQkTA=zYGQMDaIm/z7kgAJNCCy6Q==88eAUfvgSM20mxW9n0yP9+VDXZ6QDg==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 1
@@ -2906,10 +2895,10 @@
         {
           "sku_code": "WGM6950063",
           "full_sku": "NWG-WGM6950063",
-          "name": "WatchGuard Standard Support for Firebox M695 - 3-Year",
-          "msrp": 27720,
+          "name": "WatchGuard Standard Support for Firebox M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 27330,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?NJhJKXcm+aU=N7ud8ysDIa8A1AbP0gA7dw==B7AOuwFvjM1ZKMVpw4SfGbFYE5yGCg==",
+          "url": "https://partner.leadersystems.com.au/products.html?3b1543gROaA=LvbKcFOIJhQuGJmffjZVew==ZLTFZg3zwgbb6YiKnU/XnfjsPKMN/A==",
           "sku_type": "subscription",
           "subscription_type": "Standard Support",
           "term_years": 3
@@ -2918,9 +2907,9 @@
           "sku_code": "WGM69540301",
           "full_sku": "NWG-WGM69540301",
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M695",
-          "msrp": 27642,
+          "msrp": 27253,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?xfdxKRwnofE=WeiEDha6N26uC5x1in34fw==PV/WsIVToQN5y28l7AWezMmfc1iEBCE=",
+          "url": "https://partner.leadersystems.com.au/products.html?I+ZFHS3LbrU=uhtJnO0XevTUbYKm7am4fA==8+VfONfMHfklyliCt948JbJzt86Wt8I=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 1
@@ -2931,7 +2920,7 @@
           "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M695",
           "msrp": 78032,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?VPY44h2iJXc=VJ+k6c1qzPmrBpeLxGEEfQ==3l9ggt6OOLNLuDmjudCgLVrvQ3U9VuU=",
+          "url": "https://partner.leadersystems.com.au/products.html?+Mzu3Vl4tQQ=f66UqNJ0aOtblnMd3GhauA==E3Rijy+aC5tOWwEmRJ6BCvKwzB24Yzo=",
           "sku_type": "subscription",
           "subscription_type": "Total Security Renewal",
           "term_years": 3
@@ -2939,10 +2928,10 @@
         {
           "sku_code": "WGM6950081",
           "full_sku": "NWG-WGM6950081",
-          "name": "WatchGuard Total Security Suite for Firebox M695 - 1-Year",
-          "msrp": 33598,
+          "name": "WatchGuard Total Security Suite for Firebox M695 - 1-Year (License ONLY; HW SKU: WGM695000)",
+          "msrp": 33124,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?ASTXcR9aAgI=xLY3CKxxTBI4qq4iHCQhmg==phcjxrk2eXANzZsyv3AcpyOSPbK39w==",
+          "url": "https://partner.leadersystems.com.au/products.html?q6qcTf3UCDM=54mSr/GLCog+E5MtmmXN+A==2p0yormwLQwdPPDFDAYh+4hJNQH3fw==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 1
@@ -2950,10 +2939,10 @@
         {
           "sku_code": "WGM6950083",
           "full_sku": "NWG-WGM6950083",
-          "name": "WatchGuard Total Security Suite for Firebox M695 - 3-Year",
+          "name": "WatchGuard Total Security Suite for Firebox M695 - 3-Year (License ONLY; HW SKU: WGM695000)",
           "msrp": 80023,
           "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+t3XVwaf2ss=oqZKlTACttytm1KrywMv1w==xV/7Ee6XwxE2Qe339t3bt/pUOA0sDQ==",
+          "url": "https://partner.leadersystems.com.au/products.html?FIaScYhsWqU=TE/a0V63rvH0qt0pbcnmqw==33+z+WZwInGlaqUb0E4enZUWU3VlqQ==",
           "sku_type": "subscription",
           "subscription_type": "Total Security Suite",
           "term_years": 3

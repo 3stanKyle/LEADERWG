@@ -1,0 +1,16 @@
+{
+  "id": 836,
+  "slug": "CloudDR",
+  "name": "CloudDR",
+  "family": "CloudDR",
+  "category": "cloud",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

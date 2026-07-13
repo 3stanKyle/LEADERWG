@@ -1,0 +1,177 @@
+{
+  "id": 775,
+  "slug": "Wi-Fi Management",
+  "name": "WatchGuard Wi-Fi Management",
+  "family": "Access Points",
+  "category": "wifi",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [
+    {
+      "id": 13754,
+      "sku_code": "WGWSM00621",
+      "full_sku": "NWG-WGWSM00621",
+      "name": "WatchGuard Standard Wi-Fi Management License 1-yr - Renewal, 1 AP",
+      "msrp": 117,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?hZwN3F6JK3U=dIvK91EHRMlJ2gq2TnxhdA==IP6gPu2Ic5kNmxKjuM2SOIDJDtdYVg==",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Wi-Fi",
+      "term_years": 1
+    },
+    {
+      "id": 13785,
+      "sku_code": "WGWSM00623",
+      "full_sku": "NWG-WGWSM00623",
+      "name": "WatchGuard Standard Wi-Fi Management License 3-yr - Renewal, 1 AP",
+      "msrp": 233,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?+oV10MM9FiY=u/KjCn3jCMvSDRHSsF14DA==s5KjsWk/MGdvybYAlXdfraEIDRoEbQ==",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Wi-Fi",
+      "term_years": 3
+    },
+    {
+      "id": 13734,
+      "sku_code": "WGWSM00625",
+      "full_sku": "NWG-WGWSM00625",
+      "name": "WatchGuard Standard Wi-Fi Management License 5-yr - Renewal, 1 AP",
+      "msrp": 349,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?6U6yKeFD3Iw=wEHeAs0h1y9T02DXJsJR6A==b0dgTuGky37yv1M91eN8OKVraqg5nA==",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Wi-Fi",
+      "term_years": 5
+    },
+    {
+      "id": 13755,
+      "sku_code": "WGWUM22021",
+      "full_sku": "NWG-WGWUM22021",
+      "name": "WatchGuard USP Wi-Fi Management License 1-yr - Renewal/Upgrade, 1 AP",
+      "msrp": 194,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?G0Sz972lYVg=d8zwDxoVMjJjzgyjFCWMtQ==XN97qBM/TIlOryjAEZoD3E/o+nbXTg==",
+      "sku_type": "subscription",
+      "subscription_type": "USP Wi-Fi",
+      "term_years": 1
+    },
+    {
+      "id": 13749,
+      "sku_code": "WGWUM22023",
+      "full_sku": "NWG-WGWUM22023",
+      "name": "WatchGuard USP Wi-Fi Management License 3-yr - Renewal/Upgrade, 1 AP",
+      "msrp": 388,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?Lx8HaDt+6Ow=E0RYf6zB6rX4vpxpIhvdsQ==avwe9Q09/UswIBOJ9McAYvop3W7jMQ==",
+      "sku_type": "subscription",
+      "subscription_type": "USP Wi-Fi",
+      "term_years": 3
+    },
+    {
+      "id": 13733,
+      "sku_code": "WGWUM22025",
+      "full_sku": "NWG-WGWUM22025",
+      "name": "WatchGuard USP Wi-Fi Management License 5-yr - Renewal/Upgrade, 1 AP",
+      "msrp": 581,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?K2wEb0ie2m4=rHRgPzXndR+Iq5I30cbjNw==rX3FnVZRIJA6JPIiQkDsoRJ7HNVA6Q==",
+      "sku_type": "subscription",
+      "subscription_type": "USP Wi-Fi",
+      "term_years": 5
+    }
+  ],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [
+    {
+      "title": "OVERVIEW",
+      "rows": [
+        {
+          "label": "Recommended Use Cases",
+          "key": "idealFor"
+        },
+        {
+          "label": "Environment",
+          "key": "environment"
+        }
+      ]
+    },
+    {
+      "title": "TECHNICAL SPECS",
+      "rows": [
+        {
+          "label": "Radios & Streams",
+          "key": "radiosStreams"
+        },
+        {
+          "label": "Number of Antennas",
+          "key": "numAntennas"
+        },
+        {
+          "label": "Maximum Data Rate",
+          "key": "maxDataRate"
+        },
+        {
+          "label": "Ports",
+          "key": "ports"
+        },
+        {
+          "label": "Power Consumption",
+          "key": "powerConsumption"
+        },
+        {
+          "label": "Mounting Options (Included)",
+          "key": "mountingOptions"
+        },
+        {
+          "label": "Optional Accessories",
+          "key": "optionalAccessories"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "OVERVIEW": [
+      {
+        "name": "Recommended Use Cases",
+        "value": "—"
+      },
+      {
+        "name": "Environment",
+        "value": "—"
+      }
+    ],
+    "TECHNICAL SPECS": [
+      {
+        "name": "Radios & Streams",
+        "value": "—"
+      },
+      {
+        "name": "Number of Antennas",
+        "value": "—"
+      },
+      {
+        "name": "Maximum Data Rate",
+        "value": "—"
+      },
+      {
+        "name": "Ports",
+        "value": "—"
+      },
+      {
+        "name": "Power Consumption",
+        "value": "—"
+      },
+      {
+        "name": "Mounting Options (Included)",
+        "value": "—"
+      },
+      {
+        "name": "Optional Accessories",
+        "value": "—"
+      }
+    ]
+  }
+}

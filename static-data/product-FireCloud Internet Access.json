@@ -1,0 +1,16 @@
+{
+  "id": 794,
+  "slug": "FireCloud Internet Access",
+  "name": "FireCloud Internet Access",
+  "family": "FireCloud",
+  "category": "cloud",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}
