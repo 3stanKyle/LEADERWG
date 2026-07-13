@@ -16,8 +16,6 @@ app.use(express.json());
 
 seedIfNeeded();
 const db = initDb();
-const { initChat } = require('./chat');
-const { handleChat, isChatAvailable } = initChat(db);
 
 // ── Category labels ───────────────────────────────────────
 const CATEGORY_LABELS = {
@@ -165,11 +163,8 @@ app.get('/api/products/:slug/subscriptions', (req, res) => {
 
 // ── GET /api/health ──────────────────────────────────────────
 app.get('/api/health', (_req, res) => {
-  res.json({ status: 'ok', chat: isChatAvailable() });
+  res.json({ status: 'ok' });
 });
-
-// ── POST /api/chat ───────────────────────────────────────────
-app.post('/api/chat', handleChat);
 
 // ── Serve frontend in production ──────────────────────────
 // On Railway, Express serves both the API and the built Vite frontend.
