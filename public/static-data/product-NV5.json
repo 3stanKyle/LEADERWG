@@ -1,0 +1,189 @@
+{
+  "id": 927,
+  "slug": "NV5",
+  "name": "NV5",
+  "family": "Firebox NV-Series",
+  "category": "tabletop",
+  "description": "",
+  "image_file": null,
+  "appliance": {
+    "id": 15939,
+    "sku_code": "WGNV5000",
+    "full_sku": "NWG-WGNV5000",
+    "name": "WatchGuard Firebox NV5 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
+    "msrp": 147,
+    "delivery_method": "Physical",
+    "url": "https://partner.leadersystems.com.au/products.html?plg9gQ42ROo=YeexRFztH5wNp4eq7PKLwg==YmSQ8GZC0y01KCcZaaU48xrPdK4=",
+    "sku_type": "appliance",
+    "subscription_type": null,
+    "term_years": null
+  },
+  "subscriptions": [
+    {
+      "id": 15956,
+      "sku_code": "WGNV50065",
+      "full_sku": "NWG-WGNV50065",
+      "name": "WatchGuard Standard Support for Firebox NV5 - 5-Year (License ONLY; HW SKU: WGNV5000)",
+      "msrp": 647,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?viw+6966Vyc=cATMqoePYMV3QhHAehAHpA==n04rwQegZju3cFyx+N54OFz3aeBD",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Support",
+      "term_years": 5
+    }
+  ],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [
+    {
+      "title": "OVERVIEW",
+      "rows": [
+        {
+          "label": "Ideal For",
+          "key": "idealFor"
+        }
+      ]
+    },
+    {
+      "title": "PERFORMANCE",
+      "rows": [
+        {
+          "label": "UTM (Full Scan)",
+          "key": "utmFullScan"
+        },
+        {
+          "label": "Firewall (UDP 1518)",
+          "key": "firewallUdp"
+        },
+        {
+          "label": "VPN (UDP 1518)",
+          "key": "vpnUdp"
+        },
+        {
+          "label": "VPN (IMIX)",
+          "key": "vpnImix"
+        },
+        {
+          "label": "AntiVirus",
+          "key": "antivirus"
+        },
+        {
+          "label": "IPS (Full Scan)",
+          "key": "ipsFullScan"
+        },
+        {
+          "label": "HTTPS (Full Scan)",
+          "key": "httpsFullScan"
+        }
+      ]
+    },
+    {
+      "title": "VPN TUNNELS",
+      "rows": [
+        {
+          "label": "Branch Office VPN Tunnels",
+          "key": "branchVpn"
+        },
+        {
+          "label": "Mobile VPN",
+          "key": "mobileVpn"
+        }
+      ]
+    },
+    {
+      "title": "HARDWARE",
+      "rows": [
+        {
+          "label": "Interfaces & Modules",
+          "key": "interfaces"
+        },
+        {
+          "label": "Wireless Models",
+          "key": "wirelessModels"
+        }
+      ]
+    },
+    {
+      "title": "NETWORKING FEATURES",
+      "rows": [
+        {
+          "label": "VLAN",
+          "key": "vlan"
+        },
+        {
+          "label": "SD-WAN Dynamic Path Selection",
+          "key": "sdwan"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "OVERVIEW": [
+      {
+        "name": "Ideal For",
+        "value": "—"
+      }
+    ],
+    "PERFORMANCE": [
+      {
+        "name": "UTM (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "Firewall (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (IMIX)",
+        "value": "—"
+      },
+      {
+        "name": "AntiVirus",
+        "value": "—"
+      },
+      {
+        "name": "IPS (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "HTTPS (Full Scan)",
+        "value": "—"
+      }
+    ],
+    "VPN TUNNELS": [
+      {
+        "name": "Branch Office VPN Tunnels",
+        "value": "—"
+      },
+      {
+        "name": "Mobile VPN",
+        "value": "—"
+      }
+    ],
+    "HARDWARE": [
+      {
+        "name": "Interfaces & Modules",
+        "value": "—"
+      },
+      {
+        "name": "Wireless Models",
+        "value": "—"
+      }
+    ],
+    "NETWORKING FEATURES": [
+      {
+        "name": "VLAN",
+        "value": "—"
+      },
+      {
+        "name": "SD-WAN Dynamic Path Selection",
+        "value": "—"
+      }
+    ]
+  }
+}

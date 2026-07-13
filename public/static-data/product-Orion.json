@@ -1,0 +1,16 @@
+{
+  "id": 883,
+  "slug": "Orion",
+  "name": "Orion",
+  "family": "MDR & NDR",
+  "category": "mdr_ndr",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

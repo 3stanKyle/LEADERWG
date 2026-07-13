@@ -1,141 +1,152 @@
 {
-  "id": 150,
+  "id": 902,
   "slug": "T85-PoE",
   "name": "Firebox T85-PoE",
-  "family": "Renewals",
-  "category": "renewals",
-  "description": "",
+  "family": "T-Series",
+  "category": "tabletop",
+  "description": "Top-of-range tabletop firewall with PoE for busy branch offices",
   "image_file": null,
-  "appliance": null,
+  "appliance": {
+    "id": 15493,
+    "sku_code": "WGT85000-AU",
+    "full_sku": "NWG-WGT85000-AU",
+    "name": "WatchGuard Firebox T85-PoE Appliance Only (AU) – License Not Included (Requires Separate WG License Purchase)",
+    "msrp": 1729,
+    "delivery_method": "Physical",
+    "url": "https://partner.leadersystems.com.au/products.html?NDn5NGI4gkk=RARnXO6NAZ0FNrCW5ILoZQ==11LnJ1kg9GbUGaGa3RHt2voxCUmV8P4=",
+    "sku_type": "appliance",
+    "subscription_type": null,
+    "term_years": null
+  },
   "subscriptions": [
     {
-      "id": 2522,
+      "id": 16425,
       "sku_code": "WGT85171",
       "full_sku": "NWG-WGT85171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T85-PoE",
-      "msrp": 788,
+      "msrp": 777,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?cfGVmtlsWk8=N7qCvZMGqVZAtpf1GIOfnA==Emctb1icYFmk7ZcE1X70DQgpwcw=",
+      "url": "https://partner.leadersystems.com.au/products.html?iqbR7naJH4U=OIpzC/92PpxxI8OiXF4UyQ==D7U64HPjZuHdsuZHEWpi/7rpDAo=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 1
     },
     {
-      "id": 2523,
+      "id": 16418,
       "sku_code": "WGT85173",
       "full_sku": "NWG-WGT85173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T85-PoE",
-      "msrp": 1902,
+      "msrp": 1875,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?dg0WZA8ZZls=Wid7FsPUR7NjjOzUcamMkg==smSroWh7zFnsCYEPNJ/2CbfBm4M=",
+      "url": "https://partner.leadersystems.com.au/products.html?+lgi7djSy+g=fH0o9bqo2K41fBdnSl9kiA==5vm+zmIcdrAGoi5kBFCKgGme6us=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 3
     },
     {
-      "id": 2524,
+      "id": 16426,
       "sku_code": "WGT85175",
       "full_sku": "NWG-WGT85175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T85-PoE",
       "msrp": 3475,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?DaYDDFPtc+s=qUW07IcNGG6YHbWQe/71jw==BLoXa4z3KyDcC8GaevSJ7BymAYw=",
+      "url": "https://partner.leadersystems.com.au/products.html?0/hlOOal85Y=reJXvuksT79w2dSns8IFsg==ATKqPSlFvOD1pV8JLcguKe8o/p4=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 5
     },
     {
-      "id": 2514,
+      "id": 16427,
       "sku_code": "WGT85341",
       "full_sku": "NWG-WGT85341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T85-PoE",
-      "msrp": 1619,
+      "msrp": 1596,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?WJ0KF9ljR/c=gXngT7aA9L2eYLMkZQv/KA==wG2Dqp+wJrFDQd+EXTR4sUygrfA=",
+      "url": "https://partner.leadersystems.com.au/products.html?lSgmnZq/P20=ln6RxdF8spUA/8orfpQBHg==uXP7qe+fca9LuNWMZNc8sFeF2o4=",
       "sku_type": "subscription",
       "subscription_type": "Basic Security Renewal",
       "term_years": 1
     },
     {
-      "id": 2515,
+      "id": 16421,
       "sku_code": "WGT85343",
       "full_sku": "NWG-WGT85343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T85-PoE",
-      "msrp": 3898,
+      "msrp": 3843,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?2x7MXIhTMps=OJzX/3QJwUzwQWCRxGAKLw==sTN7k6KGcI0u2qz/XXrlJ/61tzg=",
+      "url": "https://partner.leadersystems.com.au/products.html?WKGHW7Uiabo=H6bxc4vweSUQ1oRP4hwTNg==YHKMhL/9D5v9AxfVq8P6iv5Aioo=",
       "sku_type": "subscription",
       "subscription_type": "Basic Security Renewal",
       "term_years": 3
     },
     {
-      "id": 2520,
+      "id": 16481,
       "sku_code": "WGT85261",
       "full_sku": "NWG-WGT85261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T85-PoE",
-      "msrp": 880,
+      "msrp": 868,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?kWbVEpNG8oY=VKySTnYfoyUjJzj9pg8z9Q==aQcTq29H3+raa8bIkThd6kI1mMs=",
+      "url": "https://partner.leadersystems.com.au/products.html?5kyp1pDoKMY=CUC+3G5dTlW31FAg+PuxDQ==OAMMN0UpyPMQ4xOLDLCuCHDXv70=",
       "sku_type": "subscription",
       "subscription_type": "Gold Support Renewal",
       "term_years": 1
     },
     {
-      "id": 2521,
+      "id": 16362,
       "sku_code": "WGT85263",
       "full_sku": "NWG-WGT85263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T85-PoE",
-      "msrp": 2122,
+      "msrp": 2092,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?mmljm+Ly3KQ=TqrW9AU3Yh7t58JFi5Mn+w==CgZYySNSFLg+8hfEeHNarwnFVKw=",
+      "url": "https://partner.leadersystems.com.au/products.html?UKBMmlS4eCY=aCpcFeISyOxUpZaw3YQ2qA==jMNnXftz/naNl37+lwJUGAHV/tQ=",
       "sku_type": "subscription",
       "subscription_type": "Gold Support Renewal",
       "term_years": 3
     },
     {
-      "id": 2518,
+      "id": 16359,
       "sku_code": "WGT85201",
       "full_sku": "NWG-WGT85201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T85-PoE",
-      "msrp": 583,
+      "msrp": 575,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?1gy9wvWt+3s=CUZcfq4PrS/Wu8foBJObOw==rhiw/a2OdG0KPdCZR8nPJngEtWw=",
+      "url": "https://partner.leadersystems.com.au/products.html?EwmH1EmAM2Y=flCV/tNeKpPOoA4FIK1ltA==WCPcFXQ5WrUovA1u8kTJOKC4Xng=",
       "sku_type": "subscription",
       "subscription_type": "Standard Support Renewal",
       "term_years": 1
     },
     {
-      "id": 2519,
+      "id": 16480,
       "sku_code": "WGT85203",
       "full_sku": "NWG-WGT85203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T85-PoE",
-      "msrp": 1423,
+      "msrp": 1403,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?Mvj7d9VIRcU=A2Kg76BF+EHCO6S0X/M6rA==cIWaD7ImZL9svsbEMEHoiuyhQbg=",
+      "url": "https://partner.leadersystems.com.au/products.html?XyFIS31ibG0=AYlumzw98MSCgTi6/imrGg==PuBY6aX6/1ccoKe9bjwsJzEJjm8=",
       "sku_type": "subscription",
       "subscription_type": "Standard Support Renewal",
       "term_years": 3
     },
     {
-      "id": 2516,
+      "id": 16428,
       "sku_code": "WGT85351",
       "full_sku": "NWG-WGT85351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T85-PoE",
-      "msrp": 3253,
+      "msrp": 3208,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?I02SAcYk7Cg=B2+xgCHQVggSdlesl0JD6w==dPx11qoXyxFLgZ0tpIBMI96HF8A=",
+      "url": "https://partner.leadersystems.com.au/products.html?beWCrpXY3Mo=wuRtWocoJALq0YslkknNPQ==cCpJpaKGluZ5z+pfCvnf3N3p1E8=",
       "sku_type": "subscription",
       "subscription_type": "Total Security Renewal",
       "term_years": 1
     },
     {
-      "id": 2517,
+      "id": 16475,
       "sku_code": "WGT85353",
       "full_sku": "NWG-WGT85353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T85-PoE",
-      "msrp": 7795,
+      "msrp": 7685,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?Oj7wKbDjTJU=9RAzWhtpj6p2FE0UU0IJ4A==StcmBa8GRew2W7Dj4laB55XE1co=",
+      "url": "https://partner.leadersystems.com.au/products.html?WRG9NLhSm7E=jZHb1ubo3SAUGl1lKBXbcw==7lEZuN67DK9ZB9HNajRZHfV5ql8=",
       "sku_type": "subscription",
       "subscription_type": "Total Security Renewal",
       "term_years": 3
@@ -144,6 +155,155 @@
   "tradeUps": [],
   "highAvailability": [],
   "activationBundles": [],
-  "specSections": [],
-  "features": {}
+  "specSections": [
+    {
+      "title": "OVERVIEW",
+      "rows": [
+        {
+          "label": "Ideal For",
+          "key": "idealFor"
+        }
+      ]
+    },
+    {
+      "title": "PERFORMANCE",
+      "rows": [
+        {
+          "label": "UTM (Full Scan)",
+          "key": "utmFullScan"
+        },
+        {
+          "label": "Firewall (UDP 1518)",
+          "key": "firewallUdp"
+        },
+        {
+          "label": "VPN (UDP 1518)",
+          "key": "vpnUdp"
+        },
+        {
+          "label": "VPN (IMIX)",
+          "key": "vpnImix"
+        },
+        {
+          "label": "AntiVirus",
+          "key": "antivirus"
+        },
+        {
+          "label": "IPS (Full Scan)",
+          "key": "ipsFullScan"
+        },
+        {
+          "label": "HTTPS (Full Scan)",
+          "key": "httpsFullScan"
+        }
+      ]
+    },
+    {
+      "title": "VPN TUNNELS",
+      "rows": [
+        {
+          "label": "Branch Office VPN Tunnels",
+          "key": "branchVpn"
+        },
+        {
+          "label": "Mobile VPN",
+          "key": "mobileVpn"
+        }
+      ]
+    },
+    {
+      "title": "HARDWARE",
+      "rows": [
+        {
+          "label": "Interfaces & Modules",
+          "key": "interfaces"
+        },
+        {
+          "label": "Wireless Models",
+          "key": "wirelessModels"
+        }
+      ]
+    },
+    {
+      "title": "NETWORKING FEATURES",
+      "rows": [
+        {
+          "label": "VLAN",
+          "key": "vlan"
+        },
+        {
+          "label": "SD-WAN Dynamic Path Selection",
+          "key": "sdwan"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "OVERVIEW": [
+      {
+        "name": "Ideal For",
+        "value": "—"
+      }
+    ],
+    "PERFORMANCE": [
+      {
+        "name": "UTM (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "Firewall (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (IMIX)",
+        "value": "—"
+      },
+      {
+        "name": "AntiVirus",
+        "value": "—"
+      },
+      {
+        "name": "IPS (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "HTTPS (Full Scan)",
+        "value": "—"
+      }
+    ],
+    "VPN TUNNELS": [
+      {
+        "name": "Branch Office VPN Tunnels",
+        "value": "—"
+      },
+      {
+        "name": "Mobile VPN",
+        "value": "—"
+      }
+    ],
+    "HARDWARE": [
+      {
+        "name": "Interfaces & Modules",
+        "value": "—"
+      },
+      {
+        "name": "Wireless Models",
+        "value": "—"
+      }
+    ],
+    "NETWORKING FEATURES": [
+      {
+        "name": "VLAN",
+        "value": "—"
+      },
+      {
+        "name": "SD-WAN Dynamic Path Selection",
+        "value": "—"
+      }
+    ]
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": 866,
+  "slug": "Dimension Command",
+  "name": "Dimension Command",
+  "family": "Reporting & Visibility",
+  "category": "mdr_ndr",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

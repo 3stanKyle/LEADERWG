@@ -1,0 +1,16 @@
+{
+  "id": 878,
+  "slug": "Compliance Reporting",
+  "name": "Compliance Reporting",
+  "family": "Reporting & Visibility",
+  "category": "mdr_ndr",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

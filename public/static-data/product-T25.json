@@ -1,203 +1,322 @@
 {
-  "id": 144,
+  "id": 891,
   "slug": "T25",
   "name": "Firebox T25",
-  "family": "Renewals",
-  "category": "renewals",
-  "description": "",
+  "family": "T-Series",
+  "category": "tabletop",
+  "description": "Entry-level tabletop firewall for small and home offices",
   "image_file": null,
-  "appliance": null,
+  "appliance": {
+    "id": 15519,
+    "sku_code": "WGT25000",
+    "full_sku": "NWG-WGT25000",
+    "name": "WatchGuard Firebox T25 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
+    "msrp": 542,
+    "delivery_method": "Physical",
+    "url": "https://partner.leadersystems.com.au/products.html?K/qA9D8PaPU=rmwh0wDX3MhS4ZFoHxXCKQ==2K+YesDCHo1nqfnG/TG+Qs/xfXs=",
+    "sku_type": "appliance",
+    "subscription_type": null,
+    "term_years": null
+  },
   "subscriptions": [
     {
-      "id": 2441,
+      "id": 16419,
       "sku_code": "WGT25171",
       "full_sku": "NWG-WGT25171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T25",
-      "msrp": 242,
+      "msrp": 239,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?+hfSugrk81o=NKDBiBlBEk8Mpjc+6BrnGA==ZJZu/A87Bu/g5EmqKszomz0O2G4=",
+      "url": "https://partner.leadersystems.com.au/products.html?Ni/jO2KY1F8=hQEGpCy3ioD0Vyetg6D/ew==uRF5/T0oQW3X9sdTi0InUcM8rHI=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 1
     },
     {
-      "id": 2442,
+      "id": 16467,
       "sku_code": "WGT25173",
       "full_sku": "NWG-WGT25173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T25",
-      "msrp": 588,
+      "msrp": 580,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?QegXBeFqcz4=TPXDFuQWKHsG11aTQbe98A==9TSd1QbeaU5TJzLdwhCCbDsv4PQ=",
+      "url": "https://partner.leadersystems.com.au/products.html?W5MRCQ4Qlgk=02Ot44XJF3djbupiCU0wQg==26Mo2pdGcasriZ76fAtYEp+zQs8=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 3
     },
     {
-      "id": 2443,
+      "id": 16420,
       "sku_code": "WGT25175",
       "full_sku": "NWG-WGT25175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T25",
       "msrp": 1072,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?vQyzexil1Bs=tt3abEv2I3VJM8tqviElvA==sKBe6Toz8B9wGl8C6eqBRWz8fTU=",
+      "url": "https://partner.leadersystems.com.au/products.html?IfSWl2w1xfw=1FHtTW5z2rufB2H2fDOupg==6fzYSoKDIA7EFcfD2VNIv6DBU2c=",
       "sku_type": "subscription",
       "subscription_type": "APT Blocker",
       "term_years": 5
     },
     {
-      "id": 2428,
+      "id": 16440,
       "sku_code": "WGT25341",
       "full_sku": "NWG-WGT25341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T25",
-      "msrp": 506,
+      "msrp": 499,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?9txYiAAa9fg=bNbOFxxEou4J4ZdF4jOdYg==TTG4qdU1G5RrwgLaOEvIfLpr+Is=",
+      "url": "https://partner.leadersystems.com.au/products.html?qzp2Cgxw4JM=Rkgq8COp3W8EuJd+g4WEHQ==XNQ1cEybYZAtYbX/N86CyeRbp0A=",
       "sku_type": "subscription",
       "subscription_type": "Basic Security Renewal",
       "term_years": 1
     },
     {
-      "id": 2429,
+      "id": 16468,
       "sku_code": "WGT25343",
       "full_sku": "NWG-WGT25343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T25",
-      "msrp": 1209,
+      "msrp": 1192,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?+AefqGPRtbw=eNPQcbLHnFWrNJwYxm4Ytw==BK16GYD7xQkkf/3ONJuBtJtV6o8=",
+      "url": "https://partner.leadersystems.com.au/products.html?ugrJKuc8b1Q=GJspXQ5/NpBpf0LTJbtqIQ==8/PpwjhlvEaJK/wh62fDWNX7xR0=",
       "sku_type": "subscription",
       "subscription_type": "Basic Security Renewal",
       "term_years": 3
     },
     {
-      "id": 2434,
+      "id": 15955,
+      "sku_code": "WGT250071",
+      "full_sku": "NWG-WGT250071",
+      "name": "WatchGuard Basic Security Suite for Firebox T25 - 1-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 562,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?68SnJvHrFhg=p5RCvm/Im8bYeTVynvZ8kg==+jvZwY8Hrb6j+cttXFpcrsFEqhWU",
+      "sku_type": "subscription",
+      "subscription_type": "Basic Security Suite",
+      "term_years": 1
+    },
+    {
+      "id": 15919,
+      "sku_code": "WGT250073",
+      "full_sku": "NWG-WGT250073",
+      "name": "WatchGuard Basic Security Suite for Firebox T25 - 3-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 1232,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?gIhSIKHKNRI=Gc5texBoBHmf4nA/8fEZow==qWOzu1su/g1hvZQsV3hchKNq1i5/",
+      "sku_type": "subscription",
+      "subscription_type": "Basic Security Suite",
+      "term_years": 3
+    },
+    {
+      "id": 15447,
+      "sku_code": "WGT250075",
+      "full_sku": "NWG-WGT250075",
+      "name": "WatchGuard Basic Security Suite for Firebox T25 - 5-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 2186,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?hmHl4Ip1/2M=MeLiMWDCQNBX6tF5ywGydg==jEQyK97rxFfSKuXQ2FkTsnj3K/rM",
+      "sku_type": "subscription",
+      "subscription_type": "Basic Security Suite",
+      "term_years": 5
+    },
+    {
+      "id": 16364,
       "sku_code": "WGT25261",
       "full_sku": "NWG-WGT25261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T25",
-      "msrp": 279,
+      "msrp": 275,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?E16fFgtRoXw=Wj5UxB4H0FA9yghXHNwDfg==jbg8FtlX7Q9k6Legs4se3kEdMIw=",
+      "url": "https://partner.leadersystems.com.au/products.html?0fjdpX9eg2Y=PEY+J92pUIHuh0AlmQa1SA==d/aL311VpQOWw/z51lQah2WRGHo=",
       "sku_type": "subscription",
       "subscription_type": "Gold Support Renewal",
       "term_years": 1
     },
     {
-      "id": 2435,
+      "id": 16403,
       "sku_code": "WGT25263",
       "full_sku": "NWG-WGT25263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T25",
-      "msrp": 644,
+      "msrp": 635,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?ObOhR2DmP2U=rBVasSucM6iklI9bRH3qsA==Gs9n9pWl6C/ZLdf9AW+S4M7Pd+4=",
+      "url": "https://partner.leadersystems.com.au/products.html?AnIwsrTUscE=xCYjjhQ4nvFNF3EMGQs/bg==uJzGlck4nYWVsIe0gMHgJxPVdJY=",
       "sku_type": "subscription",
       "subscription_type": "Gold Support Renewal",
       "term_years": 3
     },
     {
-      "id": 2432,
+      "id": 15474,
+      "sku_code": "WGT250061",
+      "full_sku": "NWG-WGT250061",
+      "name": "WatchGuard Standard Support for Firebox T25 - 1-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 363,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?dqpsoVNImtQ=YJreiXkR0PJzh3k0FQE/YA==JO6QYwqG6klgcv3MqS4i4QtudMTi",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Support",
+      "term_years": 1
+    },
+    {
+      "id": 16118,
+      "sku_code": "WGT250063",
+      "full_sku": "NWG-WGT250063",
+      "name": "WatchGuard Standard Support for Firebox T25 - 3-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 608,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?sgMqWgMlfM0=T/HYEnK7RtXed/7ByugOvg==R1YIacvsCiwUgXoWmmNGYNlsu/Ko",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Support",
+      "term_years": 3
+    },
+    {
+      "id": 16117,
+      "sku_code": "WGT250065",
+      "full_sku": "NWG-WGT250065",
+      "name": "WatchGuard Standard Support for Firebox T25 - 5-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 944,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?hAmIqsgbMIo=MYGEyP76wycvknJXkQ9CkA==1vWTXRrScuvbB9W28vJbd7L1NaLg",
+      "sku_type": "subscription",
+      "subscription_type": "Standard Support",
+      "term_years": 5
+    },
+    {
+      "id": 16360,
       "sku_code": "WGT25201",
       "full_sku": "NWG-WGT25201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T25",
-      "msrp": 179,
+      "msrp": 176,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?4Uuh+ZtXE1I=Wr1/2PcVEJuz1b3TQ0T4mQ==5ZJyy1fn68HKeDUJVWlMGh0dhEA=",
+      "url": "https://partner.leadersystems.com.au/products.html?zKLASulu3GY=C9QxHO44H5MJNhToiTprGw==E0OqHJWsxzvAXnapOdeA0EjGAjY=",
       "sku_type": "subscription",
       "subscription_type": "Standard Support Renewal",
       "term_years": 1
     },
     {
-      "id": 2433,
+      "id": 16402,
       "sku_code": "WGT25203",
       "full_sku": "NWG-WGT25203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T25",
-      "msrp": 437,
+      "msrp": 431,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?DgFBcrOxmH8=YMc4aOjvIIMl4Z9U7Cd29Q==4gSu7QaN4xKg2H3h7xjezpgpySo=",
+      "url": "https://partner.leadersystems.com.au/products.html?SUdp30shHgU=dSg0UIO6IQJ7kQuF0uC9ow==XpcNFCyw/orx5NHXLiO7i0DzV2M=",
       "sku_type": "subscription",
       "subscription_type": "Standard Support Renewal",
       "term_years": 3
     },
     {
-      "id": 2430,
+      "id": 16441,
       "sku_code": "WGT25351",
       "full_sku": "NWG-WGT25351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T25",
-      "msrp": 1006,
+      "msrp": 992,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?glem4+hQFOY=ZSzz7/6EHXc+59Azs3mlMA==WRtkOc8BaCjHwZEhcARQGJ0nVgw=",
+      "url": "https://partner.leadersystems.com.au/products.html?N4SLHbANUg0=6LRnHkYKydIsQXzQBkHIyw==5xzUAlyf42e/Gn10YJcNiATfETc=",
       "sku_type": "subscription",
       "subscription_type": "Total Security Renewal",
       "term_years": 1
     },
     {
-      "id": 2431,
+      "id": 16414,
       "sku_code": "WGT25353",
       "full_sku": "NWG-WGT25353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T25",
-      "msrp": 2428,
+      "msrp": 2394,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?r/vYrTV2kzc=6PB9oShTSt63hwlmMXwVmQ==b29RoQWjuQ1qw93+ls6cl/tad88=",
+      "url": "https://partner.leadersystems.com.au/products.html?R25WlNTBaQI=ETL+alnHKiN433rwvNEjoA==qAvYNKp2xrTf6Th3ha26M9fPKcQ=",
       "sku_type": "subscription",
       "subscription_type": "Total Security Renewal",
       "term_years": 3
+    },
+    {
+      "id": 15918,
+      "sku_code": "WGT250081",
+      "full_sku": "NWG-WGT250081",
+      "name": "WatchGuard Total Security Suite for Firebox T25 - 1-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 1078,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?eLEKp2QDID0=LHxPIS71q4difZKDEXs7fA==soeXslSe7WHlRYQvsLCjV/heNnMu",
+      "sku_type": "subscription",
+      "subscription_type": "Total Security Suite",
+      "term_years": 1
+    },
+    {
+      "id": 15499,
+      "sku_code": "WGT250083",
+      "full_sku": "NWG-WGT250083",
+      "name": "WatchGuard Total Security Suite for Firebox T25 - 3-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 2421,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?X25aaeqHos8=REeVP559XBT7iufNicS0Kw==UssPfhdKhmQGJsB3Fwu7r8WhA66k",
+      "sku_type": "subscription",
+      "subscription_type": "Total Security Suite",
+      "term_years": 3
+    },
+    {
+      "id": 15814,
+      "sku_code": "WGT250085",
+      "full_sku": "NWG-WGT250085",
+      "name": "WatchGuard Total Security Suite for Firebox T25 - 5-Year (License ONLY; HW SKU: WGT25000)",
+      "msrp": 4315,
+      "delivery_method": "Electronic",
+      "url": "https://partner.leadersystems.com.au/products.html?gznlxSFc47w=gif4A3ralEhrlk4/T6M9QA==OxIlO0cc5ZzPPRozokILfU1Yt7Gf",
+      "sku_type": "subscription",
+      "subscription_type": "Total Security Suite",
+      "term_years": 5
     }
   ],
   "tradeUps": [
     {
-      "id": 2436,
+      "id": 16485,
       "sku_code": "WGT250203",
       "full_sku": "NWG-WGT250203",
-      "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T25 - 3-Year",
+      "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T25 - 3-Year (License ONLY; HW SKU: WGT25000)",
       "msrp": 1001,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?th0epmT5laA=ddqP9HzxG4LSXk9b8jRgeg==/RtI+WQnqXWVj11jYlsIrCqX8g0c",
+      "url": "https://partner.leadersystems.com.au/products.html?0FdighlocpA=S83/xgL3GwAEi7lq8h4VPQ==xPBdMM11ONDZZD6USFWmnGWuIFEG",
       "sku_type": "trade_up",
       "subscription_type": "Basic Security Suite",
       "term_years": 3
     },
     {
-      "id": 2437,
+      "id": 16551,
       "sku_code": "WGT250205",
       "full_sku": "NWG-WGT250205",
-      "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T25 - 5-Year",
+      "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T25 - 5-Year (License ONLY; HW SKU: WGT25000)",
       "msrp": 1958,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?xT/q+Bl9jrs=S4q1BG8X+3xzm07Opm2yyQ==wuXcosRErW9A7gy7FfSp4YblC5eq",
+      "url": "https://partner.leadersystems.com.au/products.html?WIdF5kywiNw=ZRcmrfnYPMiYwbY2DZXtNw==tY95K+ww1zaSQZ5iZtw+hj7Vzq+H",
       "sku_type": "trade_up",
       "subscription_type": "Basic Security Suite",
       "term_years": 5
     },
     {
-      "id": 2438,
+      "id": 16487,
       "sku_code": "WGT250211",
       "full_sku": "NWG-WGT250211",
-      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 1-Year",
+      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 1-Year (License ONLY; HW SKU: WGT25000)",
       "msrp": 836,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?vmPEdoh801Y=nWvMM/Z29FaSvDQIttJMew==qCx9nTgZwxIVmbEC13WkODM10YMp",
+      "url": "https://partner.leadersystems.com.au/products.html?GiwANlo2BBA=jqor5Jcg+Fx2u+BNzvJaCQ==VndauNsue3jaC4bKmAmWeR7+89Cd",
       "sku_type": "trade_up",
       "subscription_type": "Total Security Suite",
       "term_years": 1
     },
     {
-      "id": 2439,
+      "id": 16484,
       "sku_code": "WGT250213",
       "full_sku": "NWG-WGT250213",
-      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 3-Year",
+      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 3-Year (License ONLY; HW SKU: WGT25000)",
       "msrp": 2173,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?ZXE4Kf8hCZg=NjaN1b89sv3Fg04YqzJTIQ==05i5wIAey9WPXKUqmkjUqNgjiq+F",
+      "url": "https://partner.leadersystems.com.au/products.html?i0Ub7oP0Jcs=Po9YD9Gv20Iad1gwnai1Mg==kEtTB8prqGGZRhozDnbuH67uH/BQ",
       "sku_type": "trade_up",
       "subscription_type": "Total Security Suite",
       "term_years": 3
     },
     {
-      "id": 2440,
+      "id": 16486,
       "sku_code": "WGT250215",
       "full_sku": "NWG-WGT250215",
-      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 5-Year",
+      "name": "Trade Up to WatchGuard Total Security Suite for Firebox T25 - 5-Year (License ONLY; HW SKU: WGT25000)",
       "msrp": 4079,
       "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?ZuxAsLser4M=7B4jrTFIJW9JblrvJ07DYQ==RDegoFQi9JRTBG0audK2IQq+daun",
+      "url": "https://partner.leadersystems.com.au/products.html?otl3zqz2pzE=tjjQ8L3l/Ee3NmbUDRMxeA==enwM+KlzQd0oW/fGVABNbzaumfNq",
       "sku_type": "trade_up",
       "subscription_type": "Total Security Suite",
       "term_years": 5
@@ -205,6 +324,155 @@
   ],
   "highAvailability": [],
   "activationBundles": [],
-  "specSections": [],
-  "features": {}
+  "specSections": [
+    {
+      "title": "OVERVIEW",
+      "rows": [
+        {
+          "label": "Ideal For",
+          "key": "idealFor"
+        }
+      ]
+    },
+    {
+      "title": "PERFORMANCE",
+      "rows": [
+        {
+          "label": "UTM (Full Scan)",
+          "key": "utmFullScan"
+        },
+        {
+          "label": "Firewall (UDP 1518)",
+          "key": "firewallUdp"
+        },
+        {
+          "label": "VPN (UDP 1518)",
+          "key": "vpnUdp"
+        },
+        {
+          "label": "VPN (IMIX)",
+          "key": "vpnImix"
+        },
+        {
+          "label": "AntiVirus",
+          "key": "antivirus"
+        },
+        {
+          "label": "IPS (Full Scan)",
+          "key": "ipsFullScan"
+        },
+        {
+          "label": "HTTPS (Full Scan)",
+          "key": "httpsFullScan"
+        }
+      ]
+    },
+    {
+      "title": "VPN TUNNELS",
+      "rows": [
+        {
+          "label": "Branch Office VPN Tunnels",
+          "key": "branchVpn"
+        },
+        {
+          "label": "Mobile VPN",
+          "key": "mobileVpn"
+        }
+      ]
+    },
+    {
+      "title": "HARDWARE",
+      "rows": [
+        {
+          "label": "Interfaces & Modules",
+          "key": "interfaces"
+        },
+        {
+          "label": "Wireless Models",
+          "key": "wirelessModels"
+        }
+      ]
+    },
+    {
+      "title": "NETWORKING FEATURES",
+      "rows": [
+        {
+          "label": "VLAN",
+          "key": "vlan"
+        },
+        {
+          "label": "SD-WAN Dynamic Path Selection",
+          "key": "sdwan"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "OVERVIEW": [
+      {
+        "name": "Ideal For",
+        "value": "—"
+      }
+    ],
+    "PERFORMANCE": [
+      {
+        "name": "UTM (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "Firewall (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (UDP 1518)",
+        "value": "—"
+      },
+      {
+        "name": "VPN (IMIX)",
+        "value": "—"
+      },
+      {
+        "name": "AntiVirus",
+        "value": "—"
+      },
+      {
+        "name": "IPS (Full Scan)",
+        "value": "—"
+      },
+      {
+        "name": "HTTPS (Full Scan)",
+        "value": "—"
+      }
+    ],
+    "VPN TUNNELS": [
+      {
+        "name": "Branch Office VPN Tunnels",
+        "value": "—"
+      },
+      {
+        "name": "Mobile VPN",
+        "value": "—"
+      }
+    ],
+    "HARDWARE": [
+      {
+        "name": "Interfaces & Modules",
+        "value": "—"
+      },
+      {
+        "name": "Wireless Models",
+        "value": "—"
+      }
+    ],
+    "NETWORKING FEATURES": [
+      {
+        "name": "VLAN",
+        "value": "—"
+      },
+      {
+        "name": "SD-WAN Dynamic Path Selection",
+        "value": "—"
+      }
+    ]
+  }
 }

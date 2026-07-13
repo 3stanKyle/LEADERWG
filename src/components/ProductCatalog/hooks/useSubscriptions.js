@@ -16,6 +16,23 @@ const NEW_SUITE_TYPES = [
   'Standard Wi-Fi', 'USP Wi-Fi',
 ];
 
+// Lowest term-length offered for a given subscription type on a product.
+// Some products only offer a licence at a single term (e.g. NV5 Standard
+// Support is 5-year only), so defaulting the selector to "1 year" would point
+// at a SKU that doesn't exist and show no price. Falls back to 1 only when the
+// type has no term-bearing SKUs.
+const firstTermFor = (data, subType) => {
+  const terms = [
+    ...new Set(
+      (data?.subscriptions || [])
+        .filter((s) => s.subscription_type === subType)
+        .map((s) => s.term_years)
+        .filter((t) => t > 0),
+    ),
+  ].sort((a, b) => a - b);
+  return terms[0] || 1;
+};
+
 export default function useSubscriptions(productDetails, activeTab) {
   // { [slug]: { subType: string, termYears: number } }
   const [selections, setSelections] = useState({});
@@ -35,7 +52,8 @@ export default function useSubscriptions(productDetails, activeTab) {
         const types = [...new Set((data.subscriptions || []).map((s) => s.subscription_type))]
           .filter((t) => NEW_SUITE_TYPES.includes(t));
         types.sort((a, b) => NEW_SUITE_TYPES.indexOf(a) - NEW_SUITE_TYPES.indexOf(b));
-        next[slug] = { subType: types[0] || '', termYears: 1 };
+        const defaultType = types[0] || '';
+        next[slug] = { subType: defaultType, termYears: firstTermFor(data, defaultType) };
       });
       return next;
     });
@@ -49,9 +67,9 @@ export default function useSubscriptions(productDetails, activeTab) {
   const setSubType = useCallback((slug, subType) => {
     setSelections((prev) => ({
       ...prev,
-      [slug]: { ...prev[slug], subType, termYears: 1 },
+      [slug]: { ...prev[slug], subType, termYears: firstTermFor(productDetails?.[slug], subType) },
     }));
-  }, []);
+  }, [productDetails]);
 
   const setTermYears = useCallback((slug, termYears) => {
     setSelections((prev) => ({

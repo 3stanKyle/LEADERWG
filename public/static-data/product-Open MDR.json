@@ -1,0 +1,16 @@
+{
+  "id": 924,
+  "slug": "Open MDR",
+  "name": "Open MDR",
+  "family": "MDR & NDR",
+  "category": "mdr_ndr",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

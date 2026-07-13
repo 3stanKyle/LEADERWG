@@ -1,0 +1,16 @@
+{
+  "id": 881,
+  "slug": "SIEMFeeder",
+  "name": "SIEMFeeder",
+  "family": "Reporting & Visibility",
+  "category": "mdr_ndr",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}

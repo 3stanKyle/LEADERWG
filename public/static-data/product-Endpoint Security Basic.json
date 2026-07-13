@@ -1,0 +1,16 @@
+{
+  "id": 920,
+  "slug": "Endpoint Security Basic",
+  "name": "Endpoint Security Basic",
+  "family": "Endpoint & Mobile",
+  "category": "endpoint",
+  "description": "",
+  "image_file": null,
+  "appliance": null,
+  "subscriptions": [],
+  "tradeUps": [],
+  "highAvailability": [],
+  "activationBundles": [],
+  "specSections": [],
+  "features": {}
+}
