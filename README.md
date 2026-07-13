@@ -2,11 +2,7 @@
 
 A React + Vite product catalogue and quote-building tool for WatchGuard hardware, subscriptions, and cloud/virtual products. Built for the Leader Systems partner channel — resellers use this to browse the full WatchGuard portfolio and build quotes to send to Leader account managers.
 
-Staging preview (static): **https://leadermarketing.github.io/LEADERWG/**
-
-### Website Skin
-
-The app features a full-page background "skin" promoting WatchGuard events (currently IMPACT 2026). The skin image (`public/banners/impact_skin.jpg`) is displayed as a fixed background behind the centered 1140px content area, visible on left and right margins on wide screens. Clicking the skin or the sticky bottom banner links to the event registration page. The skin is hidden on screens narrower than 1200px. To update the skin, replace `public/banners/impact_skin.jpg` and update the target URL in `src/App.jsx` (`SKIN_URL` constant).
+Staging preview (static): **https://3stankyle.github.io/LEADERWG/**
 
 ---
 
@@ -33,8 +29,7 @@ The app features a full-page background "skin" promoting WatchGuard events (curr
 | Database | SQLite via `better-sqlite3` |
 | Icons | Phosphor Icons |
 | PDF export | jsPDF + jsPDF-AutoTable |
-| AI chatbot | OpenRouter API (Gemini Flash) with tool-calling |
-| Production hosting | Railway (Node.js + SQLite) |
+| Production hosting | Node.js + Express + SQLite (self-hosted live backend) |
 | Staging preview | GitHub Pages (static JSON, no backend) |
 
 ---
@@ -69,17 +64,20 @@ This app has two deployment targets with different purposes:
 
 | Environment | Platform | URL | Backend | Purpose |
 |-------------|----------|-----|---------|---------|
-| **Production** | Railway | [leaderwg-production.up.railway.app](https://leaderwg-production.up.railway.app/) | Express + SQLite (live) | The real, production-grade app with live database |
-| **Staging** | GitHub Pages | [leadermarketing.github.io/LEADERWG](https://leadermarketing.github.io/LEADERWG/) | None (static JSON) | Static preview for internal testing — no backend, data is pre-exported JSON snapshots |
+| **Production** | Self-hosted Node server | [watchguard.leadersystems.com.au](https://watchguard.leadersystems.com.au/) | Express + SQLite (live) | The real, production app with a live database |
+| **Staging** | GitHub Pages | [3stankyle.github.io/LEADERWG](https://3stankyle.github.io/LEADERWG/) | None (static JSON) | Static preview for internal testing — no backend, data is pre-exported JSON snapshots |
 
-### Production — Railway
+### Production — self-hosted Node backend
 
-Railway runs the full application: Express API + SQLite database + built React frontend, all in a single service. Pushes to `main` trigger automatic deploys.
+Production runs the full application as a single Node service: the Express API + SQLite database + built React frontend, served together from `https://watchguard.leadersystems.com.au/`.
 
 **How it works:**
-1. Railway runs `npm run railway:build` which seeds the database and builds the Vite frontend
-2. `npm start` launches Express in production mode, serving both the API (`/api/*`) and the built frontend
-3. The React app fetches data from `/api` on the same origin — no CORS, no fallback needed
+1. `npm run seed` builds `server/products.db` from the CSV sources
+2. `npm run build` produces the Vite frontend into `dist/`
+3. `npm start` launches Express in production mode, serving both the API (`/api/*`) and the built frontend
+4. The React app fetches data from `/api` on the same origin — no CORS, no fallback needed
+
+To ship a data/price update: drop in the new CSVs, run `npm run seed`, then restart the server (see [Updating Prices](#updating-prices)).
 
 ### Staging — GitHub Pages
 
@@ -89,10 +87,10 @@ See [Deploying to GitHub Pages (Staging)](#deploying-to-github-pages-staging) fo
 
 ### Key differences between environments
 
-| Aspect | Production (Railway) | Staging (GitHub Pages) |
+| Aspect | Production (self-hosted) | Staging (GitHub Pages) |
 |--------|---------------------|----------------------|
 | Data source | Live SQLite database via Express API | Pre-exported static JSON files |
-| Data freshness | Always current (re-seeds on deploy) | Snapshot from last `npm run export-data` |
+| Data freshness | Always current (re-seed + restart) | Snapshot from last `npm run deploy` |
 | Base URL path | `/` | `/LEADERWG/` |
 | API calls | `/api/*` on same origin | Skipped entirely — loads JSON directly |
 
@@ -115,12 +113,8 @@ See [Deploying to GitHub Pages (Staging)](#deploying-to-github-pages-staging) fo
 │   │   ├── EndpointCatalog/               # Endpoint & Mobile tab
 │   │   ├── IdentityCatalog/               # Identity & Access tab
 │   │   ├── EmailCatalog/                  # Email Security tab
-│   │   ├── MdrNdrCatalog/                 # MDR & XDR tab
+│   │   ├── MdrNdrCatalog/                 # MDR & NDR tab
 │   │   ├── TopLevelNav/                   # Navigation bar
-│   │   ├── ChatBubble/                    # AI chatbot (LionBot)
-│   │   │   ├── ChatBubble.jsx             # Floating orb + health check
-│   │   │   ├── ChatBubble.module.css      # Orb + panel styles
-│   │   │   └── ChatPanel.jsx              # Chat UI with SSE streaming
 │   │   ├── QuoteCartPanel/                # Quote cart + PDF export
 │   │   └── ...
 │   ├── hooks/
@@ -141,24 +135,22 @@ See [Deploying to GitHub Pages (Staging)](#deploying-to-github-pages-staging) fo
 │           └── wifi.js                    # Wi-Fi AP SKU codes
 │
 ├── server/
-│   ├── index.js                           # Express API (4 endpoints + chat)
-│   ├── chat.js                            # AI chatbot — OpenRouter + tool-calling + SSE
+│   ├── index.js                           # Express API (4 category endpoints)
 │   ├── seed.js                            # Builds SQLite DB from CSV sources
 │   ├── db.js                              # SQLite schema
 │   ├── products.db                        # Auto-generated database (do not edit)
 │   └── data/
-│       ├── product-catalog.csv            # ★ ALL 1,262 SKUs — structure, URLs, grouping
-│       └── watchguard-knowledge.md        # WatchGuard knowledge base for chatbot system prompt
+│       └── product-catalog.csv            # ★ ALL 1,604 SKUs — structure, URLs, grouping
 │
 ├── scripts/
 │   ├── export-static-data.cjs            # DB → static JSON for GitHub Pages
-│   └── generate-full-catalog.cjs         # Helpers for building product-catalog.csv
+│   └── generate-catalog-from-wgdata.cjs  # Regenerates product-catalog.csv from a new WGdata CSV
 │
 ├── public/
 │   └── static-data/                       # Pre-exported JSON (GitHub Pages fallback)
 │       ├── categories.json
 │       ├── category-{slug}.json           # Per-category data (10 categories)
-│       └── product-{slug}.json            # Per-product data (75 products)
+│       └── product-{slug}.json            # Per-product data (90 products)
 │
 └── dist/                                  # Vite build output
 ```
@@ -184,7 +176,7 @@ There are no other price files. If you see prices that are wrong, you need a fre
 | File | Lives in | Purpose | How often it changes |
 |------|----------|---------|---------------------|
 | `WGdata_*.csv` | `src/data/` | **Pricing** — RRP for every SKU | Whenever prices change |
-| `product-catalog.csv` | `server/data/` | **Product structure** — all 1,262 SKUs, their grouping, and partner order URLs | Only when adding/removing products |
+| `product-catalog.csv` | `server/data/` | **Product structure** — all 1,604 SKUs, their grouping, and partner order URLs | Only when adding/removing products |
 
 The product catalog CSV defines *what products exist* (names, product families, groups, delivery method, partner ordering URLs) for all product categories — appliances, virtual, cloud, endpoint, identity, email, MDR/NDR, and renewals. It does **not** contain prices — those come exclusively from the WGdata CSV.
 
@@ -212,7 +204,7 @@ The dealer shop URLs are encrypted, auto-generated permanent links. Each SKU map
 ```
    ┌──────────────────────┐   ┌──────────────────────┐
    │  product-catalog.csv │   │  WGdata_*.csv        │
-   │  (1,262 SKUs + URLs) │   │  (pricing — RRP)     │
+   │  (1,604 SKUs + URLs) │   │  (pricing — RRP)     │
    └──────────┬───────────┘   └──────────┬───────────┘
               │                           │
               └─────────┬─────────────────┘
@@ -288,10 +280,10 @@ product_features id, product_group_id, feature_category, feature_name,
 The console will confirm:
 ```
 Seeded successfully:
-  75 product groups
-  1262 SKUs (1253 with prices, 9 showing TBC)
-  337 feature entries
-  pricing source: WGdata_20260325_101329.csv
+  90 product groups
+  1604 SKUs (1603 with prices, 1 showing TBC)
+  388 feature entries
+  pricing source: WGdata_20260710_115109.csv
 ```
 
 ### WGdata CSV format
@@ -312,7 +304,7 @@ After updating prices locally, regenerate the static JSON for GitHub Pages:
 npm run export-data
 ```
 
-This must be committed before pushing. The GitHub Actions workflow does **not** run this step.
+This must be committed before pushing to production. For the staging preview, `npm run deploy` re-exports the data as part of the deploy.
 
 ---
 
@@ -367,24 +359,23 @@ The frontend hooks (`useApplianceCatalog`, `usePerUserCatalog`) automatically pi
 
 ## Deploying to GitHub Pages (Staging)
 
-> **Note:** GitHub Pages is for **staging/preview only** — it serves static JSON with no backend. Production runs on Railway with a live database. See [Deployment](#deployment) for details.
+> **Note:** GitHub Pages is for **staging/preview only** — it serves static JSON with no backend. Production runs on the self-hosted Node backend with a live database. See [Deployment](#deployment) for details.
 
-The staging preview deploys to the `gh-pages` branch. GitHub Actions builds automatically on every push to `main`.
+The staging preview lives on the `gh-pages` branch and is published **manually** with a single command — there is no CI/CD, so it only updates when you run the deploy.
 
 ### Workflow
 
 ```bash
-# 1. Make changes (code, data, prices)
-# 2. Re-export static data from the updated database
-npm run export-data
-
-# 3. Commit and push
+# 1. Make your changes (code, data, prices) and commit them to main
 git add -A
 git commit -m "your message"
 git push
+
+# 2. Publish the static preview to gh-pages
+npm run deploy
 ```
 
-GitHub Actions runs `npm ci` + `npm run build` and publishes `dist/`. The static JSON in `public/static-data/` must be up to date in the commit.
+`npm run deploy` runs `export-data` (DB → static JSON), builds with the `/LEADERWG/` base path, and pushes `dist/` to the `gh-pages` branch. The live preview updates a minute or two later.
 
 ### After deploy
 
@@ -408,7 +399,7 @@ npm run preview
 | Virtual | `/virtual` | Live | `VirtualCatalog` | SQLite DB / static JSON |
 | Cloud | `/cloud` | Live | `CloudCatalog` | SQLite DB / static JSON |
 | Renewals/Upgrades | `/renewals` | Live | `RenewalsCatalog` | SQLite DB / static JSON |
-| MDR & XDR | `/mdr-xdr` | Live | `MdrNdrCatalog` | SQLite DB / static JSON |
+| MDR & NDR | `/mdr-ndr` | Live | `MdrNdrCatalog` | SQLite DB / static JSON |
 | Endpoint & Mobile | `/endpoint` | Live | `EndpointCatalog` | SQLite DB / static JSON |
 | Identity & Access | `/identity` | Live | `IdentityCatalog` | SQLite DB / static JSON |
 | Email Security | `/email` | Live | `EmailCatalog` | SQLite DB / static JSON |
@@ -420,40 +411,3 @@ npm run preview
 | Firebox Tabletop (T-Series) | T25-W, T45-PoE, T45-W-PoE, T45-CW, T115-W, T125, T125-W, T145, T145-W, T185 |
 | Firebox Rackmount (M-Series) | M290, M295, M390, M395, M495, M590, M595, M690, M695, M4800, M5800 |
 | Wi-Fi 6 Access Points | AP130, AP230W, AP330, AP332CR, AP430CR, AP432 |
-
----
-
-## AI Chatbot (LionBot)
-
-The app includes an AI-powered product assistant that helps users find products, compare options, and build quotes through natural conversation.
-
-### How it works
-
-- **Frontend**: A floating chat orb (bottom-right corner) opens a chat panel with streaming markdown responses. Only appears when the backend is available (health check on `/api/health`).
-- **Backend**: `server/chat.js` handles chat via SSE streaming. Uses the OpenRouter API (OpenAI-compatible format) with tool-calling against the SQLite product database.
-- **Default model**: `google/gemini-2.5-flash` — configurable via `CHAT_MODEL` env var.
-
-### Chat tools
-
-The chatbot can call these tools to query the product database and take actions:
-
-| Tool | What it does |
-|------|-------------|
-| `search_products` | Search products by name, SKU, or keyword |
-| `get_product_details` | Get full specs, pricing, and subscription options for a product |
-| `get_category_products` | List all products in a category |
-| `compare_products` | Side-by-side comparison of two products |
-| `add_to_cart` | Add a product to the quote cart |
-| `remove_from_cart` | Remove an item from the quote cart |
-| `show_cart` | Open the quote cart panel |
-| `navigate_to` | Navigate to a specific product or category page |
-
-### Environment variables
-
-| Variable | Default | Purpose |
-|----------|---------|---------|
-| `OPENROUTER_API_KEY` | *(required)* | API key for OpenRouter |
-| `CHAT_MODEL` | `google/gemini-2.5-flash` | LLM model to use (must support tool-calling) |
-| `CHAT_API_URL` | `https://openrouter.ai/api/v1/chat/completions` | API endpoint |
-
-The chatbot is only available when the Express backend is running (production on Railway, or local dev). It does not appear on the GitHub Pages staging site.
