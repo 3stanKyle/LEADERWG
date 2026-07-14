@@ -1,5 +1,5 @@
 {
-  "id": 935,
+  "id": 1025,
   "slug": "M370",
   "name": "Firebox M370",
   "family": "Renewals",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 16222,
+      "id": 17826,
       "sku_code": "WGM37151",
       "full_sku": "NWG-WGM37151",
       "name": "WatchGuard Application Control 1-yr for Firebox M370",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 16217,
+      "id": 17821,
       "sku_code": "WGM37331",
       "full_sku": "NWG-WGM37331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M370",
@@ -33,7 +33,7 @@
       "term_years": 1
     },
     {
-      "id": 16310,
+      "id": 17914,
       "sku_code": "WGM37521",
       "full_sku": "NWG-WGM37521",
       "name": "WatchGuard Cloud 1-month data retention for M370 - 1-yr",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 16363,
+      "id": 17967,
       "sku_code": "WGM37121",
       "full_sku": "NWG-WGM37121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for Firebox M370",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 16273,
+      "id": 17877,
       "sku_code": "WGM37261",
       "full_sku": "NWG-WGM37261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M370",
@@ -69,7 +69,7 @@
       "term_years": 1
     },
     {
-      "id": 16265,
+      "id": 17869,
       "sku_code": "WGM37131",
       "full_sku": "NWG-WGM37131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for Firebox M370",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 16219,
+      "id": 17823,
       "sku_code": "WGM37181",
       "full_sku": "NWG-WGM37181",
       "name": "WatchGuard Network Discovery 1-yr for Firebox M370",
@@ -93,7 +93,7 @@
       "term_years": 1
     },
     {
-      "id": 16218,
+      "id": 17822,
       "sku_code": "WGM37141",
       "full_sku": "NWG-WGM37141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for Firebox M370",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 16270,
+      "id": 17874,
       "sku_code": "WGM37201",
       "full_sku": "NWG-WGM37201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M370",
@@ -117,7 +117,7 @@
       "term_years": 1
     },
     {
-      "id": 16216,
+      "id": 17820,
       "sku_code": "WGM37351",
       "full_sku": "NWG-WGM37351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M370",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 16274,
+      "id": 17878,
       "sku_code": "WGM37101",
       "full_sku": "NWG-WGM37101",
       "name": "WatchGuard WebBlocker 1-yr for Firebox M370",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 16277,
+      "id": 17881,
       "sku_code": "WGM37111",
       "full_sku": "NWG-WGM37111",
       "name": "WatchGuard spamBlocker 1-yr for Firebox M370",

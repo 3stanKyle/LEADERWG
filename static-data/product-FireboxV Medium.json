@@ -1,5 +1,5 @@
 {
-  "id": 862,
+  "id": 952,
   "slug": "FireboxV Medium",
   "name": "FireboxV Medium",
   "family": "Virtual",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 15052,
+      "id": 16656,
       "sku_code": "WGVME171",
       "full_sku": "NWG-WGVME171",
       "name": "WatchGuard APT Blocker 1-yr for FireboxV Medium",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 15064,
+      "id": 16668,
       "sku_code": "WGVME173",
       "full_sku": "NWG-WGVME173",
       "name": "WatchGuard APT Blocker 3-yr for FireboxV Medium",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 15030,
+      "id": 16634,
       "sku_code": "WGVME151",
       "full_sku": "NWG-WGVME151",
       "name": "WatchGuard Application Control 1-yr for FireboxV Medium",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 15142,
+      "id": 16746,
       "sku_code": "WGVME331",
       "full_sku": "NWG-WGVME331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for FireboxV Medium",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 15262,
+      "id": 16866,
       "sku_code": "WGVME333",
       "full_sku": "NWG-WGVME333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for FireboxV Medium",
@@ -69,7 +69,7 @@
       "term_years": 3
     },
     {
-      "id": 15114,
+      "id": 16718,
       "sku_code": "WGVME031",
       "full_sku": "NWG-WGVME031",
       "name": "WatchGuard FireboxV Medium with 1-yr Basic Security Suite",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 15110,
+      "id": 16714,
       "sku_code": "WGVME033",
       "full_sku": "NWG-WGVME033",
       "name": "WatchGuard FireboxV Medium with 3-yr Basic Security Suite",
@@ -93,7 +93,7 @@
       "term_years": 3
     },
     {
-      "id": 15118,
+      "id": 16722,
       "sku_code": "WGVME521",
       "full_sku": "NWG-WGVME521",
       "name": "WatchGuard Cloud 1-month data retention for FireboxV Medium - 1-yr",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 15128,
+      "id": 16732,
       "sku_code": "WGVME523",
       "full_sku": "NWG-WGVME523",
       "name": "WatchGuard Cloud 1-month data retention for FireboxV Medium - 3-yr",
@@ -117,7 +117,7 @@
       "term_years": 3
     },
     {
-      "id": 15085,
+      "id": 16689,
       "sku_code": "WGVME121",
       "full_sku": "NWG-WGVME121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for FireboxV Medium",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 15051,
+      "id": 16655,
       "sku_code": "WGVME261",
       "full_sku": "NWG-WGVME261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for FireboxV Medium",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 15263,
+      "id": 16867,
       "sku_code": "WGVME263",
       "full_sku": "NWG-WGVME263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for FireboxV Medium",
@@ -153,7 +153,7 @@
       "term_years": 3
     },
     {
-      "id": 15245,
+      "id": 16849,
       "sku_code": "WGVME131",
       "full_sku": "NWG-WGVME131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for FireboxV Medium",
@@ -165,7 +165,7 @@
       "term_years": 1
     },
     {
-      "id": 15246,
+      "id": 16850,
       "sku_code": "WGVME181",
       "full_sku": "NWG-WGVME181",
       "name": "WatchGuard Network Discovery 1-yr for FireboxV Medium",
@@ -177,7 +177,7 @@
       "term_years": 1
     },
     {
-      "id": 15029,
+      "id": 16633,
       "sku_code": "WGVME141",
       "full_sku": "NWG-WGVME141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for FireboxV Medium",
@@ -189,7 +189,7 @@
       "term_years": 1
     },
     {
-      "id": 15115,
+      "id": 16719,
       "sku_code": "WGVME001",
       "full_sku": "NWG-WGVME001",
       "name": "WatchGuard FireboxV Medium with 1-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -201,7 +201,7 @@
       "term_years": 1
     },
     {
-      "id": 15111,
+      "id": 16715,
       "sku_code": "WGVME003",
       "full_sku": "NWG-WGVME003",
       "name": "WatchGuard FireboxV Medium with 3-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -213,7 +213,7 @@
       "term_years": 3
     },
     {
-      "id": 15143,
+      "id": 16747,
       "sku_code": "WGVME201",
       "full_sku": "NWG-WGVME201",
       "name": "WatchGuard Standard Support Renewal 1-yr for FireboxV Medium",
@@ -225,7 +225,7 @@
       "term_years": 1
     },
     {
-      "id": 15132,
+      "id": 16736,
       "sku_code": "WGVME203",
       "full_sku": "NWG-WGVME203",
       "name": "WatchGuard Standard Support Renewal 3-yr for FireboxV Medium",
@@ -237,7 +237,7 @@
       "term_years": 3
     },
     {
-      "id": 15244,
+      "id": 16848,
       "sku_code": "WGVME351",
       "full_sku": "NWG-WGVME351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for FireboxV Medium",
@@ -249,7 +249,7 @@
       "term_years": 1
     },
     {
-      "id": 15212,
+      "id": 16816,
       "sku_code": "WGVME353",
       "full_sku": "NWG-WGVME353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for FireboxV Medium",
@@ -261,7 +261,7 @@
       "term_years": 3
     },
     {
-      "id": 15156,
+      "id": 16760,
       "sku_code": "WGVME641",
       "full_sku": "NWG-WGVME641",
       "name": "WatchGuard FireboxV Medium with 1-yr Total Security Suite",
@@ -273,7 +273,7 @@
       "term_years": 1
     },
     {
-      "id": 15286,
+      "id": 16890,
       "sku_code": "WGVME643",
       "full_sku": "NWG-WGVME643",
       "name": "WatchGuard FireboxV Medium with 3-yr Total Security Suite",
@@ -285,7 +285,7 @@
       "term_years": 3
     },
     {
-      "id": 15084,
+      "id": 16688,
       "sku_code": "WGVME101",
       "full_sku": "NWG-WGVME101",
       "name": "WatchGuard WebBlocker 1-yr for FireboxV Medium",
@@ -297,7 +297,7 @@
       "term_years": 1
     },
     {
-      "id": 15274,
+      "id": 16878,
       "sku_code": "WGVME111",
       "full_sku": "NWG-WGVME111",
       "name": "WatchGuard spamBlocker 1-yr for FireboxV Medium",
@@ -311,7 +311,7 @@
   ],
   "tradeUps": [
     {
-      "id": 15178,
+      "id": 16782,
       "sku_code": "WGVME061",
       "full_sku": "NWG-WGVME061",
       "name": "Trade up to WatchGuard FireboxV Medium with 1-yr Basic Security Suite",
@@ -323,7 +323,7 @@
       "term_years": 1
     },
     {
-      "id": 15316,
+      "id": 16920,
       "sku_code": "WGVME063",
       "full_sku": "NWG-WGVME063",
       "name": "Trade up to WatchGuard FireboxV Medium with 3-yr Basic Security Suite",
@@ -335,7 +335,7 @@
       "term_years": 3
     },
     {
-      "id": 15157,
+      "id": 16761,
       "sku_code": "WGVME671",
       "full_sku": "NWG-WGVME671",
       "name": "Trade up to WatchGuard FireboxV Medium with 1-yr Total Security Suite",
@@ -347,7 +347,7 @@
       "term_years": 1
     },
     {
-      "id": 15315,
+      "id": 16919,
       "sku_code": "WGVME673",
       "full_sku": "NWG-WGVME673",
       "name": "Trade up to WatchGuard FireboxV Medium with 3-yr Total Security Suite",

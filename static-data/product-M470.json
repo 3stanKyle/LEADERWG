@@ -1,5 +1,5 @@
 {
-  "id": 936,
+  "id": 1026,
   "slug": "M470",
   "name": "Firebox M470",
   "family": "Renewals",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 16226,
+      "id": 17830,
       "sku_code": "WGM47151",
       "full_sku": "NWG-WGM47151",
       "name": "WatchGuard Application Control 1-yr for M470",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 16266,
+      "id": 17870,
       "sku_code": "WGM47331",
       "full_sku": "NWG-WGM47331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for M470",
@@ -33,7 +33,7 @@
       "term_years": 1
     },
     {
-      "id": 16292,
+      "id": 17896,
       "sku_code": "WGM47521",
       "full_sku": "NWG-WGM47521",
       "name": "WatchGuard Cloud 1-month data retention for M470 - 1-yr",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 16253,
+      "id": 17857,
       "sku_code": "WGM47121",
       "full_sku": "NWG-WGM47121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for M470",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 16339,
+      "id": 17943,
       "sku_code": "WGM47261",
       "full_sku": "NWG-WGM47261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M470",
@@ -69,7 +69,7 @@
       "term_years": 1
     },
     {
-      "id": 16223,
+      "id": 17827,
       "sku_code": "WGM47131",
       "full_sku": "NWG-WGM47131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for M470",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 16278,
+      "id": 17882,
       "sku_code": "WGM47181",
       "full_sku": "NWG-WGM47181",
       "name": "WatchGuard Network Discovery 1-yr for M470",
@@ -93,7 +93,7 @@
       "term_years": 1
     },
     {
-      "id": 16224,
+      "id": 17828,
       "sku_code": "WGM47141",
       "full_sku": "NWG-WGM47141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for M470",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 16373,
+      "id": 17977,
       "sku_code": "WGM47201",
       "full_sku": "NWG-WGM47201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M470",
@@ -117,7 +117,7 @@
       "term_years": 1
     },
     {
-      "id": 16220,
+      "id": 17824,
       "sku_code": "WGM47351",
       "full_sku": "NWG-WGM47351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for M470",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 16374,
+      "id": 17978,
       "sku_code": "WGM47101",
       "full_sku": "NWG-WGM47101",
       "name": "WatchGuard WebBlocker 1-yr for M470",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 16221,
+      "id": 17825,
       "sku_code": "WGM47111",
       "full_sku": "NWG-WGM47111",
       "name": "WatchGuard spamBlocker 1-yr for M470",

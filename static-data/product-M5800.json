@@ -1,5 +1,5 @@
 {
-  "id": 896,
+  "id": 986,
   "slug": "M5800",
   "name": "Firebox M5800",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "Enterprise flagship with unrestricted VPN tunnels",
   "image_file": "m5800.jpg",
   "appliance": {
-    "id": 15454,
+    "id": 17058,
     "sku_code": "WGM58000",
     "full_sku": "NWG-WGM58000",
     "name": "WatchGuard Firebox M5800 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 16449,
+      "id": 18053,
       "sku_code": "WGM58171",
       "full_sku": "NWG-WGM58171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M5800",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 16377,
+      "id": 17981,
       "sku_code": "WGM58173",
       "full_sku": "NWG-WGM58173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M5800",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 16386,
+      "id": 17990,
       "sku_code": "WGM58331",
       "full_sku": "NWG-WGM58331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M5800",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 16450,
+      "id": 18054,
       "sku_code": "WGM58333",
       "full_sku": "NWG-WGM58333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M5800",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 15511,
+      "id": 17115,
       "sku_code": "WGM58000071",
       "full_sku": "NWG-WGM58000071",
       "name": "WatchGuard Basic Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 15465,
+      "id": 17069,
       "sku_code": "WGM58000073",
       "full_sku": "NWG-WGM58000073",
       "name": "WatchGuard Basic Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 16320,
+      "id": 17924,
       "sku_code": "WGM58221",
       "full_sku": "NWG-WGM58221",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M5800",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 16328,
+      "id": 17932,
       "sku_code": "WGM58223",
       "full_sku": "NWG-WGM58223",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M5800",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 15510,
+      "id": 17114,
       "sku_code": "WGM58000061",
       "full_sku": "NWG-WGM58000061",
       "name": "WatchGuard Standard Support for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 15824,
+      "id": 17428,
       "sku_code": "WGM58000063",
       "full_sku": "NWG-WGM58000063",
       "name": "WatchGuard Standard Support for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 16319,
+      "id": 17923,
       "sku_code": "WGM58201",
       "full_sku": "NWG-WGM58201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M5800",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 16327,
+      "id": 17931,
       "sku_code": "WGM58203",
       "full_sku": "NWG-WGM58203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M5800",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 16387,
+      "id": 17991,
       "sku_code": "WGM58351",
       "full_sku": "NWG-WGM58351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M5800",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 16361,
+      "id": 17965,
       "sku_code": "WGM58353",
       "full_sku": "NWG-WGM58353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M5800",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 15548,
+      "id": 17152,
       "sku_code": "WGM58000081",
       "full_sku": "NWG-WGM58000081",
       "name": "WatchGuard Total Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 15976,
+      "id": 17580,
       "sku_code": "WGM58000083",
       "full_sku": "NWG-WGM58000083",
       "name": "WatchGuard Total Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
@@ -214,7 +214,7 @@
   ],
   "tradeUps": [
     {
-      "id": 15490,
+      "id": 17094,
       "sku_code": "WGM58000201",
       "full_sku": "NWG-WGM58000201",
       "name": "Trade Up to WatchGuard Basic Security Suite for M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -226,7 +226,7 @@
       "term_years": 1
     },
     {
-      "id": 16131,
+      "id": 17735,
       "sku_code": "WGM58000203",
       "full_sku": "NWG-WGM58000203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
@@ -238,7 +238,7 @@
       "term_years": 3
     },
     {
-      "id": 15549,
+      "id": 17153,
       "sku_code": "WGM58000211",
       "full_sku": "NWG-WGM58000211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -250,7 +250,7 @@
       "term_years": 1
     },
     {
-      "id": 15977,
+      "id": 17581,
       "sku_code": "WGM58000213",
       "full_sku": "NWG-WGM58000213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",
@@ -264,7 +264,7 @@
   ],
   "highAvailability": [
     {
-      "id": 16130,
+      "id": 17734,
       "sku_code": "WGM580001601",
       "full_sku": "NWG-WGM580001601",
       "name": "WatchGuard High Availability for M5800 - 1-Year (License ONLY; HW SKU: WGM58000)",
@@ -276,7 +276,7 @@
       "term_years": 1
     },
     {
-      "id": 15489,
+      "id": 17093,
       "sku_code": "WGM580001603",
       "full_sku": "NWG-WGM580001603",
       "name": "WatchGuard High Availability for M5800 - 3-Year (License ONLY; HW SKU: WGM58000)",

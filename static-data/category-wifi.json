@@ -2,7 +2,7 @@
   "label": "Wi-Fi 6 Access Points",
   "products": [
     {
-      "id": 886,
+      "id": 976,
       "slug": "AP130",
       "name": "WatchGuard AP130",
       "family": "Access Points",
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "id": 893,
+      "id": 983,
       "slug": "AP230W",
       "name": "WatchGuard AP230W",
       "family": "Access Points",
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "id": 900,
+      "id": 990,
       "slug": "AP330",
       "name": "WatchGuard AP330",
       "family": "Access Points",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": 899,
+      "id": 989,
       "slug": "AP332CR",
       "name": "WatchGuard AP332CR",
       "family": "Access Points",
@@ -673,7 +673,7 @@
       ]
     },
     {
-      "id": 901,
+      "id": 991,
       "slug": "AP430CR",
       "name": "WatchGuard AP430CR",
       "family": "Access Points",
@@ -772,7 +772,7 @@
       ]
     },
     {
-      "id": 898,
+      "id": 988,
       "slug": "AP432",
       "name": "WatchGuard AP432",
       "family": "Access Points",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "id": 865,
+      "id": 955,
       "slug": "Wi-Fi Management",
       "name": "WatchGuard Wi-Fi Management",
       "family": "Access Points",
