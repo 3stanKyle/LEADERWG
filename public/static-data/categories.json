@@ -3,7 +3,7 @@
     "label": "Wi-Fi 6 Access Points",
     "products": [
       {
-        "id": 886,
+        "id": 976,
         "slug": "AP130",
         "name": "WatchGuard AP130",
         "family": "Access Points",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": 893,
+        "id": 983,
         "slug": "AP230W",
         "name": "WatchGuard AP230W",
         "family": "Access Points",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": 900,
+        "id": 990,
         "slug": "AP330",
         "name": "WatchGuard AP330",
         "family": "Access Points",
@@ -51,7 +51,7 @@
         }
       },
       {
-        "id": 899,
+        "id": 989,
         "slug": "AP332CR",
         "name": "WatchGuard AP332CR",
         "family": "Access Points",
@@ -67,7 +67,7 @@
         }
       },
       {
-        "id": 901,
+        "id": 991,
         "slug": "AP430CR",
         "name": "WatchGuard AP430CR",
         "family": "Access Points",
@@ -83,7 +83,7 @@
         }
       },
       {
-        "id": 898,
+        "id": 988,
         "slug": "AP432",
         "name": "WatchGuard AP432",
         "family": "Access Points",
@@ -99,7 +99,7 @@
         }
       },
       {
-        "id": 865,
+        "id": 955,
         "slug": "Wi-Fi Management",
         "name": "WatchGuard Wi-Fi Management",
         "family": "Access Points",
@@ -114,7 +114,7 @@
     "label": "Firebox Cloud",
     "products": [
       {
-        "id": 859,
+        "id": 949,
         "slug": "Firebox Cloud Large",
         "name": "Firebox Cloud Large",
         "family": "Cloud",
@@ -124,7 +124,7 @@
         "appliance": null
       },
       {
-        "id": 858,
+        "id": 948,
         "slug": "Firebox Cloud Medium",
         "name": "Firebox Cloud Medium",
         "family": "Cloud",
@@ -134,7 +134,7 @@
         "appliance": null
       },
       {
-        "id": 857,
+        "id": 947,
         "slug": "Firebox Cloud Small",
         "name": "Firebox Cloud Small",
         "family": "Cloud",
@@ -144,7 +144,7 @@
         "appliance": null
       },
       {
-        "id": 860,
+        "id": 950,
         "slug": "Firebox Cloud XLarge",
         "name": "Firebox Cloud XLarge",
         "family": "Cloud",
@@ -154,7 +154,7 @@
         "appliance": null
       },
       {
-        "id": 926,
+        "id": 1016,
         "slug": "CloudDR",
         "name": "CloudDR",
         "family": "CloudDR",
@@ -170,7 +170,7 @@
         }
       },
       {
-        "id": 884,
+        "id": 974,
         "slug": "FireCloud Internet Access",
         "name": "FireCloud Internet Access",
         "family": "FireCloud",
@@ -186,7 +186,7 @@
         }
       },
       {
-        "id": 905,
+        "id": 995,
         "slug": "FireCloud Total Access",
         "name": "FireCloud Total Access",
         "family": "FireCloud",
@@ -207,7 +207,7 @@
     "label": "Email Security",
     "products": [
       {
-        "id": 867,
+        "id": 957,
         "slug": "Panda Email Protection",
         "name": "Panda Email Protection",
         "family": "Email Security",
@@ -228,7 +228,7 @@
     "label": "Endpoint & Mobile",
     "products": [
       {
-        "id": 873,
+        "id": 963,
         "slug": "Advanced Reporting Tool",
         "name": "Advanced Reporting Tool",
         "family": "Endpoint & Mobile",
@@ -244,7 +244,7 @@
         }
       },
       {
-        "id": 868,
+        "id": 958,
         "slug": "DNSWatchGO",
         "name": "DNSWatchGO",
         "family": "Endpoint & Mobile",
@@ -260,7 +260,7 @@
         }
       },
       {
-        "id": 921,
+        "id": 1011,
         "slug": "Endpoint Security 360",
         "name": "Endpoint Security 360",
         "family": "Endpoint & Mobile",
@@ -276,7 +276,7 @@
         }
       },
       {
-        "id": 920,
+        "id": 1010,
         "slug": "Endpoint Security Basic",
         "name": "Endpoint Security Basic",
         "family": "Endpoint & Mobile",
@@ -292,7 +292,7 @@
         }
       },
       {
-        "id": 928,
+        "id": 1018,
         "slug": "Endpoint Security Data Retention",
         "name": "Endpoint Security Data Retention",
         "family": "Endpoint & Mobile",
@@ -302,7 +302,7 @@
         "appliance": null
       },
       {
-        "id": 922,
+        "id": 1012,
         "slug": "Endpoint Security Elite",
         "name": "Endpoint Security Elite",
         "family": "Endpoint & Mobile",
@@ -318,7 +318,7 @@
         }
       },
       {
-        "id": 923,
+        "id": 1013,
         "slug": "Endpoint Security Prime",
         "name": "Endpoint Security Prime",
         "family": "Endpoint & Mobile",
@@ -334,7 +334,7 @@
         }
       },
       {
-        "id": 917,
+        "id": 1007,
         "slug": "Endpoint Security for Servers",
         "name": "Endpoint Security for Servers",
         "family": "Endpoint & Mobile",
@@ -350,7 +350,7 @@
         }
       },
       {
-        "id": 874,
+        "id": 964,
         "slug": "Full Encryption",
         "name": "Full Encryption",
         "family": "Endpoint & Mobile",
@@ -366,7 +366,7 @@
         }
       },
       {
-        "id": 918,
+        "id": 1008,
         "slug": "Managed Zero-Trust",
         "name": "Managed Zero-Trust",
         "family": "Endpoint & Mobile",
@@ -376,7 +376,7 @@
         "appliance": null
       },
       {
-        "id": 870,
+        "id": 960,
         "slug": "Panda EPP+",
         "name": "Panda EPP+",
         "family": "Endpoint & Mobile",
@@ -392,7 +392,7 @@
         }
       },
       {
-        "id": 871,
+        "id": 961,
         "slug": "Passport",
         "name": "Passport",
         "family": "Endpoint & Mobile",
@@ -408,7 +408,7 @@
         }
       },
       {
-        "id": 872,
+        "id": 962,
         "slug": "Patch Management",
         "name": "Patch Management",
         "family": "Endpoint & Mobile",
@@ -424,7 +424,7 @@
         }
       },
       {
-        "id": 919,
+        "id": 1009,
         "slug": "Zero-Trust",
         "name": "Zero-Trust",
         "family": "Endpoint & Mobile",
@@ -439,12 +439,12 @@
     "label": "Firebox Tabletop (T-Series)",
     "products": [
       {
-        "id": 927,
+        "id": 1017,
         "slug": "NV5",
         "name": "NV5",
         "family": "Firebox NV-Series",
         "category": "tabletop",
-        "description": "",
+        "description": "Ultra-compact, enterprise-grade gateway tabletop appliance",
         "image_file": null,
         "appliance": {
           "sku_code": "WGNV5000",
@@ -455,7 +455,7 @@
         }
       },
       {
-        "id": 906,
+        "id": 996,
         "slug": "T115-W",
         "name": "Firebox T115-W",
         "family": "T-Series",
@@ -471,7 +471,7 @@
         }
       },
       {
-        "id": 908,
+        "id": 998,
         "slug": "T125",
         "name": "Firebox T125",
         "family": "T-Series",
@@ -487,7 +487,7 @@
         }
       },
       {
-        "id": 907,
+        "id": 997,
         "slug": "T125-W",
         "name": "Firebox T125-W",
         "family": "T-Series",
@@ -503,7 +503,7 @@
         }
       },
       {
-        "id": 909,
+        "id": 999,
         "slug": "T145",
         "name": "Firebox T145",
         "family": "T-Series",
@@ -519,7 +519,7 @@
         }
       },
       {
-        "id": 910,
+        "id": 1000,
         "slug": "T145-W",
         "name": "Firebox T145-W",
         "family": "T-Series",
@@ -535,7 +535,7 @@
         }
       },
       {
-        "id": 904,
+        "id": 994,
         "slug": "T185",
         "name": "Firebox T185",
         "family": "T-Series",
@@ -551,7 +551,7 @@
         }
       },
       {
-        "id": 891,
+        "id": 981,
         "slug": "T25",
         "name": "Firebox T25",
         "family": "T-Series",
@@ -567,7 +567,7 @@
         }
       },
       {
-        "id": 876,
+        "id": 966,
         "slug": "T25-W",
         "name": "Firebox T25-W",
         "family": "T-Series",
@@ -583,7 +583,7 @@
         }
       },
       {
-        "id": 888,
+        "id": 978,
         "slug": "T45-CW",
         "name": "Firebox T45-CW",
         "family": "T-Series",
@@ -599,7 +599,7 @@
         }
       },
       {
-        "id": 890,
+        "id": 980,
         "slug": "T45-PoE",
         "name": "Firebox T45-PoE",
         "family": "T-Series",
@@ -615,7 +615,7 @@
         }
       },
       {
-        "id": 889,
+        "id": 979,
         "slug": "T45-W-PoE",
         "name": "Firebox T45-W-PoE",
         "family": "T-Series",
@@ -631,7 +631,7 @@
         }
       },
       {
-        "id": 902,
+        "id": 992,
         "slug": "T85-PoE",
         "name": "Firebox T85-PoE",
         "family": "T-Series",
@@ -652,7 +652,7 @@
     "label": "Identity & Access",
     "products": [
       {
-        "id": 869,
+        "id": 959,
         "slug": "AuthPoint",
         "name": "AuthPoint",
         "family": "Identity & Access",
@@ -668,7 +668,7 @@
         }
       },
       {
-        "id": 877,
+        "id": 967,
         "slug": "Total Identity Security",
         "name": "Total Identity Security",
         "family": "Identity & Access",
@@ -689,7 +689,7 @@
     "label": "Firebox Rackmount (M-Series)",
     "products": [
       {
-        "id": 897,
+        "id": 987,
         "slug": "M290",
         "name": "Firebox M290",
         "family": "M-Series",
@@ -705,7 +705,7 @@
         }
       },
       {
-        "id": 913,
+        "id": 1003,
         "slug": "M295",
         "name": "Firebox M295",
         "family": "M-Series",
@@ -721,7 +721,7 @@
         }
       },
       {
-        "id": 887,
+        "id": 977,
         "slug": "M390",
         "name": "Firebox M390",
         "family": "M-Series",
@@ -737,7 +737,7 @@
         }
       },
       {
-        "id": 916,
+        "id": 1006,
         "slug": "M395",
         "name": "Firebox M395",
         "family": "M-Series",
@@ -753,7 +753,7 @@
         }
       },
       {
-        "id": 895,
+        "id": 985,
         "slug": "M4800",
         "name": "Firebox M4800",
         "family": "M-Series",
@@ -769,7 +769,7 @@
         }
       },
       {
-        "id": 912,
+        "id": 1002,
         "slug": "M495",
         "name": "Firebox M495",
         "family": "M-Series",
@@ -785,7 +785,7 @@
         }
       },
       {
-        "id": 896,
+        "id": 986,
         "slug": "M5800",
         "name": "Firebox M5800",
         "family": "M-Series",
@@ -801,7 +801,7 @@
         }
       },
       {
-        "id": 894,
+        "id": 984,
         "slug": "M590",
         "name": "Firebox M590",
         "family": "M-Series",
@@ -817,7 +817,7 @@
         }
       },
       {
-        "id": 915,
+        "id": 1005,
         "slug": "M595",
         "name": "Firebox M595",
         "family": "M-Series",
@@ -833,7 +833,7 @@
         }
       },
       {
-        "id": 892,
+        "id": 982,
         "slug": "M690",
         "name": "Firebox M690",
         "family": "M-Series",
@@ -849,7 +849,7 @@
         }
       },
       {
-        "id": 914,
+        "id": 1004,
         "slug": "M695",
         "name": "Firebox M695",
         "family": "M-Series",
@@ -870,7 +870,7 @@
     "label": "MDR & NDR",
     "products": [
       {
-        "id": 875,
+        "id": 965,
         "slug": "Core MDR",
         "name": "Core MDR",
         "family": "MDR & NDR",
@@ -886,7 +886,7 @@
         }
       },
       {
-        "id": 885,
+        "id": 975,
         "slug": "Core MDR for Microsoft",
         "name": "Core MDR for Microsoft",
         "family": "MDR & NDR",
@@ -902,7 +902,7 @@
         }
       },
       {
-        "id": 924,
+        "id": 1014,
         "slug": "Open MDR",
         "name": "Open MDR",
         "family": "MDR & NDR",
@@ -918,7 +918,7 @@
         }
       },
       {
-        "id": 883,
+        "id": 973,
         "slug": "Orion",
         "name": "Orion",
         "family": "MDR & NDR",
@@ -934,7 +934,7 @@
         }
       },
       {
-        "id": 925,
+        "id": 1015,
         "slug": "ThreatSync Open",
         "name": "ThreatSync Open",
         "family": "MDR & NDR",
@@ -950,7 +950,7 @@
         }
       },
       {
-        "id": 879,
+        "id": 969,
         "slug": "ThreatSync+ NDR",
         "name": "ThreatSync+ NDR",
         "family": "MDR & NDR",
@@ -966,7 +966,7 @@
         }
       },
       {
-        "id": 880,
+        "id": 970,
         "slug": "ThreatSync+ SaaS",
         "name": "ThreatSync+ SaaS",
         "family": "MDR & NDR",
@@ -982,7 +982,7 @@
         }
       },
       {
-        "id": 903,
+        "id": 993,
         "slug": "Total MDR",
         "name": "Total MDR",
         "family": "MDR & NDR",
@@ -998,7 +998,7 @@
         }
       },
       {
-        "id": 911,
+        "id": 1001,
         "slug": "Total NDR",
         "name": "Total NDR",
         "family": "MDR & NDR",
@@ -1014,7 +1014,7 @@
         }
       },
       {
-        "id": 878,
+        "id": 968,
         "slug": "Compliance Reporting",
         "name": "Compliance Reporting",
         "family": "Reporting & Visibility",
@@ -1030,7 +1030,7 @@
         }
       },
       {
-        "id": 866,
+        "id": 956,
         "slug": "Dimension Command",
         "name": "Dimension Command",
         "family": "Reporting & Visibility",
@@ -1040,7 +1040,7 @@
         "appliance": null
       },
       {
-        "id": 881,
+        "id": 971,
         "slug": "SIEMFeeder",
         "name": "SIEMFeeder",
         "family": "Reporting & Visibility",
@@ -1061,7 +1061,7 @@
     "label": "Appliance Renewals",
     "products": [
       {
-        "id": 856,
+        "id": 946,
         "slug": "MSSP Points",
         "name": "MSSP Points",
         "family": "MSSP",
@@ -1071,7 +1071,7 @@
         "appliance": null
       },
       {
-        "id": 939,
+        "id": 1029,
         "slug": "M270",
         "name": "Firebox M270",
         "family": "Renewals",
@@ -1081,7 +1081,7 @@
         "appliance": null
       },
       {
-        "id": 935,
+        "id": 1025,
         "slug": "M370",
         "name": "Firebox M370",
         "family": "Renewals",
@@ -1091,7 +1091,7 @@
         "appliance": null
       },
       {
-        "id": 934,
+        "id": 1024,
         "slug": "M440",
         "name": "Firebox M440",
         "family": "Renewals",
@@ -1101,7 +1101,7 @@
         "appliance": null
       },
       {
-        "id": 929,
+        "id": 1019,
         "slug": "M4600",
         "name": "Firebox M4600",
         "family": "Renewals",
@@ -1111,7 +1111,7 @@
         "appliance": null
       },
       {
-        "id": 936,
+        "id": 1026,
         "slug": "M470",
         "name": "Firebox M470",
         "family": "Renewals",
@@ -1121,7 +1121,7 @@
         "appliance": null
       },
       {
-        "id": 933,
+        "id": 1023,
         "slug": "M5600",
         "name": "Firebox M5600",
         "family": "Renewals",
@@ -1131,7 +1131,7 @@
         "appliance": null
       },
       {
-        "id": 930,
+        "id": 1020,
         "slug": "M570",
         "name": "Firebox M570",
         "family": "Renewals",
@@ -1141,7 +1141,7 @@
         "appliance": null
       },
       {
-        "id": 931,
+        "id": 1021,
         "slug": "M670",
         "name": "Firebox M670",
         "family": "Renewals",
@@ -1151,7 +1151,7 @@
         "appliance": null
       },
       {
-        "id": 938,
+        "id": 1028,
         "slug": "T15",
         "name": "Firebox T15",
         "family": "Renewals",
@@ -1161,7 +1161,7 @@
         "appliance": null
       },
       {
-        "id": 932,
+        "id": 1022,
         "slug": "T15-W",
         "name": "Firebox T15-W",
         "family": "Renewals",
@@ -1171,7 +1171,7 @@
         "appliance": null
       },
       {
-        "id": 941,
+        "id": 1031,
         "slug": "T20",
         "name": "Firebox T20",
         "family": "Renewals",
@@ -1181,7 +1181,7 @@
         "appliance": null
       },
       {
-        "id": 940,
+        "id": 1030,
         "slug": "T20-W",
         "name": "Firebox T20-W",
         "family": "Renewals",
@@ -1191,7 +1191,7 @@
         "appliance": null
       },
       {
-        "id": 937,
+        "id": 1027,
         "slug": "T35",
         "name": "Firebox T35",
         "family": "Renewals",
@@ -1201,7 +1201,7 @@
         "appliance": null
       },
       {
-        "id": 943,
+        "id": 1033,
         "slug": "T40",
         "name": "Firebox T40",
         "family": "Renewals",
@@ -1211,7 +1211,7 @@
         "appliance": null
       },
       {
-        "id": 944,
+        "id": 1034,
         "slug": "T40-W",
         "name": "Firebox T40-W",
         "family": "Renewals",
@@ -1221,7 +1221,7 @@
         "appliance": null
       },
       {
-        "id": 945,
+        "id": 1035,
         "slug": "T45",
         "name": "Firebox T45",
         "family": "Renewals",
@@ -1231,7 +1231,7 @@
         "appliance": null
       },
       {
-        "id": 942,
+        "id": 1032,
         "slug": "T80",
         "name": "Firebox T80",
         "family": "Renewals",
@@ -1246,7 +1246,7 @@
     "label": "FireboxV Virtual Appliances",
     "products": [
       {
-        "id": 863,
+        "id": 953,
         "slug": "FireboxV Large",
         "name": "FireboxV Large",
         "family": "Virtual",
@@ -1256,7 +1256,7 @@
         "appliance": null
       },
       {
-        "id": 862,
+        "id": 952,
         "slug": "FireboxV Medium",
         "name": "FireboxV Medium",
         "family": "Virtual",
@@ -1266,7 +1266,7 @@
         "appliance": null
       },
       {
-        "id": 882,
+        "id": 972,
         "slug": "FireboxV Micro",
         "name": "FireboxV Micro",
         "family": "Virtual",
@@ -1276,7 +1276,7 @@
         "appliance": null
       },
       {
-        "id": 861,
+        "id": 951,
         "slug": "FireboxV Small",
         "name": "FireboxV Small",
         "family": "Virtual",
@@ -1286,7 +1286,7 @@
         "appliance": null
       },
       {
-        "id": 864,
+        "id": 954,
         "slug": "FireboxV XLarge",
         "name": "FireboxV XLarge",
         "family": "Virtual",

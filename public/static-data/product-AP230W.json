@@ -1,5 +1,5 @@
 {
-  "id": 893,
+  "id": 983,
   "slug": "AP230W",
   "name": "WatchGuard AP230W",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Wall-plate AP with built-in switch for hospitality",
   "image_file": "AP230W.jpg",
   "appliance": {
-    "id": 15903,
+    "id": 17507,
     "sku_code": "WGA230000",
     "full_sku": "NWG-WGA230000",
     "name": "WatchGuard AP230W Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 15762,
+      "id": 17366,
       "sku_code": "WGAP23022101",
       "full_sku": "NWG-WGAP23022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 1-year",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 15970,
+      "id": 17574,
       "sku_code": "WGA23022101",
       "full_sku": "NWG-WGA23022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 1-year (License ONLY; HW SKU: WGA230000)",
@@ -44,7 +44,7 @@
       "term_years": 1
     },
     {
-      "id": 16031,
+      "id": 17635,
       "sku_code": "WGAP23000621",
       "full_sku": "NWG-WGAP23000621",
       "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 1-yr for AP230W",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 16032,
+      "id": 17636,
       "sku_code": "WGAP23000622",
       "full_sku": "NWG-WGAP23000622",
       "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 2-yr for AP230W",
@@ -68,7 +68,7 @@
       "term_years": 2
     },
     {
-      "id": 16196,
+      "id": 17800,
       "sku_code": "WGAP23022102",
       "full_sku": "NWG-WGAP23022102",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 2-year",
@@ -80,7 +80,7 @@
       "term_years": 2
     },
     {
-      "id": 15766,
+      "id": 17370,
       "sku_code": "WGAP23000623",
       "full_sku": "NWG-WGAP23000623",
       "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 3-yr for AP230W",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 15804,
+      "id": 17408,
       "sku_code": "WGAP23022103",
       "full_sku": "NWG-WGAP23022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 3-year",
@@ -104,7 +104,7 @@
       "term_years": 3
     },
     {
-      "id": 15930,
+      "id": 17534,
       "sku_code": "WGA23022103",
       "full_sku": "NWG-WGA23022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 3-year (License ONLY; HW SKU: WGA230000)",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 15884,
+      "id": 17488,
       "sku_code": "WGAP23000624",
       "full_sku": "NWG-WGAP23000624",
       "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 4-yr for AP230W",
@@ -128,7 +128,7 @@
       "term_years": 4
     },
     {
-      "id": 16098,
+      "id": 17702,
       "sku_code": "WGAP23022104",
       "full_sku": "NWG-WGAP23022104",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 4-year",
@@ -140,7 +140,7 @@
       "term_years": 4
     },
     {
-      "id": 15508,
+      "id": 17112,
       "sku_code": "WGA23022105",
       "full_sku": "NWG-WGA23022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 5-year (License ONLY; HW SKU: WGA230000)",
@@ -152,7 +152,7 @@
       "term_years": 5
     },
     {
-      "id": 15767,
+      "id": 17371,
       "sku_code": "WGAP23000625",
       "full_sku": "NWG-WGAP23000625",
       "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 5-yr for AP230W",
@@ -164,7 +164,7 @@
       "term_years": 5
     },
     {
-      "id": 15805,
+      "id": 17409,
       "sku_code": "WGAP23022105",
       "full_sku": "NWG-WGAP23022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 5-year",
@@ -176,7 +176,7 @@
       "term_years": 5
     },
     {
-      "id": 15450,
+      "id": 17054,
       "sku_code": "WGA23022001",
       "full_sku": "NWG-WGA23022001",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 1-year (License ONLY; HW SKU: WGA230000)",
@@ -188,7 +188,7 @@
       "term_years": 1
     },
     {
-      "id": 15501,
+      "id": 17105,
       "sku_code": "WGA23022003",
       "full_sku": "NWG-WGA23022003",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 3-year (License ONLY; HW SKU: WGA230000)",
@@ -200,7 +200,7 @@
       "term_years": 3
     },
     {
-      "id": 15809,
+      "id": 17413,
       "sku_code": "WGA23000503",
       "full_sku": "NWG-WGA23000503",
       "name": "USP Wi-Fi Management for WatchGuard AP230W NFR - 3-year (License ONLY; HW SKU: WGA230000)",
@@ -212,7 +212,7 @@
       "term_years": 3
     },
     {
-      "id": 16030,
+      "id": 17634,
       "sku_code": "WGAP23000503",
       "full_sku": "NWG-WGAP23000503",
       "name": "USP Wi-Fi Management for WatchGuard AP230W NFR - 3-year",
@@ -224,7 +224,7 @@
       "term_years": 3
     },
     {
-      "id": 15931,
+      "id": 17535,
       "sku_code": "WGA23022005",
       "full_sku": "NWG-WGA23022005",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 5-year (License ONLY; HW SKU: WGA230000)",

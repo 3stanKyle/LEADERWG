@@ -1,5 +1,5 @@
 {
-  "id": 897,
+  "id": 987,
   "slug": "M290",
   "name": "Firebox M290",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "Rackmount UTM for small-medium businesses",
   "image_file": "m295.jpg",
   "appliance": {
-    "id": 15518,
+    "id": 17122,
     "sku_code": "WGM290000",
     "full_sku": "NWG-WGM290000",
     "name": "WatchGuard Firebox M290 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 16344,
+      "id": 17948,
       "sku_code": "WGM29020801",
       "full_sku": "NWG-WGM29020801",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M290",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 16326,
+      "id": 17930,
       "sku_code": "WGM29020803",
       "full_sku": "NWG-WGM29020803",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M290",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 16458,
+      "id": 18062,
       "sku_code": "WGM29040201",
       "full_sku": "NWG-WGM29040201",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M290",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 16396,
+      "id": 18000,
       "sku_code": "WGM29040203",
       "full_sku": "NWG-WGM29040203",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M290",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 15481,
+      "id": 17085,
       "sku_code": "WGM2900071",
       "full_sku": "NWG-WGM2900071",
       "name": "WatchGuard Basic Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 15459,
+      "id": 17063,
       "sku_code": "WGM2900073",
       "full_sku": "NWG-WGM2900073",
       "name": "WatchGuard Basic Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 16464,
+      "id": 18068,
       "sku_code": "WGM29021801",
       "full_sku": "NWG-WGM29021801",
       "name": "WatchGuard Cloud 1-month data retention for M290 - 1-yr",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 16465,
+      "id": 18069,
       "sku_code": "WGM29021803",
       "full_sku": "NWG-WGM29021803",
       "name": "WatchGuard Cloud 1-month data retention for M290 - 3-yr",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 16341,
+      "id": 17945,
       "sku_code": "WGM29040701",
       "full_sku": "NWG-WGM29040701",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M290",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 16311,
+      "id": 17915,
       "sku_code": "WGM29040703",
       "full_sku": "NWG-WGM29040703",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M290",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 16125,
+      "id": 17729,
       "sku_code": "WGM2900061",
       "full_sku": "NWG-WGM2900061",
       "name": "WatchGuard Standard Support for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 15482,
+      "id": 17086,
       "sku_code": "WGM2900063",
       "full_sku": "NWG-WGM2900063",
       "name": "WatchGuard Standard Support for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 16378,
+      "id": 17982,
       "sku_code": "WGM29040101",
       "full_sku": "NWG-WGM29040101",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M290",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 16397,
+      "id": 18001,
       "sku_code": "WGM29040103",
       "full_sku": "NWG-WGM29040103",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M290",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 16314,
+      "id": 17918,
       "sku_code": "WGM29040301",
       "full_sku": "NWG-WGM29040301",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M290",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 16312,
+      "id": 17916,
       "sku_code": "WGM29040303",
       "full_sku": "NWG-WGM29040303",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M290",
@@ -212,7 +212,7 @@
       "term_years": 3
     },
     {
-      "id": 15539,
+      "id": 17143,
       "sku_code": "WGM2900081",
       "full_sku": "NWG-WGM2900081",
       "name": "WatchGuard Total Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
@@ -224,7 +224,7 @@
       "term_years": 1
     },
     {
-      "id": 15966,
+      "id": 17570,
       "sku_code": "WGM2900083",
       "full_sku": "NWG-WGM2900083",
       "name": "WatchGuard Total Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
@@ -238,7 +238,7 @@
   ],
   "tradeUps": [
     {
-      "id": 15536,
+      "id": 17140,
       "sku_code": "WGM2900203",
       "full_sku": "NWG-WGM2900203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
@@ -250,7 +250,7 @@
       "term_years": 3
     },
     {
-      "id": 15818,
+      "id": 17422,
       "sku_code": "WGM2900211",
       "full_sku": "NWG-WGM2900211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
@@ -262,7 +262,7 @@
       "term_years": 1
     },
     {
-      "id": 15505,
+      "id": 17109,
       "sku_code": "WGM2900213",
       "full_sku": "NWG-WGM2900213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M290 - 3-Year (License ONLY; HW SKU: WGM290000)",
@@ -276,7 +276,7 @@
   ],
   "highAvailability": [
     {
-      "id": 15926,
+      "id": 17530,
       "sku_code": "WGM2901601",
       "full_sku": "NWG-WGM2901601",
       "name": "WatchGuard High Availability for M290 - 1-Year (License ONLY; HW SKU: WGM290000)",
@@ -288,7 +288,7 @@
       "term_years": 1
     },
     {
-      "id": 15923,
+      "id": 17527,
       "sku_code": "WGM2901603",
       "full_sku": "NWG-WGM2901603",
       "name": "WatchGuard High Availability for M290 - 3-Year (License ONLY; HW SKU: WGM290000)",

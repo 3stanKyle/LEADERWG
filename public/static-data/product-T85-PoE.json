@@ -1,5 +1,5 @@
 {
-  "id": 902,
+  "id": 992,
   "slug": "T85-PoE",
   "name": "Firebox T85-PoE",
   "family": "T-Series",
@@ -7,7 +7,7 @@
   "description": "Top-of-range tabletop firewall with PoE for busy branch offices",
   "image_file": null,
   "appliance": {
-    "id": 15493,
+    "id": 17097,
     "sku_code": "WGT85000-AU",
     "full_sku": "NWG-WGT85000-AU",
     "name": "WatchGuard Firebox T85-PoE Appliance Only (AU) – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 16425,
+      "id": 18029,
       "sku_code": "WGT85171",
       "full_sku": "NWG-WGT85171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T85-PoE",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 16418,
+      "id": 18022,
       "sku_code": "WGT85173",
       "full_sku": "NWG-WGT85173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T85-PoE",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 16426,
+      "id": 18030,
       "sku_code": "WGT85175",
       "full_sku": "NWG-WGT85175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T85-PoE",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 16427,
+      "id": 18031,
       "sku_code": "WGT85341",
       "full_sku": "NWG-WGT85341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T85-PoE",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 16421,
+      "id": 18025,
       "sku_code": "WGT85343",
       "full_sku": "NWG-WGT85343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T85-PoE",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 16481,
+      "id": 18085,
       "sku_code": "WGT85261",
       "full_sku": "NWG-WGT85261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T85-PoE",
@@ -92,7 +92,7 @@
       "term_years": 1
     },
     {
-      "id": 16362,
+      "id": 17966,
       "sku_code": "WGT85263",
       "full_sku": "NWG-WGT85263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T85-PoE",
@@ -104,7 +104,7 @@
       "term_years": 3
     },
     {
-      "id": 16359,
+      "id": 17963,
       "sku_code": "WGT85201",
       "full_sku": "NWG-WGT85201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T85-PoE",
@@ -116,7 +116,7 @@
       "term_years": 1
     },
     {
-      "id": 16480,
+      "id": 18084,
       "sku_code": "WGT85203",
       "full_sku": "NWG-WGT85203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T85-PoE",
@@ -128,7 +128,7 @@
       "term_years": 3
     },
     {
-      "id": 16428,
+      "id": 18032,
       "sku_code": "WGT85351",
       "full_sku": "NWG-WGT85351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T85-PoE",
@@ -140,7 +140,7 @@
       "term_years": 1
     },
     {
-      "id": 16475,
+      "id": 18079,
       "sku_code": "WGT85353",
       "full_sku": "NWG-WGT85353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T85-PoE",

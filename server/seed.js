@@ -241,7 +241,7 @@ const DESCRIPTIONS = {
   // New 2026 tabletop models
   'T25':     'Entry-level tabletop firewall for small and home offices',
   'T85-PoE': 'Top-of-range tabletop firewall with PoE for busy branch offices',
-  // 'NV5':  '<add description once the NV-series spec is confirmed>',
+  'NV5':     'Ultra-compact, enterprise-grade gateway tabletop appliance',
   // Virtual appliances
   'FireboxV Small':  'Virtual firewall for small cloud deployments',
   'FireboxV Medium': 'Virtual firewall for medium cloud workloads',
