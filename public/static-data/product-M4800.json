@@ -1,5 +1,5 @@
 {
-  "id": 985,
+  "id": 1165,
   "slug": "M4800",
   "name": "Firebox M4800",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "Data center firewall with 40Gb fiber options",
   "image_file": "m4800.jpg",
   "appliance": {
-    "id": 17057,
+    "id": 20264,
     "sku_code": "WGM48000",
     "full_sku": "NWG-WGM48000",
     "name": "WatchGuard Firebox M4800 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 18057,
+      "id": 21216,
       "sku_code": "WGM48171",
       "full_sku": "NWG-WGM48171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M4800",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 17900,
+      "id": 21059,
       "sku_code": "WGM48173",
       "full_sku": "NWG-WGM48173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M4800",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 17989,
+      "id": 21148,
       "sku_code": "WGM48331",
       "full_sku": "NWG-WGM48331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M4800",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 17960,
+      "id": 21119,
       "sku_code": "WGM48333",
       "full_sku": "NWG-WGM48333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M4800",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 17732,
+      "id": 20894,
       "sku_code": "WGM48000071",
       "full_sku": "NWG-WGM48000071",
       "name": "WatchGuard Basic Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 17733,
+      "id": 20895,
       "sku_code": "WGM48000073",
       "full_sku": "NWG-WGM48000073",
       "name": "WatchGuard Basic Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 17986,
+      "id": 21145,
       "sku_code": "WGM48221",
       "full_sku": "NWG-WGM48221",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M4800",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 18052,
+      "id": 21211,
       "sku_code": "WGM48223",
       "full_sku": "NWG-WGM48223",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M4800",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 17067,
+      "id": 20274,
       "sku_code": "WGM48000061",
       "full_sku": "NWG-WGM48000061",
       "name": "WatchGuard Standard Support for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 17092,
+      "id": 20297,
       "sku_code": "WGM48000063",
       "full_sku": "NWG-WGM48000063",
       "name": "WatchGuard Standard Support for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 17903,
+      "id": 21062,
       "sku_code": "WGM48201",
       "full_sku": "NWG-WGM48201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M4800",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 18058,
+      "id": 21217,
       "sku_code": "WGM48203",
       "full_sku": "NWG-WGM48203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M4800",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 17920,
+      "id": 21079,
       "sku_code": "WGM48351",
       "full_sku": "NWG-WGM48351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M4800",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 17927,
+      "id": 21086,
       "sku_code": "WGM48353",
       "full_sku": "NWG-WGM48353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M4800",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 17575,
+      "id": 20753,
       "sku_code": "WGM48000081",
       "full_sku": "NWG-WGM48000081",
       "name": "WatchGuard Total Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 17536,
+      "id": 20714,
       "sku_code": "WGM48000083",
       "full_sku": "NWG-WGM48000083",
       "name": "WatchGuard Total Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
@@ -214,7 +214,7 @@
   ],
   "tradeUps": [
     {
-      "id": 17154,
+      "id": 20358,
       "sku_code": "WGM48000201",
       "full_sku": "NWG-WGM48000201",
       "name": "Trade Up to WatchGuard Basic Security Suite for M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -226,7 +226,7 @@
       "term_years": 1
     },
     {
-      "id": 17116,
+      "id": 20321,
       "sku_code": "WGM48000203",
       "full_sku": "NWG-WGM48000203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
@@ -238,7 +238,7 @@
       "term_years": 3
     },
     {
-      "id": 17113,
+      "id": 20318,
       "sku_code": "WGM48000211",
       "full_sku": "NWG-WGM48000211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -250,7 +250,7 @@
       "term_years": 1
     },
     {
-      "id": 17427,
+      "id": 20615,
       "sku_code": "WGM48000213",
       "full_sku": "NWG-WGM48000213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",
@@ -264,7 +264,7 @@
   ],
   "highAvailability": [
     {
-      "id": 17068,
+      "id": 20275,
       "sku_code": "WGM480001601",
       "full_sku": "NWG-WGM480001601",
       "name": "WatchGuard High Availability for M4800 - 1-Year (License ONLY; HW SKU: WGM48000)",
@@ -276,7 +276,7 @@
       "term_years": 1
     },
     {
-      "id": 17537,
+      "id": 20715,
       "sku_code": "WGM480001603",
       "full_sku": "NWG-WGM480001603",
       "name": "WatchGuard High Availability for M4800 - 3-Year (License ONLY; HW SKU: WGM48000)",

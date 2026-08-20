@@ -73,7 +73,11 @@ function loadPriceMap() {
     if (fields.length < 8) continue;
 
     const fullSku = fields[0].trim();
-    const rrp = parsePrice(fields[7]);
+    // RRP is the LAST column. Read it positionally from the end rather than as
+    // fields[7]: if a supplier export ever drops the quoting around a description
+    // containing a comma, the row gains a field and fields[7] silently returns the
+    // dealer buy price instead — a ~20% understatement with no error.
+    const rrp = parsePrice(fields[fields.length - 1]);
     if (fullSku && rrp > 0) {
       priceMap.set(fullSku, Math.round(rrp));
     }

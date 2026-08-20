@@ -1,5 +1,5 @@
 {
-  "id": 1017,
+  "id": 1197,
   "slug": "NV5",
   "name": "NV5",
   "family": "Firebox NV-Series",
@@ -7,7 +7,7 @@
   "description": "Ultra-compact, enterprise-grade gateway tabletop appliance",
   "image_file": null,
   "appliance": {
-    "id": 17543,
+    "id": 20721,
     "sku_code": "WGNV5000",
     "full_sku": "NWG-WGNV5000",
     "name": "WatchGuard Firebox NV5 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 17560,
+      "id": 20738,
       "sku_code": "WGNV50065",
       "full_sku": "NWG-WGNV50065",
       "name": "WatchGuard Standard Support for Firebox NV5 - 5-Year (License ONLY; HW SKU: WGNV5000)",

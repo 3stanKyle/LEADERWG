@@ -2,7 +2,7 @@
   "label": "Firebox Tabletop (T-Series)",
   "products": [
     {
-      "id": 996,
+      "id": 1176,
       "slug": "T115-W",
       "name": "Firebox T115-W",
       "family": "T-Series",
@@ -187,17 +187,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1160023",
-          "full_sku": "NWG-WGT1160023",
-          "name": "WatchGuard NFR for Firebox T115-W - 3 Year (License ONLY; HW SKU: WGT116000)",
-          "msrp": 897,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?+3LMqU04LCU=JFFQWpjJ9vYijNhcZ2zT/Q==CaOTlrmMjwqcsJ9820xsH8QELZzcXg==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT116201",
           "full_sku": "NWG-WGT116201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T115-W",
@@ -310,7 +299,7 @@
       ]
     },
     {
-      "id": 998,
+      "id": 1178,
       "slug": "T125",
       "name": "Firebox T125",
       "family": "T-Series",
@@ -517,17 +506,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1250023",
-          "full_sku": "NWG-WGT1250023",
-          "name": "WatchGuard NFR for Firebox T125 - 3 Year (License ONLY; HW SKU: WGT125000)",
-          "msrp": 955,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?GltlVu3H7dE=uWhrM0PhIeoPKjmuD49qsg==QWHyoCMSXZyFyl8mJj4j8Kkz4hyyig==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT125201",
           "full_sku": "NWG-WGT125201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T125",
@@ -640,7 +618,7 @@
       ]
     },
     {
-      "id": 997,
+      "id": 1177,
       "slug": "T125-W",
       "name": "Firebox T125-W",
       "family": "T-Series",
@@ -847,17 +825,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1260023",
-          "full_sku": "NWG-WGT1260023",
-          "name": "WatchGuard NFR for Firebox T125-W - 3 Year (License ONLY; HW SKU: WGT126000)",
-          "msrp": 1154,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?cSyCsBh6Hbo=eNtXFAMjQoRsuWImQk7dTQ==1TyN7DqXJPmb1LSmnFFvGS3GfgsNsA==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT126201",
           "full_sku": "NWG-WGT126201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T125-W",
@@ -970,7 +937,7 @@
       ]
     },
     {
-      "id": 999,
+      "id": 1179,
       "slug": "T145",
       "name": "Firebox T145",
       "family": "T-Series",
@@ -1177,17 +1144,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1450023",
-          "full_sku": "NWG-WGT1450023",
-          "name": "WatchGuard NFR for Firebox T145 - 3 Year (License ONLY; HW SKU: WGT145000)",
-          "msrp": 1596,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?Q3PPH/oNCFw=X6uRR3WRh5eVXMqE6NN3Jg==rHZF5/jaeKJpG2K7/RlOTp+T9p6KVQ==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT145201",
           "full_sku": "NWG-WGT145201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T145",
@@ -1300,7 +1256,7 @@
       ]
     },
     {
-      "id": 1000,
+      "id": 1180,
       "slug": "T145-W",
       "name": "Firebox T145-W",
       "family": "T-Series",
@@ -1507,17 +1463,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1460023",
-          "full_sku": "NWG-WGT1460023",
-          "name": "WatchGuard NFR for Firebox T145-W - 3 Year (License ONLY; HW SKU: WGT146000)",
-          "msrp": 1935,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?zjXxpJf8BaU=YpVcmY9EsO/leHQEe/49YA==eyjHuI9ppL9zhDr8FehtIcPW1FyKgw==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT146201",
           "full_sku": "NWG-WGT146201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T145-W",
@@ -1630,7 +1575,7 @@
       ]
     },
     {
-      "id": 994,
+      "id": 1174,
       "slug": "T185",
       "name": "Firebox T185",
       "family": "T-Series",
@@ -1837,17 +1782,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT1850023",
-          "full_sku": "NWG-WGT1850023",
-          "name": "WatchGuard NFR for Firebox T185 - 3 Year (License ONLY; HW SKU: WGT185000)",
-          "msrp": 3519,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?4pDcyX7k/B8=2J/9nhTyYVKaatOt4AodFA==QG5N2JcIfijVnqFfCnM8yPy20u6jSA==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT185201",
           "full_sku": "NWG-WGT185201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T185",
@@ -1993,7 +1927,7 @@
       ]
     },
     {
-      "id": 981,
+      "id": 1161,
       "slug": "T25",
       "name": "Firebox T25",
       "family": "T-Series",
@@ -2178,17 +2112,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGT250023",
-          "full_sku": "NWG-WGT250023",
-          "name": "WatchGuard NFR for Firebox T25 - 3 Year (License ONLY; HW SKU: WGT25000)",
-          "msrp": 719,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?7D8Gtx41ly0=TNnmDoluDo56mpVhHo2LQQ==RdaF7eYSDxujj7gScZo6AdWS+k11",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGT25201",
           "full_sku": "NWG-WGT25201",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T25",
@@ -2301,7 +2224,7 @@
       ]
     },
     {
-      "id": 966,
+      "id": 1157,
       "slug": "T25-W",
       "name": "Firebox T25-W",
       "family": "T-Series",
@@ -2464,17 +2387,6 @@
           "term_years": null
         },
         {
-          "sku_code": "WGT26023",
-          "full_sku": "NWG-WGT26023",
-          "name": "WatchGuard Firebox T25-W NFR Hardware",
-          "msrp": 838,
-          "delivery_method": "Physical",
-          "url": "https://partner.leadersystems.com.au/products.html?4E9wkNe/KXs=bgleT2afn5MG9p1MWvK1Qw==lTj412IbFYlQnTEl78Rk3WTGaRg=",
-          "sku_type": "appliance",
-          "subscription_type": null,
-          "term_years": null
-        },
-        {
           "sku_code": "WGT26261",
           "full_sku": "NWG-WGT26261",
           "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T25-W",
@@ -2484,17 +2396,6 @@
           "sku_type": "subscription",
           "subscription_type": "Gold Support Renewal",
           "term_years": 1
-        },
-        {
-          "sku_code": "WGT260023",
-          "full_sku": "NWG-WGT260023",
-          "name": "WatchGuard NFR for Firebox T25-W - 3 Year (License ONLY; HW SKU: WGT26000)",
-          "msrp": 838,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?b7F6Mc6+Zmc=35eggvqPTVodBmx4hadVcg==3JvhlOHOCFMVYRZAf+WDEJF2ciuQ",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
         },
         {
           "sku_code": "WGT26201",
@@ -2609,7 +2510,7 @@
       ]
     },
     {
-      "id": 978,
+      "id": 1158,
       "slug": "T45-CW",
       "name": "Firebox T45-CW",
       "family": "T-Series",
@@ -2917,7 +2818,7 @@
       ]
     },
     {
-      "id": 980,
+      "id": 1160,
       "slug": "T45-PoE",
       "name": "Firebox T45-PoE",
       "family": "T-Series",
@@ -3214,7 +3115,7 @@
       ]
     },
     {
-      "id": 979,
+      "id": 1159,
       "slug": "T45-W-PoE",
       "name": "Firebox T45-W-PoE",
       "family": "T-Series",
@@ -3522,7 +3423,7 @@
       ]
     },
     {
-      "id": 992,
+      "id": 1172,
       "slug": "T85-PoE",
       "name": "Firebox T85-PoE",
       "family": "T-Series",
@@ -3665,7 +3566,7 @@
       ]
     },
     {
-      "id": 1017,
+      "id": 1197,
       "slug": "NV5",
       "name": "NV5",
       "family": "Firebox NV-Series",
@@ -3683,17 +3584,6 @@
           "sku_type": "appliance",
           "subscription_type": null,
           "term_years": null
-        },
-        {
-          "sku_code": "WGNV50025",
-          "full_sku": "NWG-WGNV50025",
-          "name": "WatchGuard NFR for Firebox NV5 - 5 Year (License ONLY; HW SKU: WGNV5000)",
-          "msrp": 378,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?lXhmJ/JdhF0=4qEk54QDaPUMcNr1bpgn5A==gldn1Wb0212AImzT7/w+Kyxg0ceY",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 5
         },
         {
           "sku_code": "WGNV50065",

@@ -1,5 +1,5 @@
 {
-  "id": 1032,
+  "id": 1212,
   "slug": "T80",
   "name": "Firebox T80",
   "family": "Renewals",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 17936,
+      "id": 21095,
       "sku_code": "WGT80171",
       "full_sku": "NWG-WGT80171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T80",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 17883,
+      "id": 21042,
       "sku_code": "WGT80341",
       "full_sku": "NWG-WGT80341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T80",
@@ -33,7 +33,7 @@
       "term_years": 1
     },
     {
-      "id": 18004,
+      "id": 21163,
       "sku_code": "WGT8021801",
       "full_sku": "NWG-WGT8021801",
       "name": "WatchGuard Cloud 1-month data retention for T80 - 1-yr",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 17884,
+      "id": 21043,
       "sku_code": "WGT80261",
       "full_sku": "NWG-WGT80261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T80",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 17935,
+      "id": 21094,
       "sku_code": "WGT80201",
       "full_sku": "NWG-WGT80201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T80",
@@ -69,7 +69,7 @@
       "term_years": 1
     },
     {
-      "id": 18037,
+      "id": 21196,
       "sku_code": "WGT80351",
       "full_sku": "NWG-WGT80351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T80",

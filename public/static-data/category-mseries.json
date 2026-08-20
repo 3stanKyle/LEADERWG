@@ -2,7 +2,7 @@
   "label": "Firebox Rackmount (M-Series)",
   "products": [
     {
-      "id": 987,
+      "id": 1167,
       "slug": "M290",
       "name": "Firebox M290",
       "family": "M-Series",
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "id": 1003,
+      "id": 1183,
       "slug": "M295",
       "name": "Firebox M295",
       "family": "M-Series",
@@ -440,17 +440,6 @@
           "term_years": 3
         },
         {
-          "sku_code": "WGM2950023",
-          "full_sku": "NWG-WGM2950023",
-          "name": "WatchGuard NFR for Firebox M295 - 3 Year (License ONLY; HW SKU: WGM295000)",
-          "msrp": 3759,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?2YB1Z3lAvx0=55JJp9A0QdbqTTYRd8MYQg==XRpsYAbxH3bzWlcoa2yEtmXl/CvopA==",
-          "sku_type": "other",
-          "subscription_type": null,
-          "term_years": 3
-        },
-        {
           "sku_code": "WGM29540101",
           "full_sku": "NWG-WGM29540101",
           "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M295",
@@ -563,7 +552,7 @@
       ]
     },
     {
-      "id": 977,
+      "id": 1156,
       "slug": "M390",
       "name": "Firebox M390",
       "family": "M-Series",
@@ -838,7 +827,7 @@
       ]
     },
     {
-      "id": 1006,
+      "id": 1186,
       "slug": "M395",
       "name": "Firebox M395",
       "family": "M-Series",
@@ -1113,7 +1102,7 @@
       ]
     },
     {
-      "id": 985,
+      "id": 1165,
       "slug": "M4800",
       "name": "Firebox M4800",
       "family": "M-Series",
@@ -1377,7 +1366,7 @@
       ]
     },
     {
-      "id": 1002,
+      "id": 1182,
       "slug": "M495",
       "name": "Firebox M495",
       "family": "M-Series",
@@ -1630,7 +1619,7 @@
       ]
     },
     {
-      "id": 986,
+      "id": 1166,
       "slug": "M5800",
       "name": "Firebox M5800",
       "family": "M-Series",
@@ -1894,7 +1883,7 @@
       ]
     },
     {
-      "id": 984,
+      "id": 1164,
       "slug": "M590",
       "name": "Firebox M590",
       "family": "M-Series",
@@ -2169,7 +2158,7 @@
       ]
     },
     {
-      "id": 1005,
+      "id": 1185,
       "slug": "M595",
       "name": "Firebox M595",
       "family": "M-Series",
@@ -2422,7 +2411,7 @@
       ]
     },
     {
-      "id": 982,
+      "id": 1162,
       "slug": "M690",
       "name": "Firebox M690",
       "family": "M-Series",
@@ -2697,7 +2686,7 @@
       ]
     },
     {
-      "id": 1004,
+      "id": 1184,
       "slug": "M695",
       "name": "Firebox M695",
       "family": "M-Series",

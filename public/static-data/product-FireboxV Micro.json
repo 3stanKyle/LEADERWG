@@ -1,5 +1,5 @@
 {
-  "id": 972,
+  "id": 1151,
   "slug": "FireboxV Micro",
   "name": "FireboxV Micro",
   "family": "Virtual",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 17707,
+      "id": 20870,
       "sku_code": "WGVMC171",
       "full_sku": "NWG-WGVMC171",
       "name": "WatchGuard APT Blocker 1-yr for FireboxV Micro",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 17047,
+      "id": 20254,
       "sku_code": "WGVMC173",
       "full_sku": "NWG-WGVMC173",
       "name": "WatchGuard APT Blocker 3-yr for FireboxV Micro",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 17025,
+      "id": 20232,
       "sku_code": "WGVMC331",
       "full_sku": "NWG-WGVMC331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for FireboxV Micro",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 17331,
+      "id": 20531,
       "sku_code": "WGVMC333",
       "full_sku": "NWG-WGVMC333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for FireboxV Micro",
@@ -57,7 +57,7 @@
       "term_years": 3
     },
     {
-      "id": 17017,
+      "id": 20224,
       "sku_code": "WGVMC031",
       "full_sku": "NWG-WGVMC031",
       "name": "WatchGuard FireboxV Micro with 1-yr Basic Security Suite",
@@ -69,7 +69,7 @@
       "term_years": 1
     },
     {
-      "id": 17018,
+      "id": 20225,
       "sku_code": "WGVMC033",
       "full_sku": "NWG-WGVMC033",
       "name": "WatchGuard FireboxV Micro with 3-yr Basic Security Suite",
@@ -81,7 +81,7 @@
       "term_years": 3
     },
     {
-      "id": 17005,
+      "id": 20212,
       "sku_code": "WGVMC261",
       "full_sku": "NWG-WGVMC261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for FireboxV Micro",
@@ -93,7 +93,7 @@
       "term_years": 1
     },
     {
-      "id": 17330,
+      "id": 20530,
       "sku_code": "WGVMC263",
       "full_sku": "NWG-WGVMC263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for FireboxV Micro",
@@ -105,7 +105,7 @@
       "term_years": 3
     },
     {
-      "id": 17329,
+      "id": 20529,
       "sku_code": "WGVMC001",
       "full_sku": "NWG-WGVMC001",
       "name": "WatchGuard FireboxV Micro with 1-yr Standard Support",
@@ -117,7 +117,7 @@
       "term_years": 1
     },
     {
-      "id": 17024,
+      "id": 20231,
       "sku_code": "WGVMC003",
       "full_sku": "NWG-WGVMC003",
       "name": "WatchGuard FireboxV Micro with 3-yr Standard Support",
@@ -129,7 +129,7 @@
       "term_years": 3
     },
     {
-      "id": 17528,
+      "id": 20707,
       "sku_code": "WGVMC201",
       "full_sku": "NWG-WGVMC201",
       "name": "WatchGuard Standard Support Renewal 1-yr for FireboxV Micro",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 17048,
+      "id": 20255,
       "sku_code": "WGVMC203",
       "full_sku": "NWG-WGVMC203",
       "name": "WatchGuard Standard Support Renewal 3-yr for FireboxV Micro",
@@ -153,7 +153,7 @@
       "term_years": 3
     },
     {
-      "id": 17529,
+      "id": 20708,
       "sku_code": "WGVMC351",
       "full_sku": "NWG-WGVMC351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for FireboxV Micro",
@@ -165,7 +165,7 @@
       "term_years": 1
     },
     {
-      "id": 17499,
+      "id": 20679,
       "sku_code": "WGVMC353",
       "full_sku": "NWG-WGVMC353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for FireboxV Micro",
@@ -177,7 +177,7 @@
       "term_years": 3
     },
     {
-      "id": 17009,
+      "id": 20216,
       "sku_code": "WGVMC641",
       "full_sku": "NWG-WGVMC641",
       "name": "WatchGuard FireboxV Micro with 1-yr Total Security Suite",
@@ -189,7 +189,7 @@
       "term_years": 1
     },
     {
-      "id": 17500,
+      "id": 20680,
       "sku_code": "WGVMC643",
       "full_sku": "NWG-WGVMC643",
       "name": "WatchGuard FireboxV Micro with 3-yr Total Security Suite",

@@ -1,5 +1,5 @@
 {
-  "id": 983,
+  "id": 1163,
   "slug": "AP230W",
   "name": "WatchGuard AP230W",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Wall-plate AP with built-in switch for hospitality",
   "image_file": "AP230W.jpg",
   "appliance": {
-    "id": 17507,
+    "id": 20687,
     "sku_code": "WGA230000",
     "full_sku": "NWG-WGA230000",
     "name": "WatchGuard AP230W Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,19 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 17366,
-      "sku_code": "WGAP23022101",
-      "full_sku": "NWG-WGAP23022101",
-      "name": "Standard Wi-Fi Management for WatchGuard AP230W - 1-year",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?WlWEONrjnYI=Bkr0iWEmXFbv1DiOtARr8w==PXw3E4D8DPZKnQ0Yiws1QTWOXHcIzcUZ",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 1
-    },
-    {
-      "id": 17574,
+      "id": 20752,
       "sku_code": "WGA23022101",
       "full_sku": "NWG-WGA23022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 1-year (License ONLY; HW SKU: WGA230000)",
@@ -44,67 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 17635,
-      "sku_code": "WGAP23000621",
-      "full_sku": "NWG-WGAP23000621",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 1-yr for AP230W",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?qcNoGMJew5g=bf5lmIdh2q5mUSDToMvTow==ZchesfLzVV+9wv85RzKz9EFL2zmnG2IF",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 1
-    },
-    {
-      "id": 17636,
-      "sku_code": "WGAP23000622",
-      "full_sku": "NWG-WGAP23000622",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 2-yr for AP230W",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?E7JIwo7Kceg=1qVmc3+MIAV3fjVCwDWAuQ==rXOL8lSHEyqckqWSIMUyogrEYLbqu4j5",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 2
-    },
-    {
-      "id": 17800,
-      "sku_code": "WGAP23022102",
-      "full_sku": "NWG-WGAP23022102",
-      "name": "Standard Wi-Fi Management for WatchGuard AP230W - 2-year",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?pmbNdgtwHMY=hMiQm8BYN41lUNyrQ9jyaA==qhurPEcJFzyom+nGpdXp1eCh1GdQlMv1",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 2
-    },
-    {
-      "id": 17370,
-      "sku_code": "WGAP23000623",
-      "full_sku": "NWG-WGAP23000623",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 3-yr for AP230W",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?ARuowFUMhdw=w+Y3tw6DV+x3W7u8+lnZNQ==LcOZOlexiywK97XeXGXWbxC5yS/qpMlW",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17408,
-      "sku_code": "WGAP23022103",
-      "full_sku": "NWG-WGAP23022103",
-      "name": "Standard Wi-Fi Management for WatchGuard AP230W - 3-year",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?4cm3oB09lHM=o6viPKUQ9iCUkyBMKFzRzA==dTegCmCb1tw7SYlL+HS26LA9ko2qJAbb",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17534,
+      "id": 20712,
       "sku_code": "WGA23022103",
       "full_sku": "NWG-WGA23022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 3-year (License ONLY; HW SKU: WGA230000)",
@@ -116,31 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 17488,
-      "sku_code": "WGAP23000624",
-      "full_sku": "NWG-WGAP23000624",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 4-yr for AP230W",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?i1bmHPRheMs=sLv/nOUsIYc9MmHQkpqYPw==TCcE41UX8edpwDfLUtqDGItBcrSbTHEZ",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 4
-    },
-    {
-      "id": 17702,
-      "sku_code": "WGAP23022104",
-      "full_sku": "NWG-WGAP23022104",
-      "name": "Standard Wi-Fi Management for WatchGuard AP230W - 4-year",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?oKCP1qy3kso=GYp5DFqE5HY988JzMfWNPQ==qDA92bHIE+uxRFbf9aSgD9j29mdtgOo4",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 4
-    },
-    {
-      "id": 17112,
+      "id": 20317,
       "sku_code": "WGA23022105",
       "full_sku": "NWG-WGA23022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP230W - 5-year (License ONLY; HW SKU: WGA230000)",
@@ -152,31 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 17371,
-      "sku_code": "WGAP23000625",
-      "full_sku": "NWG-WGAP23000625",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 5-yr for AP230W",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?4n3Afed+An8=d+eJxT7ZaQZmjtAMs7nNdw==xS01S+zTp53oFwszhto+cGTRc6lkNAOC",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 5
-    },
-    {
-      "id": 17409,
-      "sku_code": "WGAP23022105",
-      "full_sku": "NWG-WGAP23022105",
-      "name": "Standard Wi-Fi Management for WatchGuard AP230W - 5-year",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?fi0U8agQWe8=Uqan4PbOx1AEVUcchvVoig==0Sx+9HIRMNO1tk5ET6RKGEgjNvTO4/uK",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 5
-    },
-    {
-      "id": 17054,
+      "id": 20261,
       "sku_code": "WGA23022001",
       "full_sku": "NWG-WGA23022001",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 1-year (License ONLY; HW SKU: WGA230000)",
@@ -188,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 17105,
+      "id": 20310,
       "sku_code": "WGA23022003",
       "full_sku": "NWG-WGA23022003",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 3-year (License ONLY; HW SKU: WGA230000)",
@@ -200,31 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 17413,
-      "sku_code": "WGA23000503",
-      "full_sku": "NWG-WGA23000503",
-      "name": "USP Wi-Fi Management for WatchGuard AP230W NFR - 3-year (License ONLY; HW SKU: WGA230000)",
-      "msrp": 896,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?l5mqlAkZoyg=rG+zonrwK7yzT+7/ElOxfA==iLiATXkNxG4WVwFlaIW7SH8OMKRrSR0=",
-      "sku_type": "subscription",
-      "subscription_type": "USP Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17634,
-      "sku_code": "WGAP23000503",
-      "full_sku": "NWG-WGAP23000503",
-      "name": "USP Wi-Fi Management for WatchGuard AP230W NFR - 3-year",
-      "msrp": 896,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?L3/VCar21fw=DedQPc+/tFhf0oxkFH3+qg==5yz3V47PXK3jOo+daOyN5nrNPgRa/D82",
-      "sku_type": "subscription",
-      "subscription_type": "USP Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17535,
+      "id": 20713,
       "sku_code": "WGA23022005",
       "full_sku": "NWG-WGA23022005",
       "name": "USP Wi-Fi Management for WatchGuard AP230W - 5-year (License ONLY; HW SKU: WGA230000)",

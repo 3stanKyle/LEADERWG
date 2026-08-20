@@ -1,5 +1,5 @@
 {
-  "id": 950,
+  "id": 1130,
   "slug": "Firebox Cloud XLarge",
   "name": "Firebox Cloud XLarge",
   "family": "Cloud",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 16653,
+      "id": 19861,
       "sku_code": "WGCXL171",
       "full_sku": "NWG-WGCXL171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox Cloud XLarge",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 16702,
+      "id": 19910,
       "sku_code": "WGCXL173",
       "full_sku": "NWG-WGCXL173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox Cloud XLarge",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 16685,
+      "id": 19893,
       "sku_code": "WGCXL151",
       "full_sku": "NWG-WGCXL151",
       "name": "WatchGuard Application Control 1-yr for Firebox Cloud XLarge",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 16628,
+      "id": 19836,
       "sku_code": "WGCXL331",
       "full_sku": "NWG-WGCXL331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox Cloud XLarge",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 16627,
+      "id": 19835,
       "sku_code": "WGCXL333",
       "full_sku": "NWG-WGCXL333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox Cloud XLarge",
@@ -69,7 +69,7 @@
       "term_years": 3
     },
     {
-      "id": 16644,
+      "id": 19852,
       "sku_code": "WGCXL031",
       "full_sku": "NWG-WGCXL031",
       "name": "WatchGuard Firebox Cloud XLarge with 1-yr Basic Security Suite",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 16770,
+      "id": 19978,
       "sku_code": "WGCXL033",
       "full_sku": "NWG-WGCXL033",
       "name": "WatchGuard Firebox Cloud XLarge with 3-yr Basic Security Suite",
@@ -93,7 +93,7 @@
       "term_years": 3
     },
     {
-      "id": 16935,
+      "id": 20142,
       "sku_code": "WGCXL521",
       "full_sku": "NWG-WGCXL521",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud XLarge - 1-yr",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 16801,
+      "id": 20009,
       "sku_code": "WGCXL523",
       "full_sku": "NWG-WGCXL523",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud XLarge - 3-yr",
@@ -117,7 +117,7 @@
       "term_years": 3
     },
     {
-      "id": 16862,
+      "id": 20070,
       "sku_code": "WGCXL121",
       "full_sku": "NWG-WGCXL121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for Firebox Cloud XLarge",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 16731,
+      "id": 19939,
       "sku_code": "WGCXL261",
       "full_sku": "NWG-WGCXL261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox Cloud XLarge",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 16861,
+      "id": 20069,
       "sku_code": "WGCXL263",
       "full_sku": "NWG-WGCXL263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox Cloud XLarge",
@@ -153,7 +153,7 @@
       "term_years": 3
     },
     {
-      "id": 16684,
+      "id": 19892,
       "sku_code": "WGCXL131",
       "full_sku": "NWG-WGCXL131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for Firebox Cloud XLarge",
@@ -165,7 +165,7 @@
       "term_years": 1
     },
     {
-      "id": 16703,
+      "id": 19911,
       "sku_code": "WGCXL141",
       "full_sku": "NWG-WGCXL141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for Firebox Cloud XLarge",
@@ -177,7 +177,7 @@
       "term_years": 1
     },
     {
-      "id": 16887,
+      "id": 20095,
       "sku_code": "WGCXL001",
       "full_sku": "NWG-WGCXL001",
       "name": "WatchGuard Firebox Cloud XLarge with 1-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -189,7 +189,7 @@
       "term_years": 1
     },
     {
-      "id": 16645,
+      "id": 19853,
       "sku_code": "WGCXL003",
       "full_sku": "NWG-WGCXL003",
       "name": "WatchGuard Firebox Cloud XLarge with 3-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -201,7 +201,7 @@
       "term_years": 3
     },
     {
-      "id": 16730,
+      "id": 19938,
       "sku_code": "WGCXL201",
       "full_sku": "NWG-WGCXL201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox Cloud XLarge",
@@ -213,7 +213,7 @@
       "term_years": 1
     },
     {
-      "id": 16813,
+      "id": 20021,
       "sku_code": "WGCXL203",
       "full_sku": "NWG-WGCXL203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox Cloud XLarge",
@@ -225,7 +225,7 @@
       "term_years": 3
     },
     {
-      "id": 16812,
+      "id": 20020,
       "sku_code": "WGCXL351",
       "full_sku": "NWG-WGCXL351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox Cloud XLarge",
@@ -237,7 +237,7 @@
       "term_years": 1
     },
     {
-      "id": 16729,
+      "id": 19937,
       "sku_code": "WGCXL353",
       "full_sku": "NWG-WGCXL353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox Cloud XLarge",
@@ -249,7 +249,7 @@
       "term_years": 3
     },
     {
-      "id": 16711,
+      "id": 19919,
       "sku_code": "WGCXL641",
       "full_sku": "NWG-WGCXL641",
       "name": "WatchGuard Firebox Cloud XLarge with 1-yr Total Security Suite",
@@ -261,7 +261,7 @@
       "term_years": 1
     },
     {
-      "id": 16716,
+      "id": 19924,
       "sku_code": "WGCXL643",
       "full_sku": "NWG-WGCXL643",
       "name": "WatchGuard Firebox Cloud XLarge with 3-yr Total Security Suite",
@@ -273,7 +273,7 @@
       "term_years": 3
     },
     {
-      "id": 16666,
+      "id": 19874,
       "sku_code": "WGCXL101",
       "full_sku": "NWG-WGCXL101",
       "name": "WatchGuard WebBlocker 1-yr for Firebox Cloud XLarge",
@@ -287,7 +287,7 @@
   ],
   "tradeUps": [
     {
-      "id": 16917,
+      "id": 20125,
       "sku_code": "WGCXL061",
       "full_sku": "NWG-WGCXL061",
       "name": "Trade up to WatchGuard Firebox Cloud XLarge with 1-yr Basic Security Suite",
@@ -299,7 +299,7 @@
       "term_years": 1
     },
     {
-      "id": 16888,
+      "id": 20096,
       "sku_code": "WGCXL063",
       "full_sku": "NWG-WGCXL063",
       "name": "Trade up to WatchGuard Firebox Cloud XLarge with 3-yr Basic Security Suite",
@@ -311,7 +311,7 @@
       "term_years": 3
     },
     {
-      "id": 16916,
+      "id": 20124,
       "sku_code": "WGCXL671",
       "full_sku": "NWG-WGCXL671",
       "name": "Trade up to WatchGuard Firebox Cloud XLarge with 1-yr Total Security Suite",
@@ -323,7 +323,7 @@
       "term_years": 1
     },
     {
-      "id": 16780,
+      "id": 19988,
       "sku_code": "WGCXL673",
       "full_sku": "NWG-WGCXL673",
       "name": "Trade up to WatchGuard Firebox Cloud XLarge with 3-yr Total Security Suite",

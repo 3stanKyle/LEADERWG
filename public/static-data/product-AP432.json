@@ -1,5 +1,5 @@
 {
-  "id": 988,
+  "id": 1168,
   "slug": "AP432",
   "name": "WatchGuard AP432",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "High-density 4x4 AP for large campuses",
   "image_file": "AP432.jpg",
   "appliance": {
-    "id": 17121,
+    "id": 20326,
     "sku_code": "WGA432000",
     "full_sku": "NWG-WGA432000",
     "name": "WatchGuard AP432 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 17064,
+      "id": 20271,
       "sku_code": "WGA43222101",
       "full_sku": "NWG-WGA43222101",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 1-year (License ONLY; HW SKU: WGA432000)",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 17144,
+      "id": 20348,
       "sku_code": "WGA43222103",
       "full_sku": "NWG-WGA43222103",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 3-year (License ONLY; HW SKU: WGA432000)",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 17571,
+      "id": 20749,
       "sku_code": "WGA43222105",
       "full_sku": "NWG-WGA43222105",
       "name": "Standard Wi-Fi Management for WatchGuard AP432 - 5-year (License ONLY; HW SKU: WGA432000)",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 17110,
+      "id": 20315,
       "sku_code": "WGA43222001",
       "full_sku": "NWG-WGA43222001",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 1-year (License ONLY; HW SKU: WGA432000)",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 17423,
+      "id": 20613,
       "sku_code": "WGA43222003",
       "full_sku": "NWG-WGA43222003",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 3-year (License ONLY; HW SKU: WGA432000)",
@@ -80,19 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 17531,
-      "sku_code": "WGA43200503",
-      "full_sku": "NWG-WGA43200503",
-      "name": "USP Wi-Fi Management for WatchGuard AP432 NFR - 3-year (License ONLY; HW SKU: WGA432000)",
-      "msrp": 1169,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?obJm58/Hl9I=DwlmJKAYVovlaQN6hDzcbw==bi2zDjHsM3PqbN7D0ifuWEhraXBULSo=",
-      "sku_type": "subscription",
-      "subscription_type": "USP Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17145,
+      "id": 20349,
       "sku_code": "WGA43222005",
       "full_sku": "NWG-WGA43222005",
       "name": "USP Wi-Fi Management for WatchGuard AP432 - 5-year (License ONLY; HW SKU: WGA432000)",

@@ -3,9 +3,13 @@ import { ShoppingCartSimple } from '@phosphor-icons/react';
 import styles from '../ProductCatalog.module.css';
 
 const formatPrice = (p) => {
-  if (!p || p === 0) return '$0';
+  if (!p || p === 0) return 'TBC';
   return '$' + Math.round(p).toLocaleString('en-AU');
 };
+
+// A SKU with no price must not be quotable — an unpriced licence added to a
+// quote reaches the customer as a $0 line item.
+const isQuotable = (sub) => Boolean(sub) && sub.msrp > 0;
 
 const termLabel = (y) => (y === 1 ? '1 Year' : `${y} Years`);
 
@@ -84,7 +88,7 @@ export default function SubscriptionRow({
                 <button
                   className={styles.addSubBtn}
                   onClick={() => onAddSubscription(product)}
-                  disabled={!currentSub}
+                  disabled={!isQuotable(currentSub)}
                   title="Add subscription to quote cart"
                 >
                   <ShoppingCartSimple size={14} weight="bold" />

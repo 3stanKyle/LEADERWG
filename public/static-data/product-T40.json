@@ -1,5 +1,5 @@
 {
-  "id": 1033,
+  "id": 1213,
   "slug": "T40",
   "name": "Firebox T40",
   "family": "Renewals",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 18040,
+      "id": 21199,
       "sku_code": "WGT40171",
       "full_sku": "NWG-WGT40171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T40",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 17888,
+      "id": 21047,
       "sku_code": "WGT40341",
       "full_sku": "NWG-WGT40341",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T40",
@@ -33,7 +33,7 @@
       "term_years": 1
     },
     {
-      "id": 17937,
+      "id": 21096,
       "sku_code": "WGT40261",
       "full_sku": "NWG-WGT40261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T40",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 17938,
+      "id": 21097,
       "sku_code": "WGT40201",
       "full_sku": "NWG-WGT40201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T40",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 17887,
+      "id": 21046,
       "sku_code": "WGT40351",
       "full_sku": "NWG-WGT40351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T40",

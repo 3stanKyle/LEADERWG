@@ -1,5 +1,5 @@
 {
-  "id": 984,
+  "id": 1164,
   "slug": "M590",
   "name": "Firebox M590",
   "family": "M-Series",
@@ -7,7 +7,7 @@
   "description": "High-performance rackmount for large organizations",
   "image_file": "m595.jpg",
   "appliance": {
-    "id": 17712,
+    "id": 20875,
     "sku_code": "WGM590000",
     "full_sku": "NWG-WGM590000",
     "name": "WatchGuard Firebox M590 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 18066,
+      "id": 21225,
       "sku_code": "WGM59020801",
       "full_sku": "NWG-WGM59020801",
       "name": "WatchGuard APT Blocker 1-yr for Firebox M590",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 17907,
+      "id": 21066,
       "sku_code": "WGM59020803",
       "full_sku": "NWG-WGM59020803",
       "name": "WatchGuard APT Blocker 3-yr for Firebox M590",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 17979,
+      "id": 21138,
       "sku_code": "WGM59040201",
       "full_sku": "NWG-WGM59040201",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox M590",
@@ -56,7 +56,7 @@
       "term_years": 1
     },
     {
-      "id": 17908,
+      "id": 21067,
       "sku_code": "WGM59040203",
       "full_sku": "NWG-WGM59040203",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox M590",
@@ -68,7 +68,7 @@
       "term_years": 3
     },
     {
-      "id": 17420,
+      "id": 20610,
       "sku_code": "WGM5900071",
       "full_sku": "NWG-WGM5900071",
       "name": "WatchGuard Basic Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
@@ -80,7 +80,7 @@
       "term_years": 1
     },
     {
-      "id": 17107,
+      "id": 20312,
       "sku_code": "WGM5900073",
       "full_sku": "NWG-WGM5900073",
       "name": "WatchGuard Basic Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
@@ -92,7 +92,7 @@
       "term_years": 3
     },
     {
-      "id": 17974,
+      "id": 21133,
       "sku_code": "WGM59021801",
       "full_sku": "NWG-WGM59021801",
       "name": "WatchGuard Cloud 1-month data retention for M590 - 1-yr",
@@ -104,7 +104,7 @@
       "term_years": 1
     },
     {
-      "id": 17998,
+      "id": 21157,
       "sku_code": "WGM59021803",
       "full_sku": "NWG-WGM59021803",
       "name": "WatchGuard Cloud 1-month data retention for M590 - 3-yr",
@@ -116,7 +116,7 @@
       "term_years": 3
     },
     {
-      "id": 18065,
+      "id": 21224,
       "sku_code": "WGM59040701",
       "full_sku": "NWG-WGM59040701",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox M590",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 18060,
+      "id": 21219,
       "sku_code": "WGM59040703",
       "full_sku": "NWG-WGM59040703",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox M590",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 17421,
+      "id": 20611,
       "sku_code": "WGM5900061",
       "full_sku": "NWG-WGM5900061",
       "name": "WatchGuard Standard Support for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 17108,
+      "id": 20313,
       "sku_code": "WGM5900063",
       "full_sku": "NWG-WGM5900063",
       "name": "WatchGuard Standard Support for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 18061,
+      "id": 21220,
       "sku_code": "WGM59040101",
       "full_sku": "NWG-WGM59040101",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox M590",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 17999,
+      "id": 21158,
       "sku_code": "WGM59040103",
       "full_sku": "NWG-WGM59040103",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox M590",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 17928,
+      "id": 21087,
       "sku_code": "WGM59040301",
       "full_sku": "NWG-WGM59040301",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox M590",
@@ -200,7 +200,7 @@
       "term_years": 1
     },
     {
-      "id": 17942,
+      "id": 21101,
       "sku_code": "WGM59040303",
       "full_sku": "NWG-WGM59040303",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox M590",
@@ -212,7 +212,7 @@
       "term_years": 3
     },
     {
-      "id": 17526,
+      "id": 20705,
       "sku_code": "WGM5900081",
       "full_sku": "NWG-WGM5900081",
       "name": "WatchGuard Total Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
@@ -224,7 +224,7 @@
       "term_years": 1
     },
     {
-      "id": 17055,
+      "id": 20262,
       "sku_code": "WGM5900083",
       "full_sku": "NWG-WGM5900083",
       "name": "WatchGuard Total Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
@@ -238,7 +238,7 @@
   ],
   "tradeUps": [
     {
-      "id": 17525,
+      "id": 20704,
       "sku_code": "WGM5900203",
       "full_sku": "NWG-WGM5900203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
@@ -250,7 +250,7 @@
       "term_years": 3
     },
     {
-      "id": 17725,
+      "id": 20887,
       "sku_code": "WGM5900211",
       "full_sku": "NWG-WGM5900211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
@@ -262,7 +262,7 @@
       "term_years": 1
     },
     {
-      "id": 17724,
+      "id": 20886,
       "sku_code": "WGM5900213",
       "full_sku": "NWG-WGM5900213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox M590 - 3-Year (License ONLY; HW SKU: WGM590000)",
@@ -276,7 +276,7 @@
   ],
   "highAvailability": [
     {
-      "id": 17106,
+      "id": 20311,
       "sku_code": "WGM5901601",
       "full_sku": "NWG-WGM5901601",
       "name": "WatchGuard High Availability for M590 - 1-Year (License ONLY; HW SKU: WGM590000)",
@@ -288,7 +288,7 @@
       "term_years": 1
     },
     {
-      "id": 17419,
+      "id": 20609,
       "sku_code": "WGM5901603",
       "full_sku": "NWG-WGM5901603",
       "name": "WatchGuard High Availability for M590 - 3-Year (License ONLY; HW SKU: WGM590000)",

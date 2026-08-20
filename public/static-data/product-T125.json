@@ -1,5 +1,5 @@
 {
-  "id": 998,
+  "id": 1178,
   "slug": "T125",
   "name": "Firebox T125",
   "family": "T-Series",
@@ -7,7 +7,7 @@
   "description": "Compact UTM appliance for small business networks",
   "image_file": "T125.jpg",
   "appliance": {
-    "id": 17578,
+    "id": 20756,
     "sku_code": "WGT125000",
     "full_sku": "NWG-WGT125000",
     "name": "WatchGuard Firebox T125 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 18193,
+      "id": 21352,
       "sku_code": "WGT125171",
       "full_sku": "NWG-WGT125171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox T125",
@@ -32,7 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 18098,
+      "id": 21257,
       "sku_code": "WGT125173",
       "full_sku": "NWG-WGT125173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox T125",
@@ -44,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 18105,
+      "id": 21264,
       "sku_code": "WGT125175",
       "full_sku": "NWG-WGT125175",
       "name": "WatchGuard APT Blocker 5-yr for Firebox T125",
@@ -56,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 18165,
+      "id": 21324,
       "sku_code": "WGT125341.",
       "full_sku": "NWG-WGT125341.",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T125",
@@ -68,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 18159,
+      "id": 21318,
       "sku_code": "WGT125343",
       "full_sku": "NWG-WGT125343",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox T125",
@@ -80,7 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 17441,
+      "id": 20627,
       "sku_code": "WGT1250071",
       "full_sku": "NWG-WGT1250071",
       "name": "WatchGuard Basic Security Suite for Firebox T125 - 1-Year (License ONLY; HW SKU: WGT125000)",
@@ -92,7 +92,7 @@
       "term_years": 1
     },
     {
-      "id": 17442,
+      "id": 20628,
       "sku_code": "WGT1250073",
       "full_sku": "NWG-WGT1250073",
       "name": "WatchGuard Basic Security Suite for Firebox T125 - 3-Year (License ONLY; HW SKU: WGT125000)",
@@ -104,7 +104,7 @@
       "term_years": 3
     },
     {
-      "id": 17569,
+      "id": 20747,
       "sku_code": "WGT1250075",
       "full_sku": "NWG-WGT1250075",
       "name": "WatchGuard Basic Security Suite for Firebox T125 - 5-Year (License ONLY; HW SKU: WGT125000)",
@@ -116,7 +116,7 @@
       "term_years": 5
     },
     {
-      "id": 18118,
+      "id": 21277,
       "sku_code": "WGT12521801",
       "full_sku": "NWG-WGT12521801",
       "name": "WatchGuard Cloud 1-month data retention for T125 - 1-yr",
@@ -128,7 +128,7 @@
       "term_years": 1
     },
     {
-      "id": 18195,
+      "id": 21354,
       "sku_code": "WGT12521803",
       "full_sku": "NWG-WGT12521803",
       "name": "WatchGuard Cloud 1-month data retention for T125 - 3-yr",
@@ -140,7 +140,7 @@
       "term_years": 3
     },
     {
-      "id": 18146,
+      "id": 21305,
       "sku_code": "WGT125261",
       "full_sku": "NWG-WGT125261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T125",
@@ -152,7 +152,7 @@
       "term_years": 1
     },
     {
-      "id": 18196,
+      "id": 21355,
       "sku_code": "WGT125263",
       "full_sku": "NWG-WGT125263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox T125",
@@ -164,7 +164,7 @@
       "term_years": 3
     },
     {
-      "id": 17647,
+      "id": 20815,
       "sku_code": "WGT1250061",
       "full_sku": "NWG-WGT1250061",
       "name": "WatchGuard Standard Support for Firebox T125 - 1-Year (License ONLY; HW SKU: WGT125000)",
@@ -176,7 +176,7 @@
       "term_years": 1
     },
     {
-      "id": 17168,
+      "id": 20372,
       "sku_code": "WGT1250063",
       "full_sku": "NWG-WGT1250063",
       "name": "WatchGuard Standard Support for Firebox T125 - 3-Year (License ONLY; HW SKU: WGT125000)",
@@ -188,7 +188,7 @@
       "term_years": 3
     },
     {
-      "id": 17208,
+      "id": 20411,
       "sku_code": "WGT1250065",
       "full_sku": "NWG-WGT1250065",
       "name": "WatchGuard Standard Support for Firebox T125 - 5-Year (License ONLY; HW SKU: WGT125000)",
@@ -200,7 +200,7 @@
       "term_years": 5
     },
     {
-      "id": 18122,
+      "id": 21281,
       "sku_code": "WGT125201",
       "full_sku": "NWG-WGT125201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T125",
@@ -212,7 +212,7 @@
       "term_years": 1
     },
     {
-      "id": 18123,
+      "id": 21282,
       "sku_code": "WGT125203",
       "full_sku": "NWG-WGT125203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox T125",
@@ -224,7 +224,7 @@
       "term_years": 3
     },
     {
-      "id": 18147,
+      "id": 21306,
       "sku_code": "WGT125351",
       "full_sku": "NWG-WGT125351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T125",
@@ -236,7 +236,7 @@
       "term_years": 1
     },
     {
-      "id": 18197,
+      "id": 21356,
       "sku_code": "WGT125353",
       "full_sku": "NWG-WGT125353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox T125",
@@ -248,7 +248,7 @@
       "term_years": 3
     },
     {
-      "id": 17648,
+      "id": 20816,
       "sku_code": "WGT1250081",
       "full_sku": "NWG-WGT1250081",
       "name": "WatchGuard Total Security Suite for Firebox T125 - 1-Year (License ONLY; HW SKU: WGT125000)",
@@ -260,7 +260,7 @@
       "term_years": 1
     },
     {
-      "id": 17748,
+      "id": 20910,
       "sku_code": "WGT1250083",
       "full_sku": "NWG-WGT1250083",
       "name": "WatchGuard Total Security Suite for Firebox T125 - 3-Year (License ONLY; HW SKU: WGT125000)",
@@ -272,7 +272,7 @@
       "term_years": 3
     },
     {
-      "id": 17182,
+      "id": 20385,
       "sku_code": "WGT1250085",
       "full_sku": "NWG-WGT1250085",
       "name": "WatchGuard Total Security Suite for Firebox T125 - 5-Year (License ONLY; HW SKU: WGT125000)",
@@ -286,7 +286,7 @@
   ],
   "tradeUps": [
     {
-      "id": 17164,
+      "id": 20368,
       "sku_code": "WGT1250203",
       "full_sku": "NWG-WGT1250203",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T125 - 3-Year (License ONLY; HW SKU: WGT125000)",
@@ -298,7 +298,7 @@
       "term_years": 3
     },
     {
-      "id": 17644,
+      "id": 20813,
       "sku_code": "WGT1250205",
       "full_sku": "NWG-WGT1250205",
       "name": "Trade Up to WatchGuard Basic Security Suite for Firebox T125 - 5-Year (License ONLY; HW SKU: WGT125000)",
@@ -310,7 +310,7 @@
       "term_years": 5
     },
     {
-      "id": 17202,
+      "id": 20405,
       "sku_code": "WGT1250211",
       "full_sku": "NWG-WGT1250211",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T125 - 1-Year (License ONLY; HW SKU: WGT125000)",
@@ -322,7 +322,7 @@
       "term_years": 1
     },
     {
-      "id": 17439,
+      "id": 20625,
       "sku_code": "WGT1250213",
       "full_sku": "NWG-WGT1250213",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T125 - 3-Year (License ONLY; HW SKU: WGT125000)",
@@ -334,7 +334,7 @@
       "term_years": 3
     },
     {
-      "id": 17440,
+      "id": 20626,
       "sku_code": "WGT1250215",
       "full_sku": "NWG-WGT1250215",
       "name": "Trade Up to WatchGuard Total Security Suite for Firebox T125 - 5-Year (License ONLY; HW SKU: WGT125000)",

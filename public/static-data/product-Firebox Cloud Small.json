@@ -1,5 +1,5 @@
 {
-  "id": 947,
+  "id": 1127,
   "slug": "Firebox Cloud Small",
   "name": "Firebox Cloud Small",
   "family": "Cloud",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 16696,
+      "id": 19904,
       "sku_code": "WGCSM171",
       "full_sku": "NWG-WGCSM171",
       "name": "WatchGuard APT Blocker 1-yr for Firebox Cloud Small",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 16676,
+      "id": 19884,
       "sku_code": "WGCSM173",
       "full_sku": "NWG-WGCSM173",
       "name": "WatchGuard APT Blocker 3-yr for Firebox Cloud Small",
@@ -33,7 +33,7 @@
       "term_years": 3
     },
     {
-      "id": 16697,
+      "id": 19905,
       "sku_code": "WGCSM151",
       "full_sku": "NWG-WGCSM151",
       "name": "WatchGuard Application Control 1-yr for Firebox Cloud Small",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 16620,
+      "id": 19828,
       "sku_code": "WGCSM331",
       "full_sku": "NWG-WGCSM331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Small",
@@ -57,7 +57,7 @@
       "term_years": 1
     },
     {
-      "id": 16798,
+      "id": 20006,
       "sku_code": "WGCSM333",
       "full_sku": "NWG-WGCSM333",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Small",
@@ -69,7 +69,7 @@
       "term_years": 3
     },
     {
-      "id": 16708,
+      "id": 19916,
       "sku_code": "WGCSM031",
       "full_sku": "NWG-WGCSM031",
       "name": "WatchGuard Firebox Cloud Small with 1-yr Basic Security Suite",
@@ -81,7 +81,7 @@
       "term_years": 1
     },
     {
-      "id": 16693,
+      "id": 19901,
       "sku_code": "WGCSM033",
       "full_sku": "NWG-WGCSM033",
       "name": "WatchGuard Firebox Cloud Small with 3-yr Basic Security Suite",
@@ -93,7 +93,7 @@
       "term_years": 3
     },
     {
-      "id": 16933,
+      "id": 20140,
       "sku_code": "WGCSM521",
       "full_sku": "NWG-WGCSM521",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Small - 1-yr",
@@ -105,7 +105,7 @@
       "term_years": 1
     },
     {
-      "id": 16932,
+      "id": 20139,
       "sku_code": "WGCSM523",
       "full_sku": "NWG-WGCSM523",
       "name": "WatchGuard Cloud 1-month data retention for Firebox Cloud Small - 3-yr",
@@ -117,7 +117,7 @@
       "term_years": 3
     },
     {
-      "id": 16649,
+      "id": 19857,
       "sku_code": "WGCSM121",
       "full_sku": "NWG-WGCSM121",
       "name": "WatchGuard Gateway AntiVirus 1-yr for Firebox Cloud Small",
@@ -129,7 +129,7 @@
       "term_years": 1
     },
     {
-      "id": 16832,
+      "id": 20040,
       "sku_code": "WGCSM261",
       "full_sku": "NWG-WGCSM261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox Cloud Small",
@@ -141,7 +141,7 @@
       "term_years": 1
     },
     {
-      "id": 16675,
+      "id": 19883,
       "sku_code": "WGCSM263",
       "full_sku": "NWG-WGCSM263",
       "name": "WatchGuard Gold Support Renewal/Upgrade 3-yr for Firebox Cloud Small",
@@ -153,7 +153,7 @@
       "term_years": 3
     },
     {
-      "id": 16833,
+      "id": 20041,
       "sku_code": "WGCSM131",
       "full_sku": "NWG-WGCSM131",
       "name": "WatchGuard Intrusion Prevention Service 1-yr for Firebox Cloud Small",
@@ -165,7 +165,7 @@
       "term_years": 1
     },
     {
-      "id": 16724,
+      "id": 19932,
       "sku_code": "WGCSM141",
       "full_sku": "NWG-WGCSM141",
       "name": "WatchGuard Reputation Enabled Defense 1-yr for Firebox Cloud Small",
@@ -177,7 +177,7 @@
       "term_years": 1
     },
     {
-      "id": 16766,
+      "id": 19974,
       "sku_code": "WGCSM001",
       "full_sku": "NWG-WGCSM001",
       "name": "WatchGuard Firebox Cloud Small with 1-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -189,7 +189,7 @@
       "term_years": 1
     },
     {
-      "id": 16776,
+      "id": 19984,
       "sku_code": "WGCSM003",
       "full_sku": "NWG-WGCSM003",
       "name": "WatchGuard Firebox Cloud Small with 3-yr Standard Support - Only available to WGOne Silver/Gold Partners",
@@ -201,7 +201,7 @@
       "term_years": 3
     },
     {
-      "id": 16799,
+      "id": 20007,
       "sku_code": "WGCSM201",
       "full_sku": "NWG-WGCSM201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox Cloud Small",
@@ -213,7 +213,7 @@
       "term_years": 1
     },
     {
-      "id": 16621,
+      "id": 19829,
       "sku_code": "WGCSM203",
       "full_sku": "NWG-WGCSM203",
       "name": "WatchGuard Standard Support Renewal 3-yr for Firebox Cloud Small",
@@ -225,7 +225,7 @@
       "term_years": 3
     },
     {
-      "id": 16674,
+      "id": 19882,
       "sku_code": "WGCSM351",
       "full_sku": "NWG-WGCSM351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox Cloud Small",
@@ -237,7 +237,7 @@
       "term_years": 1
     },
     {
-      "id": 16831,
+      "id": 20039,
       "sku_code": "WGCSM353",
       "full_sku": "NWG-WGCSM353",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 3-yr for Firebox Cloud Small",
@@ -249,7 +249,7 @@
       "term_years": 3
     },
     {
-      "id": 16765,
+      "id": 19973,
       "sku_code": "WGCSM641",
       "full_sku": "NWG-WGCSM641",
       "name": "WatchGuard Firebox Cloud Small with 1-yr Total Security Suite",
@@ -261,7 +261,7 @@
       "term_years": 1
     },
     {
-      "id": 16751,
+      "id": 19959,
       "sku_code": "WGCSM643",
       "full_sku": "NWG-WGCSM643",
       "name": "WatchGuard Firebox Cloud Small with 3-yr Total Security Suite",
@@ -273,7 +273,7 @@
       "term_years": 3
     },
     {
-      "id": 16663,
+      "id": 19871,
       "sku_code": "WGCSM101",
       "full_sku": "NWG-WGCSM101",
       "name": "WatchGuard WebBlocker 1-yr for Firebox Cloud Small",
@@ -287,7 +287,7 @@
   ],
   "tradeUps": [
     {
-      "id": 16914,
+      "id": 20122,
       "sku_code": "WGCSM061",
       "full_sku": "NWG-WGCSM061",
       "name": "Trade up to WatchGuard Firebox Cloud Small with 1-yr Basic Security Suite",
@@ -299,7 +299,7 @@
       "term_years": 1
     },
     {
-      "id": 16777,
+      "id": 19985,
       "sku_code": "WGCSM063",
       "full_sku": "NWG-WGCSM063",
       "name": "Trade up to WatchGuard Firebox Cloud Small with 3-yr Basic Security Suite",
@@ -311,7 +311,7 @@
       "term_years": 3
     },
     {
-      "id": 16692,
+      "id": 19900,
       "sku_code": "WGCSM671",
       "full_sku": "NWG-WGCSM671",
       "name": "Trade up to WatchGuard Firebox Cloud Small with 1-yr Total Security Suite",
@@ -323,7 +323,7 @@
       "term_years": 1
     },
     {
-      "id": 16752,
+      "id": 19960,
       "sku_code": "WGCSM673",
       "full_sku": "NWG-WGCSM673",
       "name": "Trade up to WatchGuard Firebox Cloud Small with 3-yr Total Security Suite",

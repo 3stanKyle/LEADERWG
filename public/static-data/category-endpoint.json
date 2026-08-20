@@ -2,7 +2,7 @@
   "label": "Endpoint & Mobile",
   "products": [
     {
-      "id": 963,
+      "id": 1143,
       "slug": "Advanced Reporting Tool",
       "name": "Advanced Reporting Tool",
       "family": "Endpoint & Mobile",
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "id": 958,
+      "id": 1138,
       "slug": "DNSWatchGO",
       "name": "DNSWatchGO",
       "family": "Endpoint & Mobile",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "id": 1011,
+      "id": 1191,
       "slug": "Endpoint Security 360",
       "name": "Endpoint Security 360",
       "family": "Endpoint & Mobile",
@@ -493,22 +493,11 @@
           "sku_type": "per_user_subscription",
           "subscription_type": null,
           "term_years": 3
-        },
-        {
-          "sku_code": "WGESB30001",
-          "full_sku": "NWG-WGESB30001",
-          "name": "WatchGuard Endpoint Security 360 NFR - 1 year - 1+ licenses",
-          "msrp": 79,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?JDlJdasH944=nReeZZuS3licU2LszJMWng==O7o9fQr8cUDKXM3p5MqiC9kViPgtag==",
-          "sku_type": "per_user_subscription",
-          "subscription_type": null,
-          "term_years": 1
         }
       ]
     },
     {
-      "id": 1010,
+      "id": 1190,
       "slug": "Endpoint Security Basic",
       "name": "Endpoint Security Basic",
       "family": "Endpoint & Mobile",
@@ -669,22 +658,11 @@
           "sku_type": "per_user_subscription",
           "subscription_type": null,
           "term_years": 3
-        },
-        {
-          "sku_code": "WGESA30001",
-          "full_sku": "NWG-WGESA30001",
-          "name": "WatchGuard Endpoint Security Basic NFR - 1 year - 1+ licenses",
-          "msrp": 79,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?qubDgHctI4o=zmfWPrvrPt6cENtgBytt/Q==yyTNneBEGoG7HDldMOGillPezSIS5w==",
-          "sku_type": "per_user_subscription",
-          "subscription_type": null,
-          "term_years": 1
         }
       ]
     },
     {
-      "id": 1018,
+      "id": 1198,
       "slug": "Endpoint Security Data Retention",
       "name": "Endpoint Security Data Retention",
       "family": "Endpoint & Mobile",
@@ -717,7 +695,7 @@
       ]
     },
     {
-      "id": 1012,
+      "id": 1192,
       "slug": "Endpoint Security Elite",
       "name": "Endpoint Security Elite",
       "family": "Endpoint & Mobile",
@@ -878,22 +856,11 @@
           "sku_type": "per_user_subscription",
           "subscription_type": null,
           "term_years": 3
-        },
-        {
-          "sku_code": "WGESC30001",
-          "full_sku": "NWG-WGESC30001",
-          "name": "WatchGuard Endpoint Security Elite NFR - 1 year - 1+ licenses",
-          "msrp": 81,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?t67npewoWCo=KROoC8aPF2f5rfdFyc4ZgQ==E7zaPYAbD30UDGTNs/+0zJQ95t1JPA==",
-          "sku_type": "per_user_subscription",
-          "subscription_type": null,
-          "term_years": 1
         }
       ]
     },
     {
-      "id": 1013,
+      "id": 1193,
       "slug": "Endpoint Security Prime",
       "name": "Endpoint Security Prime",
       "family": "Endpoint & Mobile",
@@ -1054,22 +1021,11 @@
           "sku_type": "per_user_subscription",
           "subscription_type": null,
           "term_years": 3
-        },
-        {
-          "sku_code": "WGWEDP3001",
-          "full_sku": "NWG-WGWEDP3001",
-          "name": "WatchGuard Endpoint Security Prime NFR - 1 year - 1+ licenses",
-          "msrp": 79,
-          "delivery_method": "Electronic",
-          "url": "https://partner.leadersystems.com.au/products.html?yQXDicHLBSo=BikuFWYN0OvRcQX1wghXSA==RYBbl/Xo9WQAYjBspCDOxHr8HQ88RA==",
-          "sku_type": "per_user_subscription",
-          "subscription_type": null,
-          "term_years": 1
         }
       ]
     },
     {
-      "id": 1007,
+      "id": 1187,
       "slug": "Endpoint Security for Servers",
       "name": "Endpoint Security for Servers",
       "family": "Endpoint & Mobile",
@@ -1234,7 +1190,7 @@
       ]
     },
     {
-      "id": 964,
+      "id": 1144,
       "slug": "Full Encryption",
       "name": "Full Encryption",
       "family": "Endpoint & Mobile",
@@ -1399,7 +1355,7 @@
       ]
     },
     {
-      "id": 1008,
+      "id": 1188,
       "slug": "Managed Zero-Trust",
       "name": "Managed Zero-Trust",
       "family": "Endpoint & Mobile",
@@ -1509,7 +1465,7 @@
       ]
     },
     {
-      "id": 960,
+      "id": 1140,
       "slug": "Panda EPP+",
       "name": "Panda EPP+",
       "family": "Endpoint & Mobile",
@@ -1542,7 +1498,7 @@
       ]
     },
     {
-      "id": 961,
+      "id": 1141,
       "slug": "Passport",
       "name": "Passport",
       "family": "Endpoint & Mobile",
@@ -1707,7 +1663,7 @@
       ]
     },
     {
-      "id": 962,
+      "id": 1142,
       "slug": "Patch Management",
       "name": "Patch Management",
       "family": "Endpoint & Mobile",
@@ -1872,7 +1828,7 @@
       ]
     },
     {
-      "id": 1009,
+      "id": 1189,
       "slug": "Zero-Trust",
       "name": "Zero-Trust",
       "family": "Endpoint & Mobile",

@@ -1,5 +1,5 @@
 {
-  "id": 1027,
+  "id": 1207,
   "slug": "T35",
   "name": "Firebox T35",
   "family": "Renewals",
@@ -9,7 +9,7 @@
   "appliance": null,
   "subscriptions": [
     {
-      "id": 17926,
+      "id": 21085,
       "sku_code": "WG35R331",
       "full_sku": "NWG-WG35R331",
       "name": "WatchGuard Basic Security Suite Renewal/Upgrade 1-yr for Firebox T35-Rugged",
@@ -21,7 +21,7 @@
       "term_years": 1
     },
     {
-      "id": 17905,
+      "id": 21064,
       "sku_code": "WG35R261",
       "full_sku": "NWG-WG35R261",
       "name": "WatchGuard Gold Support Renewal/Upgrade 1-yr for Firebox T35-Rugged",
@@ -33,7 +33,7 @@
       "term_years": 1
     },
     {
-      "id": 17904,
+      "id": 21063,
       "sku_code": "WG35R201",
       "full_sku": "NWG-WG35R201",
       "name": "WatchGuard Standard Support Renewal 1-yr for Firebox T35-Rugged",
@@ -45,7 +45,7 @@
       "term_years": 1
     },
     {
-      "id": 17839,
+      "id": 20998,
       "sku_code": "WG35R351",
       "full_sku": "NWG-WG35R351",
       "name": "WatchGuard Total Security Suite Renewal/Upgrade 1-yr for Firebox T35-Rugged",

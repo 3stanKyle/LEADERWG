@@ -1,5 +1,5 @@
 {
-  "id": 990,
+  "id": 1170,
   "slug": "AP330",
   "name": "WatchGuard AP330",
   "family": "Access Points",
@@ -7,7 +7,7 @@
   "description": "Medium-density AP for retail and K-12 schools",
   "image_file": "AP330.jpg",
   "appliance": {
-    "id": 17403,
+    "id": 20596,
     "sku_code": "WGA330000",
     "full_sku": "NWG-WGA330000",
     "name": "WatchGuard AP330 Appliance Only – License Not Included (Requires Separate WG License Purchase)",
@@ -20,7 +20,7 @@
   },
   "subscriptions": [
     {
-      "id": 17148,
+      "id": 20352,
       "sku_code": "WGA33022101",
       "full_sku": "NWG-WGA33022101",
       "name": "Standard Wi-Fi Management for WatchGuard AP330 - 1-year (License ONLY; HW SKU: WGA330000)",
@@ -32,19 +32,7 @@
       "term_years": 1
     },
     {
-      "id": 17489,
-      "sku_code": "WGAP33000621",
-      "full_sku": "NWG-WGAP33000621",
-      "name": "WatchGuard Standard Wi-Fi Management Renewal/Upgrade 1-yr for AP330",
-      "msrp": 117,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?O+edP63baMc=O13elx6KCeuJKq5riq6wlA==sjsbjYXliWBBulldr2WYpAcjouoRneE3",
-      "sku_type": "subscription",
-      "subscription_type": "Standard Wi-Fi",
-      "term_years": 1
-    },
-    {
-      "id": 17066,
+      "id": 20273,
       "sku_code": "WGA33022103",
       "full_sku": "NWG-WGA33022103",
       "name": "Standard Wi-Fi Management for WatchGuard AP330 - 3-year (License ONLY; HW SKU: WGA330000)(License ONLY; HW SKU: WGA330000)",
@@ -56,7 +44,7 @@
       "term_years": 3
     },
     {
-      "id": 17091,
+      "id": 20296,
       "sku_code": "WGA33022105",
       "full_sku": "NWG-WGA33022105",
       "name": "Standard Wi-Fi Management for WatchGuard AP330 - 5-year (License ONLY; HW SKU: WGA330000)",
@@ -68,7 +56,7 @@
       "term_years": 5
     },
     {
-      "id": 17425,
+      "id": 20614,
       "sku_code": "WGA33022001",
       "full_sku": "NWG-WGA33022001",
       "name": "USP Wi-Fi Management for WatchGuard AP330 - 1-year (License ONLY; HW SKU: WGA330000)",
@@ -80,7 +68,7 @@
       "term_years": 1
     },
     {
-      "id": 17151,
+      "id": 20355,
       "sku_code": "WGA33022003",
       "full_sku": "NWG-WGA33022003",
       "name": "USP Wi-Fi Management for WatchGuard AP330 - 3-year (License ONLY; HW SKU: WGA330000)",
@@ -92,19 +80,7 @@
       "term_years": 3
     },
     {
-      "id": 17426,
-      "sku_code": "WGA33000503",
-      "full_sku": "NWG-WGA33000503",
-      "name": "USP Wi-Fi Management for WatchGuard AP330 NFR - 3-year (License ONLY; HW SKU: WGA330000)",
-      "msrp": 1014,
-      "delivery_method": "Electronic",
-      "url": "https://partner.leadersystems.com.au/products.html?IGzATAvbRVQ=n3o0Fbe5Ieu1EO7SI+ND9g==Bx9xWgdSLmR1ZB1jUawMY12Lnwq7aSQ=",
-      "sku_type": "subscription",
-      "subscription_type": "USP Wi-Fi",
-      "term_years": 3
-    },
-    {
-      "id": 17573,
+      "id": 20751,
       "sku_code": "WGA33022005",
       "full_sku": "NWG-WGA33022005",
       "name": "USP Wi-Fi Management for WatchGuard AP330 - 5-year (License ONLY; HW SKU: WGA330000)",
